@@ -72,10 +72,7 @@ class Error(Exception):
     pass
 class TooManyRequestsError(Error):
     pass
-client = pytumblr.TumblrRestClient('9qrx1tFz5fkXYRbyoxK2r4D5JKZNzVqkVxg7DEa7Wm4vzRmP2j',
-  'hpUYHxeDnuTL2sf76c9eoN8NqmS9mohPU7ltoGcXfXcClChWNd',
-  'CnxE2FveIxmr7WHUMGqZUIxo1NElIggaRWJoEIFeOPHbHwjAEw',
-  'QvQaJoUPeVVrkBhVvBvDqqULy6L81UPC6eJVYVkyC07lTGEvpg')
+client = pytumblr.TumblrRestClient('YOUR KEYS')
 
 #Make a list of all unique tags to keep feeding the function
 #There's one in there as a seed 
