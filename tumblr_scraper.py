@@ -81,16 +81,13 @@ class TooManyRequestsError(Error):
 #There's one in there as a seed 
 all_unique_tags = ['thinspo']
 
-os.chdir("C:\\Users\\User\\Downloads\\tumblrPostInfo")
+os.chdir("PATH TO YOUR DOWNLOADS\\tumblrPostInfo")
 
 #This isthe index along the list. Don't reset it since we want to keep moving within the list
 i=0
 
 #Authentication
-client = pytumblr.TumblrRestClient('9qrx1tFz5fkXYRbyoxK2r4D5JKZNzVqkVxg7DEa7Wm4vzRmP2j',
-  'hpUYHxeDnuTL2sf76c9eoN8NqmS9mohPU7ltoGcXfXcClChWNd',
-  'CnxE2FveIxmr7WHUMGqZUIxo1NElIggaRWJoEIFeOPHbHwjAEw',
-  'QvQaJoUPeVVrkBhVvBvDqqULy6L81UPC6eJVYVkyC07lTGEvpg')
+client = pytumblr.TumblrRestClient('YOUR KEYS')
 
 while i<len(all_unique_tags):
 
