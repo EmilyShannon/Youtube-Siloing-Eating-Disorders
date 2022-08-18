@@ -4,7 +4,7 @@ import ast
 import os
 
 #Will have TumblrPostsInfo folder from running TumblrScraper
-directory = os.fsencode("C:\\Users\\User\\Downloads\\tumblrPostInfo")
+directory = os.fsencode("PATH TO tumblrPostInfo FOLDER")
 os.chdir(directory)
 
 for file in os.listdir(directory):
@@ -16,7 +16,7 @@ for file in os.listdir(directory):
     if(filename.endswith(".json") and size != 0):
         
             
-            with open(f"C:\\Users\\User\\Downloads\\tumblrPostInfo\\{os.path.splitext(filename)[0]}.csv", 'a', encoding='utf-8') as csv_file:
+            with open(f"{os.path.splitext(filename)[0]}.csv", 'a', encoding='utf-8') as csv_file:
                 try:
                     writer = csv.writer(csv_file)
                    
