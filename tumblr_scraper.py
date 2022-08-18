@@ -4,7 +4,7 @@ import time
 import pytumblr
 import json as js
 
-#Collect posts under a given tag and print their urls
+#Collect posts under a given tag
 def get_all_notes_and_tags(client, 
                             tag:str,   
                             #count:int,
@@ -80,16 +80,13 @@ class TooManyRequestsError(Error):
 #There's one in there as a seed 
 all_unique_tags = ['thinspo']
 
-os.chdir("C:\\Users\\User\\Downloads\\tumblrPostInfo")
+os.chdir("YOUR PATH\\tumblrPostInfo")
 
-#This isthe index along the list. Don't reset it since we want to keep moving within the list
+#This is the index along the list. Don't reset it since we want to keep moving within the list
 i=0
 
 #Authentication
-client = pytumblr.TumblrRestClient('9qrx1tFz5fkXYRbyoxK2r4D5JKZNzVqkVxg7DEa7Wm4vzRmP2j',
-  'hpUYHxeDnuTL2sf76c9eoN8NqmS9mohPU7ltoGcXfXcClChWNd',
-  'CnxE2FveIxmr7WHUMGqZUIxo1NElIggaRWJoEIFeOPHbHwjAEw',
-  'QvQaJoUPeVVrkBhVvBvDqqULy6L81UPC6eJVYVkyC07lTGEvpg')
+client = pytumblr.TumblrRestClient('YOUR KEYS)
 
 while i<len(all_unique_tags):
 
@@ -98,8 +95,8 @@ while i<len(all_unique_tags):
         #Tracks how many requests have been sent to the server. Reset on each run
         count = 0
 
-        print('On tag: ', i)
-        print('Length of list: ', len(all_unique_tags))
+        #print('On tag: ', i)
+        #print('Length of list: ', len(all_unique_tags))
         
         #Only send 1000 requests per hpur
         while count<1000:
