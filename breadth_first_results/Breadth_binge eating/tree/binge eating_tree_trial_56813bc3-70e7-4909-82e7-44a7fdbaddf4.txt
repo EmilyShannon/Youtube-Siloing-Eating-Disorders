@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=wCcj-MdVYmM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=kU9BIxdfFFg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=DvspclLZfWU",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ZW3YIRvRcP4",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "301",
+            "content creator": "Victoria Garrick",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "ZW3YIRvRcP4",
+            "likes": "2,992 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Katelyn Cajigas\n1 year ago\nI really relate to not feeling hungry, but knowing my body needs to eat because if I don\u2019t eat I will probably binge eat later.\n281\nREPLY, Comment 2: Samantha Miller\n1 year ago\nLove how you didn\u2019t shy away from the fact that weird eating days are normal\n266\nREPLY, Comment 3: Sara\n1 year ago\nI\u2019ve never had a full blown eating disorder but I have recently had problems with my body and that had affected my relationship with food. But I found you on tiktok and you\u2019ve really helped me a lot, so thank you for all you do :)\n68\nREPLY",
+            "url": "https://www.youtube.com/watch?v=ZW3YIRvRcP4",
+            "video_length": 1208.601,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=iVAE51iZEDE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=a8uBtCKKJME",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=cmKmYVzO2KI&list=RDCMUCwiTOchWeKjrJZw7S1H__1g&start_radio=1&rv=cmKmYVzO2KI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=cmKmYVzO2KI",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "560",
+            "content creator": "Food Insider",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "cmKmYVzO2KI",
+            "likes": "7,148 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Ashley\n1 day ago\nIt be great if Joe visits the other hosts in their respective countries and tries out their fast food in-person to see how they compare to him with the US versions and/or go to franchises that's only available in those countries.\n262\nREPLY, Comment 2: Supermikes\n1 day ago (edited)\nOne of best episodes yet! This series would not be the same without Joe! He is so funny and brings a lot to the series and Nikhil is amazing as well! Love this series!\n171\nREPLY, Comment 3: Leekshika pinnamneni\n1 day ago\nNever went to Starbucks in India but I\u2019d like to try some of the unique items. The only time I do Starbucks is on a road trip or if there\u2019s no other option. I like to try the local chains whenever possible. I highly recommend coffee day if you go to India and in the United States, I recommend local coffee shops or donut shops. Best of all, make your own.\n43\nREPLY",
+            "url": "https://www.youtube.com/watch?v=cmKmYVzO2KI",
+            "video_length": 1832.581,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=CFfh_lu3e1E",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=nCw7xGw84a0&list=RDCMUCLTU1O0KOYY_QKw23uj5ddQ&start_radio=1&rv=nCw7xGw84a0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=urUEhty0VoE",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=nCw7xGw84a0",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "183",
+            "content creator": "Victoria Garrick",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "nCw7xGw84a0",
+            "likes": "1,532 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Pinned by Victoria Garrick\nEmma Kimbrel\n2 years ago\nThank you. This is something no one talks about - it\u2019s just \u201cways to get skinny\u201d \u201cways to not eat\u201d. I seriously adore you.\n158\nREPLY, Comment 2: 1add5\n2 years ago\nI love hearing this from someone who has actually gone through it. Probably the most helpful one! \n62\nREPLY, Comment 3: kennedy barker\n2 years ago (edited)\nI\u2019m not sure if you realize how much these videos help me and other people. You\u2019re the best Garrick\n47\nREPLY",
+            "url": "https://www.youtube.com/watch?v=nCw7xGw84a0",
+            "video_length": 830.981,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=O7QqKt1YQv8",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "492",
+        "content creator": "Victoria Garrick",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "O7QqKt1YQv8",
+        "likes": "5,518 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: Inez M\n2 years ago\nI\u2019m super interested in the video idea where you coach us through a day of intuitive eating!!!\n500\nREPLY, Comment 2: Sierra Stucky\n2 years ago\nWould love a \"how to\" on intuitive eating!! Being a college athlete and a recovering binge eater, your content is so refreshing and helpful!! Love all you do girl, keep crushing it :))).\n80\nREPLY, Comment 3: Brooklyn Van Zee\n2 years ago\nAs someone who has had an eating disorder, I appreciate this so much\n51\nREPLY",
+        "url": "https://www.youtube.com/watch?v=O7QqKt1YQv8",
+        "video_length": 1269.101,
+        "views": ""
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=X4Qm9cGRub0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=2ftjKrE9XS4",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=C3F3ZAltQ78",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=OAlyBWRmkxs",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "42",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "OAlyBWRmkxs",
+            "likes": "2,346 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: TheKitchenGirl\n2 years ago\nHUGE props to him for looking beyond what he was told and taught, for questioning what was considered \"right\" at that time! Wish there was more people like him in the medical field... My therapist used to so obviously look for any slight hint of fault in my mother/my parents when in reality, they are why I am on this recovery journey and why I keep going even after relapses!\n150\nREPLY, Comment 2: ohhruge\n1 year ago\nThis was the most clinically accurate and comprehensive take on eating disorders I've heard!\n29\nREPLY, Comment 3: april shepherd\n2 years ago\nHe is passionate and understanding.  I've witness first hand Dr. K treating people with eating disorders and he is very passionate about his work and he is so hands on with his patients that he gets to root of the problem  and he always say you can't take the eating disorder away from them but you can teach them how to control it while maintaining a healthy lifestyle.  He is amazing with the pediatrics and they are lucky to have such a passionate man.\n83\nREPLY",
+            "url": "https://www.youtube.com/watch?v=OAlyBWRmkxs",
+            "video_length": 1137.941,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=STMp6w38k3g",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=sWN13pKVp9s",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=M7hOpT0lPGI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lqbL-UhhyPk",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "584",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "lqbL-UhhyPk",
+            "likes": "6,592 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Brian Bouman\n6 years ago\nfinally a video about anorexia that actually is about anorexia instead of our low weight and not only about female anorexics as of females are the only one. I have been ignored so much about my eating disorder just for the fact that I am a guy. thank you!\n802\nREPLY, Comment 2: fadingintoastoria\n7 years ago\nI love that you were able to make jokes that were funny but not offensive. I really really enjoyed watching this. I've been struggling with anorexia for almost two years and it really is shocking how many people don't understand. I might show this to a few people. I think it could help. Thank you.\n492\nREPLY, Comment 3: Nyfriom\n6 years ago\nAm I the only one that thinks that they should teach about Eating Disorders on school, I think SO many lifes could be saved like this\n941\nREPLY",
+            "url": "https://www.youtube.com/watch?v=lqbL-UhhyPk",
+            "video_length": 952.301,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=H6n3iNh4XLI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "350",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "6CQyaeZWAXE",
+            "likes": "14,394 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Diya Chaklader\n2 years ago\nThe most unfair part of an eating disorder is that food doesn't look the same anymore. It turns into numbers on your phone or puke sitting in youe toilet bowl or an extra workout or just pure guilt\n1K\nREPLY, Comment 2: H Kale\n3 years ago\nIt took me 24 years to learn how to be kind to my body. Throughout the years I would go through phases of crash diets and then the polar opposite. I was so addicted to carbs and sugars. Two months ago I found the strength  to eat right and work out. This has been the hardest obstacle in my life and I am finally becoming the person I want to be. Sending nothing but love to those struggling.\n708\nREPLY, Comment 3: Johnny Cash\n3 years ago\nI was in the parking lot of a grocery store because I wanted to buy some chips while eating donuts at 12:30 am. I wanted to cry and just wanted to stop eating. I want a healthy relationship with food.\n1.5K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+            "video_length": 757.821,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=gZpcTVqpaPw",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "1,396",
+        "content creator": "TEDx Talks",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "gZpcTVqpaPw",
+        "likes": "47,836 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: Gina\n2 years ago\nI wish she\u2018d see this comment: THIS was the video that saved my life 2 years ago. I was anorexic and depressed. When I randomly watched this (I was actually looking for videos to trigger me) I cried and cried and cried and cried. And then It ALL CHANGED. This day honestly changed my life. I\u2018m healthy and happy now and I eat what and whenever I want \ufe0f\n5.8K\nREPLY, Comment 2: M M\n5 years ago\npowerful talk. she has a soothing and controlled voice. well delivered.\n6.3K\nREPLY, Comment 3: adagio\n5 years ago\nI sit here watching this knowing that tomorrow I'm going to be hospitalised for my eating disorder and telling myself that I'm going to make the most of this. I'm determined that this will be the turning point. I don't want to be sick anymore.\n4.1K\nREPLY",
+        "url": "https://www.youtube.com/watch?v=gZpcTVqpaPw",
+        "video_length": 1087.541,
+        "views": ""
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=63XsokRPV_Y",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xI8lLpYtQ6M",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=9GzEuEv7gII",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=TS09i1OZzWY",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "63",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "TS09i1OZzWY",
+            "likes": "2,031 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Jade Eliot\n3 years ago\nEvery word of this speech is deliberate and laden with meaning and every sentence is poetic without any sense of pretension... I'm in awe.\n162\nREPLY, Comment 2: Apocalypse575\n3 years ago\nFinally, someone speaks out about anorexia as other than a desire to be \"pretty\". Its a mental issue and often has to do with control and stress.\n153\nREPLY, Comment 3: derina hooks\n3 years ago\nWhen she said our silence literally kills... I got chills. Because it's true. Not speaking up about this keeping it silent only makes it worse.. like knowing you have cancer but refuses to do chemo... You'll just suffer and everyone around you will feel helpless..\n57\nREPLY",
+            "url": "https://www.youtube.com/watch?v=TS09i1OZzWY",
+            "video_length": 941.941,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=UEysOExcwrE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=3Q76l_4IDsA",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=veEQQ-N9xWU",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=GxI0ewBJdMo",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "126",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "GxI0ewBJdMo",
+            "likes": "5,136 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Tanya Smith\n4 years ago\n\"I skipped a few meals and I sat through the hunger & I realized it felt good to punish myself. I felt like it was just retribution for my flaws and my wrongdoings. But, it couldn't get rid of my self hatred\"  6:05\n558\nREPLY, Comment 2: Valerie Wills\n4 years ago\nFantastic talk....  my son nearly died from anorexia...  three years later, he still suffers but is slowly getting better.\n97\nREPLY, Comment 3: Lisa Turnbull\n5 years ago\nPsychologists listen up. This girl knows her stuff.\n563\nREPLY",
+            "url": "https://www.youtube.com/watch?v=GxI0ewBJdMo",
+            "video_length": 1159.301,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=2f04YNvslkM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=2RuCfTiCDjs",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=CFtsHf1lVI4",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=c_X_sPNUDes",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "4,000",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "c_X_sPNUDes",
+            "likes": "100,805 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Carina Oliveira\n3 years ago\nIn the middle of this talk, I received a call from a recruiter offering a great opportunity. No word of a lie. Signs are all around us, be thankful and give gratitude for every bit.\n3.2K\nREPLY, Comment 2: Jessica Koock\n1 month ago\nAs a teenager, I wrote \"life is a living conversation with a responsive universe\". Now in my 50's it is so good to be reminded. Thank you~\n633\nREPLY, Comment 3: Kabelo Thebeeagae\n1 year ago\nIf YouTube suggested this video , consider it  a sign from the universe. You are in the right path.\n1.2K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=c_X_sPNUDes",
+            "video_length": 1059.961,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=6sEsviBCvWo",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "80",
+        "content creator": "TEDx Talks",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "6sEsviBCvWo",
+        "likes": "2,170 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: Caroline Elise\n1 year ago\nPeyton was my roommate at residential in Arizona, she\u2019s so incredibly strong and such an amazing young women! Love you Peyton \n142\nREPLY, Comment 2: Compassionate Peer Counseling\n1 year ago\nI could relate to so much of this, especially the part about not being able to participate in gymnastics again. I also lost my ability to participate in my sport of distance running due to injury. Is still deeply emotionally painful and yet there is still so much life left to live without it. The best to you on your journey of recovery.\n56\nREPLY, Comment 3: Olivia Cesarano\n1 year ago\nTHIS WAS MY ROOMATE AT MY RESIDENTIAL HOME I LOVE YOU FOREVER PEYTON\n489\nREPLY",
+        "url": "https://www.youtube.com/watch?v=6sEsviBCvWo",
+        "video_length": 900,
+        "views": ""
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=ZslATXU5ejI",
+  "title": "",
+  "video": {
+    "ad": null,
+    "comments": "1,444",
+    "content creator": "Victoria Garrick",
+    "date": "",
+    "description": "",
+    "dislikes": " Unavailable",
+    "id": "ZslATXU5ejI",
+    "likes": "22,004 likes",
+    "title": "",
+    "top_3_comment": "Comment 1: SyMpHOny\n2 years ago\nwhen you said \u201cIm unhappy bc I eat and I eat bc im unhappy\u201d really hit me deep\n5K\nREPLY, Comment 2: Alejandra Quintanilla\n2 years ago\nMy mom doesn't know I have an ED. She's always commenting about how I've gained weight, and how I'm fat, and how I need to be skinny to be pretty. But her calling me fat, makes me sad which makes me want to eat. I'm so afraid of food but so drawn to it at the same time. I'll eat, even when I don't want to eat. I'll eat a lot one day, remember my mother's words, and not eat the next. I always feel not good enough, I feel so damn ugly. I've tried purging, but I'm also very afraid of throwing up so I couldn't go through with it. I'm trying to get better, but it's very very difficult for me. Especially since my mother's comments are a daily thing. I don't know what to do anymore.\n1.8K\nREPLY, Comment 3: Abby L\n2 years ago\ni'm crying right now because you're describing almost my everyday life for me and everything that i've been doing recently... except i'm not getting skinnier because i could go all day with only eating one meal, then once everyone is sleeping i'll eat three family size bags of chips. I just wish I could stop eating. I eat when i'm bored. When i'm angry, sad, happy, confused. I just can't stop and I hate myself for it\n828\nREPLY",
+    "url": "https://www.youtube.com/watch?v=ZslATXU5ejI",
+    "video_length": 1684.501,
+    "views": ""
+  }
+}

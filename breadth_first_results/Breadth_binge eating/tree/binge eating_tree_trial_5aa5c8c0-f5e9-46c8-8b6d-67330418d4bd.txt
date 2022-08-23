@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=TS09i1OZzWY",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=63XsokRPV_Y",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=GxI0ewBJdMo",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=3Q76l_4IDsA",
+          "title": "What Bulimia Taught Me. | Susannah Laing | TEDxCumbernauldWomen",
+          "video": {
+            "ad": null,
+            "comments": "86",
+            "content creator": "TEDx Talks",
+            "date": "Dec 8, 2020",
+            "description": "Susannah Laing shares a very powerful and articulate talk about what living with bulimia has taught her about fear, trauma, and being in a loving relationship with her body. Susannah was born in Troon, Scotland. She has travelled many  parts of the world formerly as a professional athlete and now professional actor. Susannah loves creating and draws from deep experiences from many challenges in her life. \nShe's fearlessly going to share on some hard hitting topics which aren't spoken about enough but affect many. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "3Q76l_4IDsA",
+            "likes": "1,484 likes",
+            "title": "What Bulimia Taught Me. | Susannah Laing | TEDxCumbernauldWomen",
+            "top_3_comment": "Comment 1: spacin_out\n1 year ago\nThis shook me to my core. Thank you for being brutally honest and sharing the horrid experience that is bulimia. As a bulimic myself I think there needs to be more representation like this in the media. Eating disorders aren't pretty little stick thin girls who say no to dinner. Not all the time.\n126\nREPLY, Comment 2: Zelly Sidi Zamzami\n1 year ago\nThank you for sharing this. As a male who is struggling with bullemia for years your story hit home. Sometimes i don't know how to handle emotional pain and throwing up is an easy way. I wish i could fully escape the obsession with my weight and my body image. It's hard a journey.\n69\nREPLY, Comment 3: I edited my username !!!\n1 year ago\nThank you  Im struggling with Bulimia right now and this really hit home.\n70\nREPLY",
+            "url": "https://www.youtube.com/watch?v=3Q76l_4IDsA",
+            "video_length": 901.761,
+            "views": "44,603 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=hdVwCdqgDJE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=OAlyBWRmkxs",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=v1TWvXwgKr0",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=7VZNGgDjsMo",
+          "title": "An Eating Disorder Specialist Explains How Trauma Creates Food Disorders",
+          "video": {
+            "ad": null,
+            "comments": "1,142",
+            "content creator": "VICE",
+            "date": "Oct 14, 2019",
+            "description": "As an eating disorder and trauma therapist, Ashley McHan sees patients with an array of issues with food. VICE speaks to her about our unhealthy relationship to food, how it contributes to disordered eating and the underlying causes, similarities and differences of various eating disorders.\n\nFor more information and resources about eating disorders including ARFID, please visit ",
+            "dislikes": " Unavailable",
+            "id": "7VZNGgDjsMo",
+            "likes": "20,388 likes",
+            "title": "An Eating Disorder Specialist Explains How Trauma Creates Food Disorders",
+            "top_3_comment": "Comment 1: Pinned by VICE\nVICE\n2 years ago\nFor more information and resources about eating disorders including ARFID, please visit https://www.allianceforeatingdisorders.com/\nWatch our full video on what it's like to live with an eating disorder: https://www.youtube.com/watch?v=v1TWvXwgKr0\n111\nREPLY, Comment 2: Alexandra S.\n2 years ago\nIt's ironic how much eating disorders are not actually about food.\n6.2K\nREPLY, Comment 3: K D\n2 years ago\nNot eating always made me feel in control when life felt the most out of control.\n3.3K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=7VZNGgDjsMo",
+            "video_length": 313.961,
+            "views": "868,820 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=UQOPLQF4FfU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Lb5-PH7YOS8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=XAAoooMVUk4",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=5j7Spf_FRls",
+          "title": "Self-Control Gone Awry: The Cognitive Neuroscience Behind Bulimia Nervosa",
+          "video": {
+            "ad": null,
+            "comments": "4",
+            "content creator": "Brain & Behavior Research Foundation",
+            "date": "Aug 11, 2021",
+            "description": "Each month The Brain & Behavior Research Foundation hosts a Meet the Scientist Webinar featuring a researcher discussing the latest findings related to mental illness. In August, 2021, the Foundation featured Dr. Laura A. Berner of the Icahn School of Medicine at Mount Sinai.\n\n\nDescription: Every day, our brains bring together information from our bodies and environments to control our eating behavior. In turn, eating, or not eating, influences our brains' self-control circuitry. Extremes in the control of eating behavior, as well as other non-food-related behaviors, characterize individuals with bulimia nervosa. Dr. Berner will discuss how self-control goes awry in bulimia nervosa; describe how these disturbances could promote symptoms like binge eating, purging, and dietary restriction; and review how disruptions in self-control circuitry may help us predict clinical outcome and develop new treatments.\n\nLearn more at ",
+            "dislikes": " Unavailable",
+            "id": "5j7Spf_FRls",
+            "likes": "135 likes",
+            "title": "Self-Control Gone Awry: The Cognitive Neuroscience Behind Bulimia Nervosa",
+            "top_3_comment": "Comment 1: Ruth Scott\n11 months ago\nDr IYAYA sir\n\nYou\u2019re such a delightful person and a dedicated doctor, you truly are an inspiration. doctor IYAYA on YouTube are always busy and in a hurry, but whenever I visit your clinic you give your sincere and undivided attention. Having an appointment is always worth the visit. You have no idea how much of a blessing you are to us. Thanks for being such an amazing doctor IYAYA on YouTube you are giving treatment for free to many of poor which really  appreciable.. we can say\n1\nREPLY, Comment 2: ishara Ranatunga\n6 months ago\nThank you\n1\nREPLY, Comment 3: John S\n11 months ago\nreboxetine?\n1\nREPLY",
+            "url": "https://www.youtube.com/watch?v=5j7Spf_FRls",
+            "video_length": 3650.961,
+            "views": "5,884 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=fEEhdyaJsao",
+      "title": "Bulimia Nervosa: Causes, Health Effects, and Treatment | Mass General Brigham",
+      "video": {
+        "ad": null,
+        "comments": "0",
+        "content creator": "Mass General Brigham",
+        "date": "Feb 21, 2022",
+        "description": "What is bulimia nervosa, and what causes it? What are the health consequences of bulimia nervosa? What are the mental health effects of bulimia nervosa? Jennifer J. Thomas, Ph.D., Clinical Psychologist and Co-director of the Eating Disorders Clinical and Research Program at Massachusetts General Hospital and Associate Professor of Psychiatry at Harvard Medical School, discusses bulimia nervosa's main features, treatment options, and how recovery is possible.\n\nSubscribe Link: ",
+        "dislikes": " Unavailable",
+        "id": "fEEhdyaJsao",
+        "likes": "85 likes",
+        "title": "Bulimia Nervosa: Causes, Health Effects, and Treatment | Mass General Brigham",
+        "top_3_comment": "Comment 1: , Comment 2: , Comment 3: ",
+        "url": "https://www.youtube.com/watch?v=fEEhdyaJsao",
+        "video_length": 422.481,
+        "views": "4,571 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=X4Qm9cGRub0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=fbeFn1Xcqo4",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=5-gyIkA-crM",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+          "title": "Trust your hunger and make peace with food | Eve Lahijani | TEDxUCLA",
+          "video": {
+            "ad": null,
+            "comments": "515",
+            "content creator": "TEDx Talks",
+            "date": "Jul 9, 2015",
+            "description": "Learning to listen to yourself and trust yourself can be very difficult for some people. Eve Lahijani talks to us about the importance of learning to do so especially when it comes to our hunger and diet.\n\nEve Lahijani is a Registered Dietitian and Nutrition Health Educator at UCLA. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "Ssr2UDB9EWQ",
+            "likes": "20,949 likes",
+            "title": "Trust your hunger and make peace with food | Eve Lahijani | TEDxUCLA",
+            "top_3_comment": "Comment 1: Kasey Brown\n2 years ago\nI've seen many videos about this topic, and one of them said: \"your life's purpose is not to lose weight\". This really resonated with me, and I hope this is able to help others\n797\nREPLY, Comment 2: jackflintstone\n6 years ago\nOne of the best talks on our relationship to food.   So much dysfunction going on, especially from the government (lame dietary recommendations), fad diet authors, and sadly, the medical (MD) community, who usually don't have a clue or worse.   A well spent 10 minutes of sane recommendations for being healthy on many levels.   Great job Eve!\n719\nREPLY, Comment 3: Lu Silva\n4 years ago\nDown-to-earth, excellent talk. Listening to your body is key...\n399\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+            "video_length": 653.421,
+            "views": "651,563 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=K60xHx836T0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=SVSe2vaxXXM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=4-079YIasck",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+          "title": "Lose Weight AND Keep It Off: Emotional Eating | Ren\u00e9e Jones | TEDxWilmingtonLive",
+          "video": {
+            "ad": null,
+            "comments": "728",
+            "content creator": "TEDx Talks",
+            "date": "Jun 14, 2018",
+            "description": "Most diets, detoxes, or pills promise overnight and effortless weight loss, but it never lasts, and 'yo-yo dieting' leads to greater and more demoralizing weight gain.  We typically follow the diet until something drives us to the refrigerator for comfort or stress relief.  Ren\u00e9e Jones shows you how to get free from the emotional eating that sabotages every diet.\n -\nAfter 40 years on a diet, yo-yoing up and down the scale, Ren\u00e9e Jones had learned every diet \u2013 and every cheat \u2013 before finally stopping the comfort eating and self-sabotage to lose \u201cthose last 30 pounds\u201d AGAIN in 2012 \u2013 but this time she maintained her goal weight.  Who knew that was truly possible?\n \nWith a Master\u2019s degree in Marriage and Family Counseling and a Clinical Residency in Pastoral Care, she has an international counseling and coaching practice utilizing traditional and contemporary models as well as relaxation and horse-assisted methods to help others win at losing extra weight and other baggage they\u2019ve dragged with them for decades.  \n\nHer first book was \"What\u2019s Really Eating You: Overcome the Triggers of Comfort Eating.\" This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "8bE5XLGNPF0",
+            "likes": "16,479 likes",
+            "title": "Lose Weight AND Keep It Off: Emotional Eating | Ren\u00e9e Jones | TEDxWilmingtonLive",
+            "top_3_comment": "Comment 1: Carolina Wood\n3 years ago\nIt is the fact that she talks about this through her own experiences that gives her talk a sincerity that really works for me.\n877\nREPLY, Comment 2: UnDeR tHe StArS oVeR ThE mOoN\n3 years ago\nI don\u2019t want to wait till I\u2019m 50 to make a change. I am 26, and I do this EXACT thing that she is explaining. Yo-yo dieting, emotional eating, binge eating, starving, all of that, I have been doing that for ten years so far. I don\u2019t want to do it any longer. \nI\u2019ve tried every single \u201cdiet\u201d out there. I\u2019ve done everything. \nI need to fix lots of things in my life that cause many emotions and I eat because of those emotions. I starve because of those emotions. I do everything unhealthy to deal with those emotions. I need to change.\nRead more\n763\nREPLY, Comment 3: Lita P\n2 years ago\nThe exercise at the end was very powerful. Personally, I binge on ramen late at night when everyone is asleep. I remember that because my parents would work so much I felt alone. I turned to those noodles for comfort.\n109\nREPLY",
+            "url": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+            "video_length": 670.001,
+            "views": "665,686 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=H6n3iNh4XLI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=tic7X3ET4gE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=awtmTJW9ic8",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+          "title": "What is a healthy relationship with food? | Rhiannon Lambert | TEDxUniversityofEastAnglia",
+          "video": {
+            "ad": null,
+            "comments": "350",
+            "content creator": "TEDx Talks",
+            "date": "Mar 23, 2018",
+            "description": "Most of us are foodies. Food brings us together, and gives us comfort. But have you ever stopped to think whether your relationship with food is healthy? Give Harley street nutritionist Rhiannon Lambert\u2019s talk your time to think about whether your food habits and you have a healthy relationship. Rhiannon\u2019s myth busting talk is revitalising in all aspects- and give us some much needed \u201cfood\u201d for thought!  Rhiannon Lambert is a leading Nutritionist, founder of Harley Street clinic Rhitrition and bestselling Author of Re-Nourish: A Simple Way To Eat Well. Previously a professional soprano trained at the Royal Academy of Music, Rhiannon is now a Registered Associate Nutritionist (ANutr) and a Master Practitioner in Eating Disorders and Obesity. Her philosophy is that food should be a positive aspect of life, offering enjoyment, fuel and happiness for both the mind and body! Rhiannon is on a mission to fight diet culture with evidence-based nutrition and build healthy relationships with food free from restriction. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "6CQyaeZWAXE",
+            "likes": "14,394 likes",
+            "title": "What is a healthy relationship with food? | Rhiannon Lambert | TEDxUniversityofEastAnglia",
+            "top_3_comment": "Comment 1: Diya Chaklader\n2 years ago\nThe most unfair part of an eating disorder is that food doesn't look the same anymore. It turns into numbers on your phone or puke sitting in youe toilet bowl or an extra workout or just pure guilt\n1K\nREPLY, Comment 2: H Kale\n3 years ago\nIt took me 24 years to learn how to be kind to my body. Throughout the years I would go through phases of crash diets and then the polar opposite. I was so addicted to carbs and sugars. Two months ago I found the strength  to eat right and work out. This has been the hardest obstacle in my life and I am finally becoming the person I want to be. Sending nothing but love to those struggling.\n708\nREPLY, Comment 3: Johnny Cash\n3 years ago\nI was in the parking lot of a grocery store because I wanted to buy some chips while eating donuts at 12:30 am. I wanted to cry and just wanted to stop eating. I want a healthy relationship with food.\n1.5K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+            "video_length": 757.821,
+            "views": "584,604 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=HyHDYsV7vow",
+      "title": "Obsessed: My Addiction to Food and My Journey to Health | Diane Smith | TEDxSpringfield",
+      "video": {
+        "ad": null,
+        "comments": "310",
+        "content creator": "TEDx Talks",
+        "date": "Nov 24, 2015",
+        "description": "Three little words had the power to change two lives: \u201cyou are fat.\u201d Find out how, as Emmy award winning journalist Diane Smith talks about her journey to health and her New York Times best seller Obsessed \u2013 America\u2019s Food Addiction and My Own co-written with Mika Brzezinski, co-host of \u201cMorning Joe\u201d on MSNBC.  \n\nA New York Times bestselling author, Emmy award winning journalist, documentary producer, and speaker Diane Smith is a media veteran. Her book Obsessed: America\u2019s Food Addiction and My Own written with MSNBC Morning Joe co-host Mika Brzezinski became an instant best seller.\n \nDiane has been on the air in Connecticut for more than 25 years at WTNH-TV, CPTV, and WTIC-Newstalk 1080. She is the anchor and senior producer for program development at CTN. As president of Diane Smith Media she has produced Emmy award winning documentaries, and other programs and videos.\n \nDiane serves on the board of  CT Girl Scout Council, CT Women\u2019s Council, the Civic Health Advisory Group and the Board of Overseers for the Bushnell Theater. Diane was inducted into the National Academy of Television Arts and Sciences Silver Circle for 25 years of distinguished service to broadcasting and the community. She holds an honorary doctorate from Charter Oak College.\n\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+        "dislikes": " Unavailable",
+        "id": "HyHDYsV7vow",
+        "likes": "6,848 likes",
+        "title": "Obsessed: My Addiction to Food and My Journey to Health | Diane Smith | TEDxSpringfield",
+        "top_3_comment": "Comment 1: Ferreira Designs\n4 years ago\nExcellent talk. Loved it! And to the losers criticizing her body shape: she's a middle-aged woman who has suffered with obesity most of her life. Get a grip, stop being such losers.\n467\nREPLY, Comment 2: chrokeii\n3 years ago\nI'm glad she's bringing this up, but I was hoping to hear some suggestions about how to overcome food addiction\n345\nREPLY, Comment 3: Rien Jen\n4 years ago\nShe brings up some great points.  Body-shaming is hateful, hurtful and over-simplistic; there are several reasons why we have this problem and one of the biggest being that junk food is cheap, it's addictive and it's everywhere.  You can't go into a dang store without candy for sale near the cashier.  I'm lucky not to be overweight, but I struggle to keep the scale from creeping upwards, because when it goes up even a few pounds, losing that weight is just about the hardest thing to do.\n43\nREPLY",
+        "url": "https://www.youtube.com/watch?v=HyHDYsV7vow",
+        "video_length": 880,
+        "views": "520,202 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=2VJgDkeXsWo",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=sWN13pKVp9s",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=PJy8vTu66tE",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=C0pLIjQG1q0",
+          "title": "Food Addiction: Craving the Truth About Food | Andrew Becker | TEDxUWGreenBay",
+          "video": {
+            "ad": null,
+            "comments": "609",
+            "content creator": "TEDx Talks",
+            "date": "Nov 5, 2019",
+            "description": "Andrew Becker discusses how the current food environment of today motivates us to consume until we are obese. We are evolutionarily primed to thrive in a food scarce environment with natural foods, but now face an endless supply of processed junk food that has the power to cause addiction.\n\nRecorded and edited courtesy of NorthCoast Productions. Andrew Becker is from the small town of Slinger Wisconsin, and completed his bachelor\u2019s degree in human biology with an emphasis in dietetics from the University of Wisconsin Green Bay. Currently, he is completing his Ph.D. in biochemistry in Dr. Jong-In Park's lab at the Medical College of Wisconsin. The focus of his research is to investigate how certain types of cancers utilize the ERK1/2 signaling pathway to promote their proliferation. Along with his research, Andrew has an immense passion for nutrition. He believes it is important for everyone to understand how the foods they eat affect their health. He has made it a life-long goal to continuously teach the public about nutritional health whenever he gets the opportunity. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "C0pLIjQG1q0",
+            "likes": "8,032 likes",
+            "title": "Food Addiction: Craving the Truth About Food | Andrew Becker | TEDxUWGreenBay",
+            "top_3_comment": "Comment 1: Koyna Nath\n1 year ago\nYou know what's worse? You know you are craving for something which is unhealthy, you eat it like there's no tomorrow because you get excited, and then you regret and your mind is full of guilt after looking at that place which you just emptied. You look at yourself, your bloated stomach and face and scold yourself for doing it all over again. And when you talk about this problem about how hard you try not to, or in my case, how I am SCARED of eating food because I'll gain weight, they either judge you for whether you are going through some ED or just for fun, call you overdramatic. \nIdk I just had to say this here because I guess I'm not the only one who goes through this mental battle with my own mind and other people's mind\n493\nREPLY, Comment 2: \u0416\u0430\u043d\u0430 \u0417\u0435\u043b\u0435\u043d\u043e\u0432\u0438\u045b\n2 years ago (edited)\nLike any addiction, food addiction is both physical and emotional and it has been my lifelong struggle. However, what helped immensely combat my food addiction was first significantly reducing my sugar consumption. I am more into savory food than sweets but for some time I had been consuming lots of processed sugar and my body was asking for more and more. I had very challenging withdrawal symptoms for the first 2+ weeks but later it became easier. If I did not make a sacred oath, I do not think I would had enough will power to restrain myself. \n\nI did not eliminate sugar completely but have reduced my consumption by 90%. To indulge my sweet tooth, I eat fresh and baked fruits, figs, prunes, and some other dried fruits but in small quantities. I use pure vanilla extract, cinnamon, date paste/sugar, and occasionally honey to sweeten my low sugar desserts or lemonade. I do not use artificial sweeteners. Very rarely I would also eat a regular dessert. That alone was not enough but made my transition to the next phase smoother. \nRead more\n73\nREPLY, Comment 3: Paul Robeson\n2 years ago\nFood addiction is actually a new concept to me. I have battled and quit drinking and smoking cigarettes cold turkey with a few relapses of course but this addiction has honestly been the hardest to face and hardest to even recognize. Anyway I\u2019m going to battle this addiction and win because I know I\u2019m stronger than my appetite and I\u2019m more motivated to change this pattern than I ever have been since my cigarette addiction has been beat. This was a great video and I appreciate what you said and how you said it.\n256\nREPLY",
+            "url": "https://www.youtube.com/watch?v=C0pLIjQG1q0",
+            "video_length": 833.981,
+            "views": "347,580 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=ouZrZa5pLXk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xAdqLB6bTuQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=KPvd0Xuib3A",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=RweLXJBUk2k",
+          "title": "How to stop BINGE eating // 9 tools + my personal experience (Day 13)",
+          "video": {
+            "ad": null,
+            "comments": "833",
+            "content creator": "Mind Over Munch",
+            "date": "Jan 20, 2021",
+            "description": "\u2605 Interested in working with me 1-on-1? Learn more! http://bit.ly/alyssias \u2605\n\u2605 If you enjoy this series and would like to support the Mind Over Munch channel, visit our donation page https://mindovermunch.com/donate \u2605\n\nToday we are talking about binge eating, and some tools to help.\n\nDISCLAIMER: If you\u2019re struggling with an eating disorder or think you need specialized help, please contact a mental health professional. For crisis situations, you may reach out to the National Eating Disorders Association helpline. ",
+            "dislikes": " Unavailable",
+            "id": "RweLXJBUk2k",
+            "likes": "8,931 likes",
+            "title": "How to stop BINGE eating // 9 tools + my personal experience (Day 13)",
+            "top_3_comment": "Comment 1: Fay A\n1 year ago\nThe best way to discribe binge eating in my opinion, is continue eating even when you are full and not enjoying the food.\n3.4K\nREPLY, Comment 2: Rhyan McDowell\n8 months ago\nSomething I\u2019ve noticed during my binges is that I always need to be watching tv while I\u2019m eating so that I am truly tuned out. In order to be more mindful I\u2019m going to try and eat without screens present! Thanks for the video!\n1K\nREPLY, Comment 3: Enchanted Panda\n1 year ago\nLiterally everyday I'll binge eat when I'm stressed or just because I feel lonely. After I'm done eating I'll feel guilty and then force myself to vomit and then starve myself for the rest of the day and be like \"I'll start a diet tomorrow\" or \"I'll get in a good eating habits tomorrow\" but then the process just repeats and repeats.\n1.7K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=RweLXJBUk2k",
+            "video_length": 1113.021,
+            "views": "284,626 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=VghNzpWFzLU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=x7aY3uqkhxo",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=MB5IX-np5fE",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=weMCvY7SKsM",
+          "title": "Brain over Binge Podcast, Ep 1: A Simple Plan to Stop Binge Eating",
+          "video": {
+            "ad": null,
+            "comments": "73",
+            "content creator": "Brain over Binge (Kathryn Hansen)",
+            "date": "Sep 13, 2020",
+            "description": "This is a podcast to help you stop binge eating. In this episode, you\u2019ll learn about the Brain over Binge (https://brainoverbinge.com/) approach to recovery from bulimia, binge eating disorder, or any form of binge eating. Kathryn Hansen and Cookie Rosenblum share their personal stories of recovery, and explain why overcoming binge eating doesn\u2019t have to be complicated. \n\nSubscribe to the Brain over Binge course for only $10.99 per month: ",
+            "dislikes": " Unavailable",
+            "id": "weMCvY7SKsM",
+            "likes": "1,624 likes",
+            "title": "Brain over Binge Podcast, Ep 1: A Simple Plan to Stop Binge Eating",
+            "top_3_comment": "Comment 1: Sofia Hafsaoui\n1 year ago (edited)\nThe fact that we\u2019re getting this for free is so heartwarming and kind. Thank you for that. I\u2019ve been a binge eater for 4 years now and there were days where i would starve myself for days.. lately my binge episodes are getting worse and i feel hopeless. But the only shimmer of hope i have is from starting my recovery journey with this podcast thank you so much.\n175\nREPLY, Comment 2: Nguyen Phuong Linh\n1 year ago\nTo sum up, we have to focus on 2 things:1. Dismiss urges to binge\n2. Eat adequately\n133\nREPLY, Comment 3: S. Leeks\n1 year ago\nI\u2019ve been dealing with this my whole life. My family and friends didn\u2019t know because I control my weight with extreme dieting and exercising. Food is controlling my life and I\u2019m ready for a change. Thank you\n41\nREPLY",
+            "url": "https://www.youtube.com/watch?v=weMCvY7SKsM",
+            "video_length": 1452.121,
+            "views": "52,979 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ynD1Db8wVH0",
+      "title": "How To Stop Binge Eating",
+      "video": {
+        "ad": null,
+        "comments": "399",
+        "content creator": "Kati Morton",
+        "date": "May 24, 2021",
+        "description": "Binge eating is roughly defined as eating more food than a \u201cnormal\u201d person would in a short period of time. And as I have talked about many many times, eating disorders are just coping skills for other things going on in our life.  \nBased on the way our nervous system is set up it\u2019s soothed by eating. We are born to be soothed and calmed down by being fed. Sucking a swallowing from a bottle soothes our system as babies and helps us calm down. As adults if we have attachment issues (maybe our caregivers weren\u2019t reliable or predictable in how they interacted with us) we could struggle to self soothe. Also if we have BPD it can be hard to soothe our system because we feel everything so intensely. So we can turn to food to help us feel better, which is why emotional eating is so very common. Also with the pandemic and all the stress that it has caused we are all seeking out ways to feel safe, and okay. So we may be binge eating as a way to cope. \nWe can also struggle as the day progresses because we get tired, overwhelmed, and are therefore more vulnerable to the urges to cope unhealthfully. Since we have a lot of judgment in our society around weight, if we overeat we can then fall into a shame/guilt spiral and follow up our binge eating with restricting (but not always). But for many we can feel like we have to \u201cmake up\u201d for the binge. And get caught in that binge restrict cycle\n\nI'm Kati Morton, a licensed therapist making Mental Health videos!",
+        "dislikes": " Unavailable",
+        "id": "ynD1Db8wVH0",
+        "likes": "3,234 likes",
+        "title": "How To Stop Binge Eating",
+        "top_3_comment": "Comment 1: Mika xx\n1 year ago\nI'm so proud of myself, I just ate dinner and then I kind of 'wanted' to binge eat and I already got chips and chocolate, but then I didn't eat the chocolate. That's like A HUGE step for me. I wish everyone the best and believe in yourself!!\n479\nREPLY, Comment 2: Savvy Aggarwal\n1 year ago\nI had been an emotional binge eater for over a decade. Here's what helped me overcome it:\n1. Sufficient sleep every single day\n2. Regular Pranayam practice\n3. Long walks in the evenings\nRead more\n261\nREPLY, Comment 3: Lori King\n1 year ago\nKatie, I've gained 40 lbs from binge eating while working from home during covid.  Now I;m feeling really disgusting and looking for ways to avoid that habit.  Perfect timing.  Thank you.\n65\nREPLY",
+        "url": "https://www.youtube.com/watch?v=ynD1Db8wVH0",
+        "video_length": 849,
+        "views": "64,121 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=sikJYZ39bJI",
+  "title": "Binge Eating Disorder (BED): Symptoms, Common Triggers, & Treatment | Mass General Brigham",
+  "video": {
+    "ad": null,
+    "comments": "0",
+    "content creator": "Mass General Brigham",
+    "date": "Feb 25, 2022",
+    "description": "What is binge eating disorder? How does binge eating disorder affect your body? What is the difference between binge eating disorder and overeating? Caroline M. Apovian, M.D., Endocrinologist and Co-Directer of the Center for Weight Management and Wellness at Brigham and Women's Hospital, discusses binge eating disorder, symptoms, and treatment options. \n\nSubscribe Link: ",
+    "dislikes": " Unavailable",
+    "id": "sikJYZ39bJI",
+    "likes": "140 likes",
+    "title": "Binge Eating Disorder (BED): Symptoms, Common Triggers, & Treatment | Mass General Brigham",
+    "top_3_comment": "Comment 1: , Comment 2: , Comment 3: ",
+    "url": "https://www.youtube.com/watch?v=sikJYZ39bJI",
+    "video_length": 261.361,
+    "views": "7,873 views"
+  }
+}

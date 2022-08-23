@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=8so1WZ4j1oQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=awtmTJW9ic8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8yBfAeadqjI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=K60xHx836T0",
+          "title": "Winning The Mental Battle of Physical Fitness and Obesity | Ogie Shaw | TEDxSpokane",
+          "video": {
+            "ad": null,
+            "comments": "1,432",
+            "content creator": "TEDx Talks",
+            "date": "Nov 18, 2014",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "K60xHx836T0",
+            "likes": "51,471 likes",
+            "title": "Winning The Mental Battle of Physical Fitness and Obesity | Ogie Shaw | TEDxSpokane",
+            "top_3_comment": "Comment 1: Exastris Scientia\n6 years ago\nThis is better than 99% of the TED talks out there. Great message, great presentation.\n1.5K\nREPLY, Comment 2: daniela dietel-wright\n2 years ago\n\"never make a change in your diet, that you don't want to make permanent.\" great line and so true.\n2.1K\nREPLY, Comment 3: Siccboi _27\n3 years ago\nOne of my all time favorite talks. As a person who has completely changed their body, i thought I would drop tips as well.\n First of all, before you start exercising, slowly work yourself into an overall healthy eating pattern over the course a month first. No amount of motivation can hardly beat the chemical imbalance the average american diet imposes on us. Get your body the correct nutrition and hydration first, so then when you begin, your body can recover correctly and you wont become sick. \nSecondly, START SLOW. All physical changes in us, big or small, are adaptations., Your body is not adapted to working out, so you will likely injure yourself or become so sore that for the next two days you so you cant even work out if you push too hard on your initial attempt. Start with a speed walk, and do light resistant weight training. \nRead more\n1.5K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=K60xHx836T0",
+            "video_length": 1111.681,
+            "views": "2,157,703 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=v1ojZKWfShQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Lp7E973zozc",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=LBvHI1awWaI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tTb3d5cjSFI",
+          "title": "The secret to self control | Jonathan Bricker | TEDxRainier",
+          "video": {
+            "ad": null,
+            "comments": "2,517",
+            "content creator": "TEDx Talks",
+            "date": "Dec 22, 2014",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "tTb3d5cjSFI",
+            "likes": "118,873 likes",
+            "title": "The secret to self control | Jonathan Bricker | TEDxRainier",
+            "top_3_comment": "Comment 1: Enea BrawlStars\n1 year ago\n\u201cWe must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.\u201d\n3.1K\nREPLY, Comment 2: the cove\n8 months ago (edited)\nThe feeling of shame was exactly what I felt every time I study. I would procrastinate all day, and wouldn't allow myself to sleep at night due to guilt. Then the next day, I would be tired and exhausted, open the book, and hate myself for not studying yesterday, then procrastinate because of shame. A vicious cycle. Thank you so much for telling me that I am not all by myself in this war.\n343\nREPLY, Comment 3: nik holm\n2 years ago\n\"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.\" -most underrated quote\n1.9K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=tTb3d5cjSFI",
+            "video_length": 913.821,
+            "views": "7,274,823 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=H6n3iNh4XLI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=IeblJdB2-Vo",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=fbeFn1Xcqo4",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+          "title": "What is a healthy relationship with food? | Rhiannon Lambert | TEDxUniversityofEastAnglia",
+          "video": {
+            "ad": null,
+            "comments": "350",
+            "content creator": "TEDx Talks",
+            "date": "Mar 23, 2018",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "6CQyaeZWAXE",
+            "likes": "14,394 likes",
+            "title": "What is a healthy relationship with food? | Rhiannon Lambert | TEDxUniversityofEastAnglia",
+            "top_3_comment": "Comment 1: Diya Chaklader\n2 years ago\nThe most unfair part of an eating disorder is that food doesn't look the same anymore. It turns into numbers on your phone or puke sitting in youe toilet bowl or an extra workout or just pure guilt\n1K\nREPLY, Comment 2: H Kale\n3 years ago\nIt took me 24 years to learn how to be kind to my body. Throughout the years I would go through phases of crash diets and then the polar opposite. I was so addicted to carbs and sugars. Two months ago I found the strength  to eat right and work out. This has been the hardest obstacle in my life and I am finally becoming the person I want to be. Sending nothing but love to those struggling.\n707\nREPLY, Comment 3: Johnny Cash\n3 years ago\nI was in the parking lot of a grocery store because I wanted to buy some chips while eating donuts at 12:30 am. I wanted to cry and just wanted to stop eating. I want a healthy relationship with food.\n1.5K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+            "video_length": 757.821,
+            "views": "584,601 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=C0pLIjQG1q0",
+      "title": "Food Addiction: Craving the Truth About Food | Andrew Becker | TEDxUWGreenBay",
+      "video": {
+        "ad": null,
+        "comments": "609",
+        "content creator": "TEDx Talks",
+        "date": "Nov 5, 2019",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "C0pLIjQG1q0",
+        "likes": "8,032 likes",
+        "title": "Food Addiction: Craving the Truth About Food | Andrew Becker | TEDxUWGreenBay",
+        "top_3_comment": "Comment 1: Koyna Nath\n1 year ago\nYou know what's worse? You know you are craving for something which is unhealthy, you eat it like there's no tomorrow because you get excited, and then you regret and your mind is full of guilt after looking at that place which you just emptied. You look at yourself, your bloated stomach and face and scold yourself for doing it all over again. And when you talk about this problem about how hard you try not to, or in my case, how I am SCARED of eating food because I'll gain weight, they either judge you for whether you are going through some ED or just for fun, call you overdramatic. \nIdk I just had to say this here because I guess I'm not the only one who goes through this mental battle with my own mind and other people's mind\ud83d\ude14\ud83d\ude14\n493\nREPLY, Comment 2: Mychannel\n2 years ago\nHonestly feels so good to know I\u2019m not alone.. my food addiction made me gain 100lbs.. I was able to lose it but still battle with it everyday and gained about 20 back it\u2019s seriously an everyday battle..foods on my mind almost 24/7\n310\nREPLY, Comment 3: Nunya Bidness\n2 years ago\nUnfortunately, the focus of the food industry is not to provide a healthy, quality food supply.  The main focus is profit.  And just like any drug dealer knows, addiction is the best way to maximize profits.  It is pure economics.\n721\nREPLY",
+        "url": "https://www.youtube.com/watch?v=C0pLIjQG1q0",
+        "video_length": 834,
+        "views": "347,565 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=sWN13pKVp9s",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=6sEsviBCvWo",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=sWp87GXDvEk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+          "title": "Trust your hunger and make peace with food | Eve Lahijani | TEDxUCLA",
+          "video": {
+            "ad": null,
+            "comments": "515",
+            "content creator": "TEDx Talks",
+            "date": "Jul 9, 2015",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "Ssr2UDB9EWQ",
+            "likes": "20,949 likes",
+            "title": "Trust your hunger and make peace with food | Eve Lahijani | TEDxUCLA",
+            "top_3_comment": "Comment 1: Kasey Brown\n2 years ago\nI've seen many videos about this topic, and one of them said: \"your life's purpose is not to lose weight\". This really resonated with me, and I hope this is able to help others\n797\nREPLY, Comment 2: AlPal\n2 years ago\nAs I have struggled with an eating disorder and constantly yo-yo with my weight (eat, starve, eat, starve), I always return to this talk when I feel afraid or lost. It's awfully confusing and scary to have a horrible relationship with food, but this talk encourages me to challenge myself time after time\n129\nREPLY, Comment 3: Lu Silva\n4 years ago\nDown-to-earth, excellent talk. Listening to your body is key...\n399\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+            "video_length": 653.421,
+            "views": "651,562 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=SVSe2vaxXXM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=nSsNN3SF-bA",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=kB1DQWHrDlk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+          "title": "Lose Weight AND Keep It Off: Emotional Eating | Ren\u00e9e Jones | TEDxWilmingtonLive",
+          "video": {
+            "ad": null,
+            "comments": "728",
+            "content creator": "TEDx Talks",
+            "date": "Jun 14, 2018",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "8bE5XLGNPF0",
+            "likes": "16,479 likes",
+            "title": "Lose Weight AND Keep It Off: Emotional Eating | Ren\u00e9e Jones | TEDxWilmingtonLive",
+            "top_3_comment": "Comment 1: Carolina Wood\n3 years ago\nIt is the fact that she talks about this through her own experiences that gives her talk a sincerity that really works for me.\n877\nREPLY, Comment 2: UnDeR tHe StArS oVeR ThE mOoN\n3 years ago\nI don\u2019t want to wait till I\u2019m 50 to make a change. I am 26, and I do this EXACT thing that she is explaining. Yo-yo dieting, emotional eating, binge eating, starving, all of that, I have been doing that for ten years so far. I don\u2019t want to do it any longer. \nI\u2019ve tried every single \u201cdiet\u201d out there. I\u2019ve done everything. \nI need to fix lots of things in my life that cause many emotions and I eat because of those emotions. I starve because of those emotions. I do everything unhealthy to deal with those emotions. I need to change.\nRead more\n763\nREPLY, Comment 3: Lita P\n2 years ago\nThe exercise at the end was very powerful. Personally, I binge on ramen late at night when everyone is asleep. I remember that because my parents would work so much I felt alone. I turned to those noodles for comfort.\n109\nREPLY",
+            "url": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+            "video_length": 670.001,
+            "views": "665,676 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=FI-8DbXgzcQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Fjec1c3oaLg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=3uUny1Gwg-o",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=_-qW8sVYxu4",
+          "title": "EMOTIONAL EATING | How Do I Stop Eating Emotionally?",
+          "video": {
+            "ad": null,
+            "comments": "192",
+            "content creator": "Clean & Delicious",
+            "date": "Apr 30, 2021",
+            "description": "What is emotional eating?  Why do we do it?  How can we stop eating emotionally?  Learn how to understand and transform your relationship with emotional eating so you can reach your health and weight loss goals. JOIN NOW \u27a1\ufe0f https://thedontdiet.com/  \u27a1\ufe0fMind + Body Weightloss is OPEN!\n\nThe Don't Diet is a 6-week step-by-step mind + body, weight loss course for women and men who want to stop beating themselves up and are ready to love their bodies, enjoy their food and lose weight in a kind, sustainable way.  \u27a1\ufe0f  WHAT IS EMOTIONAL EATING?",
+            "dislikes": " Unavailable",
+            "id": "_-qW8sVYxu4",
+            "likes": "2,479 likes",
+            "title": "EMOTIONAL EATING | How Do I Stop Eating Emotionally?",
+            "top_3_comment": "Comment 1: Adrienne, Registered Dietitian, Weight Loss Coach\n1 year ago\n\"Gaining authority over our emotions and habits is by understanding them with awareness and curiosity\"- I love that!\n26\nREPLY, Comment 2: Yosely Ferrer\n1 year ago\nLoved it when you said \"we can never get enough of what we don't actually need\". That sums it up, really. Awesome video, keep them coming \ud83d\ude0e\u2764\ufe0f\n34\nREPLY, Comment 3: Alma De\n1 year ago\nSo perfect for me. I'm over 100 days sober and I'm also struggling with emotional eating. So many emotions to deal with at once. Thank you \ud83d\ude4f\n7\nREPLY",
+            "url": "https://www.youtube.com/watch?v=_-qW8sVYxu4",
+            "video_length": 612.801,
+            "views": "28,925 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=4mmzPskOqCg",
+      "title": "Emotional Eating Making Peace with Food | Counseling Techniques",
+      "video": {
+        "ad": null,
+        "comments": "37",
+        "content creator": "Doc Snipes",
+        "date": "Nov 7, 2016",
+        "description": "AllCEUs provides counseling education and CEs for LPCs, LMHCs, LMFTs and LCSWs as well as addiction counselor precertification training and continuing education.\n\nContinuing Education (CE) credits for addiction and mental health counselors, social workers and marriage and family therapists can be earned for this presentation at  Live, Interactive Webinars ($5): ",
+        "dislikes": " Unavailable",
+        "id": "4mmzPskOqCg",
+        "likes": "Unavailable",
+        "title": "Emotional Eating Making Peace with Food | Counseling Techniques",
+        "top_3_comment": "Comment 1: Charlotte Arena\n11 months ago\nI have been on both spectrums Anorexia and Obesity where I am now...Again. This all makes so much sense.\n13\nREPLY, Comment 2: mj\n6 months ago\nThis really helped me with my emotional eating, there\u2019s more helpful information in this!! Thank you\n3\nREPLY, Comment 3: Hoda T\n10 months ago\nThank you so much for this. I found it very helpful and informative. \nAt the beginning you mentioned that you will discuss differentiating between emotional eating and eating disorders, but I didn't see that. I would appreciate it if you could either let us know or provide resources that differentiates between emotional eating and binge eating disorder. \nThank you\n1\nREPLY",
+        "url": "https://www.youtube.com/watch?v=4mmzPskOqCg",
+        "video_length": 2847,
+        "views": "31,213 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=p578HlQyUaY",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=169N81xAffQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=yJSiUm6jvI0",
+          "title": "Why do we love? A philosophical inquiry - Skye C. Cleary",
+          "video": {
+            "ad": null,
+            "comments": "4,495",
+            "content creator": "TED-Ed",
+            "date": "Feb 11, 2016",
+            "description": "Does romantic love have a purpose? Explore five intriguing philosophical perspectives on why we love.\n\n--\n\nAh, romantic love; beautiful and intoxicating, heart-breaking and soul-crushing... often all at the same time! If romantic love has a purpose, neither science nor psychology has discovered it yet \u2013 but over the course of history, some of our most respected philosophers have put forward some intriguing theories. Skye C. Cleary outlines five of these philosophical perspectives on why we love.\n\nLesson by Skye C. Cleary, animation by Avi Ofer.\n\nSupport Our Non-Profit Mission\n----------------------------------------------\nSupport us on Patreon: Find us on Twitter: ",
+            "dislikes": " Unavailable",
+            "id": "yJSiUm6jvI0",
+            "likes": "181,461 likes",
+            "title": "Why do we love? A philosophical inquiry - Skye C. Cleary",
+            "top_3_comment": "Comment 1: Sanshri Nandikol\n2 years ago\n\"love is the power you give someone to destroy you but trusting them not to\"\n11K\nREPLY, Comment 2: Detached Laconian\n2 years ago\nPlato: love makes us whole, again\nSchopenhauer: love tricks us into having babies\nRussel: love is escape from our loneliness\nBuddha: love is a misleading affliction\nRead more\n5.5K\nREPLY, Comment 3: Nandini K\n9 months ago\nHuge respect for the animators team of ted! You are great guys!\n878\nREPLY",
+            "url": "https://www.youtube.com/watch?v=yJSiUm6jvI0",
+            "video_length": 344.661,
+            "views": "5,825,751 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=2ftjKrE9XS4",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xbagFzcyNiM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=veEQQ-N9xWU",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=gZpcTVqpaPw",
+          "title": "After anorexia: Life's too short to weigh your cornflakes | Catherine Pawley | TEDxLeamingtonSpa",
+          "video": {
+            "ad": null,
+            "comments": "1,396",
+            "content creator": "TEDx Talks",
+            "date": "Feb 24, 2017",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "gZpcTVqpaPw",
+            "likes": "47,836 likes",
+            "title": "After anorexia: Life's too short to weigh your cornflakes | Catherine Pawley | TEDxLeamingtonSpa",
+            "top_3_comment": "Comment 1: Gina\n2 years ago\nI wish she\u2018d see this comment: THIS was the video that saved my life 2 years ago. I was anorexic and depressed. When I randomly watched this (I was actually looking for videos to trigger me) I cried and cried and cried and cried. And then It ALL CHANGED. This day honestly changed my life. I\u2018m healthy and happy now and I eat what and whenever I want \u2764\ufe0f\n5.8K\nREPLY, Comment 2: M M\n5 years ago\npowerful talk. she has a soothing and controlled voice. well delivered.\n6.3K\nREPLY, Comment 3: adagio\n5 years ago\nI sit here watching this knowing that tomorrow I'm going to be hospitalised for my eating disorder and telling myself that I'm going to make the most of this. I'm determined that this will be the turning point. I don't want to be sick anymore.\n4.1K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=gZpcTVqpaPw",
+            "video_length": 1087.541,
+            "views": "1,545,016 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=RcGyVTAoXEU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=OyK0oE5rwFY",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Nz9eAaXRzGg",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=v-t1Z5-oPtU",
+          "title": "How stress affects your body - Sharon Horesh Bergquist",
+          "video": {
+            "ad": null,
+            "comments": "3,339",
+            "content creator": "TED-Ed",
+            "date": "Oct 22, 2015",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "v-t1Z5-oPtU",
+            "likes": "110,052 likes",
+            "title": "How stress affects your body - Sharon Horesh Bergquist",
+            "top_3_comment": "Comment 1: Sarah H\n1 year ago\nStress is not something you always have control over. That's why it's stressful.\n3.4K\nREPLY, Comment 2: Sejal B\n3 years ago\nEasy tips to feel at least, a little less stressed:\n1) Sing a song while you shower.\n2) Talk face to face with people. About anything at all. Even listening to others helps. \n3) Don\u2019t walk in your house. Skip and jump to your destinations like a protagonist! (If your circumstances allow) it\u2019s all about awakening your inner child.\nRead more\n3.4K\nREPLY, Comment 3: Eric\n2 years ago\nTeachers: Mental health and sleep are important!\n\n\nAlso teachers: Gives 22 tests, projects, quizzes, papers, and assignments in the same week\n9K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=v-t1Z5-oPtU",
+            "video_length": 282.141,
+            "views": "5,852,402 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=3Bax8ijH038",
+      "title": "Why are eating disorders so hard to treat? - Anees Bahji",
+      "video": {
+        "ad": null,
+        "comments": "771",
+        "content creator": "TED-Ed",
+        "date": "May 19, 2022",
+        "description": "Dig into the psychiatric conditions of eating disorders, and explore the complex effects they have on the body and mind. \n\n--\n\nGlobally, about 10% of people will experience an eating disorder during their lifetime. And yet, eating disorders are profoundly misunderstood. Misconceptions about everything from symptoms to treatment make it difficult to navigate an eating disorder or support someone you love as they do so. Anees Bahji shares what is\u2014 and isn\u2019t\u2014 true about eating disorders.\n\nLesson by Anees Bahji, directed by Laura Jayne Hodkin.\n\nSupport Our Non-Profit Mission\n----------------------------------------------\nSupport us on Patreon: Find us on Twitter: ",
+        "dislikes": " Unavailable",
+        "id": "3Bax8ijH038",
+        "likes": "23,374 likes",
+        "title": "Why are eating disorders so hard to treat? - Anees Bahji",
+        "top_3_comment": "Comment 1: Eoghan O' Regan\n1 month ago (edited)\nThe hardest part of an eating disorder isn't the eating, it's the mental aspect. When I started recovering from my ED, the biggest struggle was trying to change the way I think about food and myself, as well as the amount of time I spend thinking about food and my body. It still is, even though I'm recovered on the outside, every single day you have to fight it.\n2.9K\nREPLY, Comment 2: Gg Gg\n1 month ago\nTo everyone suffering from an ed, i just want to say :\n1. Don't be afraid or ashamed to seek help and don't think lesser of yourself for seeking help. Everyone falls sick at some point in their life and people suffering from an illness deserve treatment whether it be a mental disorder or a physical disorder\n2. You are not alone. So many people, including me have become better and I promise, even if it takes time, one day things will get better for you too\n2K\nREPLY, Comment 3: mae!\n1 month ago\nthere are so many myths and misconceptions around all mental disorders but eating disorders specifically, thank you so much for trying to clear them up. there are maybe a couple more things you could have gone over but thankyou TED-ED for spreading awareness when possible :)\n1.5K\nREPLY",
+        "url": "https://www.youtube.com/watch?v=3Bax8ijH038",
+        "video_length": 279.181,
+        "views": "650,732 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=fCmmmtB5seY",
+  "title": "Binge Eating Disorder (BED) | Pathophysiology, Risk Factors, Symptoms, Diagnosis, Treatment",
+  "video": {
+    "ad": null,
+    "comments": "94",
+    "content creator": "JJ Medicine",
+    "date": "Aug 14, 2020",
+    "description": "Binge Eating Disorder (BED) | Pathophysiology, Risk Factors, Symptoms, Diagnosis, Treatment\n\n** PLEASE DONATE to help support this channel \u279c https://www.patreon.com/jjmedicine **\n\nBinge Eating Disorder (BED) is an eating disorder involving recurrent episodes of overeating (binge eating) without compensatory behaviors. BED is associated with several medical and psychiatric conditions. There are a variety of associated risk factors that increase the risk of having BED, including certain early childhood experiences. In this lesson, we discuss the associated conditions and risk factors in more detail, along with the symptoms of BED, the way BED is diagnosed (using the DSM-5 criteria), and methods of treatment. \n\nREFERENCES:\n\"Binge Eating Disorder\", StatPearls (2020)Check out the best tool to help grow your YouTube channel (it\u2019s helped me!)",
+    "dislikes": " Unavailable",
+    "id": "fCmmmtB5seY",
+    "likes": "734 likes",
+    "title": "Binge Eating Disorder (BED) | Pathophysiology, Risk Factors, Symptoms, Diagnosis, Treatment",
+    "top_3_comment": "Comment 1: Vaibhav Negi\n11 months ago\nI\u2019ll tell you about my perfectionism with binge eating disorders. So if I ruin my diet in a day, I get depressed and I feel that as I have ruined my diet now, I should eat my heart out as my day is already ruined. So I order food online even if I\u2019m not hungry cause my subconscious mind thinks that I should enjoy and eat my favourite dish as the day is already ruined.\n307\nREPLY, Comment 2: Daily Dose of Medicine\n1 year ago\nDepression and binge eating are strongly linked. Many binge eaters are either depressed or have been before; others may have trouble with impulse control and managing and expressing their feelings. Low self-esteem, loneliness, and body dissatisfaction may also contribute to binge eating.\n140\nREPLY, Comment 3: Tsunami\n5 months ago\nThis is a serious and complex problem that is still very underestimated in the present.\nIn the future it will be seen just as a severe problem as any drug abuse - because chemically, it is.\n27\nREPLY",
+    "url": "https://www.youtube.com/watch?v=fCmmmtB5seY",
+    "video_length": 659.141,
+    "views": "44,446 views"
+  }
+}

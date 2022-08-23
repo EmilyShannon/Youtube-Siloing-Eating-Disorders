@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=yyPB0k3o2zQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=OWghtOixlyI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=9dZEnKK8j1o",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=H9M8zbHbZC8",
+          "title": "What I Eat During My Binge (TW ED)",
+          "video": {
+            "ad": null,
+            "comments": "1,389",
+            "content creator": "todo",
+            "date": "May 21, 2020",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "H9M8zbHbZC8",
+            "likes": "7,990 likes",
+            "title": "What I Eat During My Binge (TW ED)",
+            "top_3_comment": "Comment 1: B P\n2 years ago\nEating disorders are so difficult to understand because normal people don't overthink food, they just eat when they want, whatever they want and stop when they're full. But people with ED can't stop thinking about food and our body and how big or small we feel or look so be kind and gentle\n5.5K\nREPLY, Comment 2: cinnamon angel\n2 years ago\nGuys I\u2019m 2 months binge free an believe me, it was hard, but once you make that decision everything will go just fine!! Trust me. I made that decision after weighing myself and calculating my bmi and the best thing that I\u2019ve ever done was to have one cheat day a week an the rest of the week you restrict. That one cheat day will motivate you during the week to keep restricting. I\u2019ve lost 5 kg so far, best decision ever made and fucking finally binge free!!\n2.1K\nREPLY, Comment 3: vicious ana\n2 years ago\ni'm proud of you for being 5 day binge free! you are going to get thru this love! and also we eat the ice cream the same way, lol\n939\nREPLY",
+            "url": "https://www.youtube.com/watch?v=H9M8zbHbZC8",
+            "video_length": 867.961,
+            "views": "469,140 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=HPDKVfeX-co",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=x7aY3uqkhxo",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xueJ38kJTw0",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ofas-oB0tu0",
+          "title": "TW Binge eating filmed // 10,000+ kcal // food vlog #7",
+          "video": {
+            "ad": null,
+            "comments": "568",
+            "content creator": "peachy tin",
+            "date": "Aug 10, 2020",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "Ofas-oB0tu0",
+            "likes": "4,959 likes",
+            "title": "TW Binge eating filmed // 10,000+ kcal // food vlog #7",
+            "top_3_comment": "Comment 1: kaen\n1 year ago (edited)\none thing I don't understand is, why do people in all the binging videos I've watched seem to stay so calm while binging. like when I binge I just unconsciously inhale all the food without even tasting any of it\n2.8K\nREPLY, Comment 2: idontcare74\n1 year ago\nSome of those foods seem so fancy. When I binged it was like an entire loaf of white bread with pb and an entire box of cocoa puffs.\n1.9K\nREPLY, Comment 3: J K\n1 year ago\nWhen I binge I don\u2019t even bother to place the food on the plate I just eat it straight from the package. Btw stay safe \u2764\ufe0f\u2764\ufe0f\n1.4K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Ofas-oB0tu0",
+            "video_length": 358.541,
+            "views": "271,423 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=k6YmmeGf7xU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=OgY0EJ0DWNU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xlwXX1o4kfU",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=1fNTeJM3-eI",
+          "title": "Tag a Laccha Paratha lover\u2764\ufe0f#food #reels #easyrecipe #viral #recipe #healthy #reels",
+          "video": {
+            "ad": null,
+            "comments": "0",
+            "content creator": "India 's Priyu Recipes",
+            "date": "Jul 16, 2022",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "1fNTeJM3-eI",
+            "likes": "38 likes",
+            "title": "Tag a Laccha Paratha lover\u2764\ufe0f#food #reels #easyrecipe #viral #recipe #healthy #reels",
+            "top_3_comment": "Comment 1: , Comment 2: , Comment 3: ",
+            "url": "https://www.youtube.com/watch?v=1fNTeJM3-eI",
+            "video_length": 27.541,
+            "views": "1,744 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=MIAe89JRDoc",
+      "title": "filming my massive binge + calorie counter - tw ed",
+      "video": {
+        "ad": null,
+        "comments": "160",
+        "content creator": "joy",
+        "date": "Jan 26, 2021",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "MIAe89JRDoc",
+        "likes": "2,774 likes",
+        "title": "filming my massive binge + calorie counter - tw ed",
+        "top_3_comment": "Comment 1: Pinned by joy\njoy\n1 year ago\nyou\u2019re not alone\u2661\n232\nREPLY, Comment 2: SaturnXx\n1 year ago\nYou look like such a nice person \ud83d\ude0a you\u2019re not alone. Imagine if all people with eating disorders gathered in a room and talk about how they feel\n550\nREPLY, Comment 3: Rina Nova\n1 year ago\nMy best friend is struggling real bad with bulimia and alcoholism. I used to have anorexia and then \u201crecovered\u201d meaning I just switched to Binge Eating. Then when I got to my heaviest of 300 lbs, I took on some purging tendencies. But I did Intuitive Eating and still do. Now I\u2019m at a somewhat normal weight of 150 lbs :) I wish the same for you but I know that everyone recovers at their own pace. Good luck and just remember that you\u2019re worth becoming healthy.\n157\nREPLY",
+        "url": "https://www.youtube.com/watch?v=MIAe89JRDoc",
+        "video_length": 313.681,
+        "views": "132,758 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=zyKMpKiUyWg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=-tpWoL7FdjI&list=RDCMUCbaNRxDvDxT4Xlz9CylWK2g&start_radio=1&rv=-tpWoL7FdjI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=EwesT7hhomA",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-tpWoL7FdjI",
+          "title": "+:\u2027another binge but \ud835\uddd8\ud835\uddd4\ud835\udde6\ud835\udde7\ud835\uddd8\ud835\udde5 so it's extra depressing | TW | ed vlog\u208a\u02d1\u0f04\u0618 \u00b7\u02da",
+          "video": {
+            "ad": null,
+            "comments": "377",
+            "content creator": "ILikePotatoes",
+            "date": "Apr 5, 2021",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "-tpWoL7FdjI",
+            "likes": "3,584 likes",
+            "title": "+:\u2027another binge but \ud835\uddd8\ud835\uddd4\ud835\udde6\ud835\udde7\ud835\uddd8\ud835\udde5 so it's extra depressing | TW | ed vlog\u208a\u02d1\u0f04\u0618 \u00b7\u02da",
+            "top_3_comment": "Comment 1: Pinned by ILikePotatoes\nFraggel Rock\n1 year ago\nIt's actually a Canadian $1\n305\nREPLY, Comment 2: Jesus Reincarnated\n1 year ago\nwe totally understand that you\u2019re not trying to glorify or turn eds into an aesthetic, it\u2019s just how you vlog! tbh i find your videos comforting because of it, and how open you are and you seem like such a nice person. we\u2019re all here for you!\n735\nREPLY, Comment 3: noicegril\n1 year ago\nJust remember - you are not responsible for triggering your viewers. It's their responsibility!Also, love your videos! Good job!\n383\nREPLY",
+            "url": "https://www.youtube.com/watch?v=-tpWoL7FdjI",
+            "video_length": 370.661,
+            "views": "120,928 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=ZPMCJiIaY_g",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=1DDlEHJg_wE&list=RDCMUCbaNRxDvDxT4Xlz9CylWK2g&start_radio=1&rv=1DDlEHJg_wE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=lp8d0pUZdn4",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=1DDlEHJg_wE",
+          "title": "[tw ED] school started so i binged again :') | emotional eating | donuts + bread + snacks",
+          "video": {
+            "ad": null,
+            "comments": "209",
+            "content creator": "ILikePotatoes",
+            "date": "Sep 11, 2021",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "1DDlEHJg_wE",
+            "likes": "2,476 likes",
+            "title": "[tw ED] school started so i binged again :') | emotional eating | donuts + bread + snacks",
+            "top_3_comment": "Comment 1: Katsurii\n10 months ago\nPlease don\u2019t eat foods from unknown sources. You deserve better and I hope today will be better for you.\n405\nREPLY, Comment 2: L U\n10 months ago\nAs a 24yo: the true meaning of being an adult is realizing that NOBODY knows wtf they are doing, they just pretend like they do. So don't be too harsh about being \"childish\", cos there's not such thing. You are just brave for being you.\nI suffer from anorexia but somehow your vids help me: many times i go get a tea or a toast to eat after watching them. Hope you are safe and this vids help you too \u2661\n445\nREPLY, Comment 3: smoltoast\n10 months ago\nI just wanted you and everyone else here to know that you are not alone. This moment will pass and tomorrow is another day and a great opportunity to forgive yourself and start again. Love you all\ud83e\udd70\n249\nREPLY",
+            "url": "https://www.youtube.com/watch?v=1DDlEHJg_wE",
+            "video_length": 359.101,
+            "views": "85,101 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=hMTTksCDqMg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Ec8HhWaje7A&list=RDCMUC-V9Mloh_jF5xoSLKF46sVQ&start_radio=1&rv=Ec8HhWaje7A",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=gqk9sYJfr2c",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ec8HhWaje7A",
+          "title": "\u0d0e\u0d28\u0d4d\u0d31\u0d46 morning routine || Easy Tiffin Packing || Kutty chit chat || #Asvivlogs 9 || Asvi",
+          "video": {
+            "ad": null,
+            "comments": "409",
+            "content creator": "Asvi Vlogs",
+            "date": "Jul 16, 2022",
+            "description": "FOR  BUSINESS ENQUIRIES/COLLABORATION/PR / PLEASE CONTACT ME AT:-\naswathyasvi@gmail.com\nPlease follow me on\nInstagram: Tripod",
+            "dislikes": " Unavailable",
+            "id": "Ec8HhWaje7A",
+            "likes": "2,813 likes",
+            "title": "\u0d0e\u0d28\u0d4d\u0d31\u0d46 morning routine || Easy Tiffin Packing || Kutty chit chat || #Asvivlogs 9 || Asvi",
+            "top_3_comment": "Comment 1: Feline Empire\n18 hours ago\nWatching your vlogs on a rainy day, inside a blanket is so relaxing. \ud83d\ude07\ud83e\udd70\n60\nREPLY, Comment 2: Deepika Rejish\ud83c\udf38\n18 hours ago\n\u0d21\u0d47 \u0d07\u0d7b \u0d2e\u0d48 \u0d32\u0d48\u0d2b\u0d4d \u0d06\u0d23\u0d4d \u0d15\u0d42\u0d1f\u0d41\u0d24\u0d7d \u0d07\u0d37\u0d4d\u0d1f\u0d02... \u2764\ufe0f\n47\nREPLY, Comment 3: Nisha Mundath\n18 hours ago\nAlways give soaked almonds to kids ..more beneficial it is\n11\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Ec8HhWaje7A",
+            "video_length": 747.981,
+            "views": "104,329 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=I0MqNSuNC_Y",
+      "title": "[TW] depressed \ud835\udd87\ud835\udd8e\ud835\udd93\ud835\udd8c\ud835\udd8a in quarantine | stuffing myself with cookies and bread",
+      "video": {
+        "ad": null,
+        "comments": "292",
+        "content creator": "ILikePotatoes",
+        "date": "Apr 3, 2021",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "I0MqNSuNC_Y",
+        "likes": "3,135 likes",
+        "title": "[TW] depressed \ud835\udd87\ud835\udd8e\ud835\udd93\ud835\udd8c\ud835\udd8a in quarantine | stuffing myself with cookies and bread",
+        "top_3_comment": "Comment 1: Pinned by ILikePotatoes\nthefivefive\n1 year ago\nFat people also overwhelming have eating disorders and aren't taken seriously bc of fatphobia stuff like 'obesity leads to overeating' wtf?\n446\nREPLY, Comment 2: Isabella Lara\n1 year ago\nI don't think that you're romanticizing ED's at all... this is your outlet. Binging is such a hard thing to overcome.\n472\nREPLY, Comment 3: Julie Marie\n1 year ago\nhey hun, you're not romanticizing EDs. all your videos are raw and real. im so sorry youre having such a difficult time, but you are worthy of recovery and are worthy of peace of mind. hang in there <3\n332\nREPLY",
+        "url": "https://www.youtube.com/watch?v=I0MqNSuNC_Y",
+        "video_length": 440,
+        "views": "106,115 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=vmdITEguAnE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=51_Vg15u1m4",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=zGH3NN42wY4",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Lkl9_3-jX6c",
+          "title": "OVERNIGHT OATS | easy, healthy breakfast & 6 flavor ideas!",
+          "video": {
+            "ad": null,
+            "comments": "4,908",
+            "content creator": "Downshiftology",
+            "date": "Jan 23, 2021",
+            "description": "Learn how to make the perfect batch of overnight oats! It\u2019s one of the easiest, no-cook breakfast recipes that will leave you with healthy grab-and-go breakfasts to enjoy throughout the week. Bonus \u2013 it\u2019s endlessly customizable!\n\nIf you love healthy breakfast ideas but don\u2019t want to do a whole lot of work in the morning, overnight oats were made for you. Honestly, it\u2019s as easy as stirring together a couple of ingredients in a jar, placing it in the fridge, and enjoying the next morning. Plus, you can meal prep overnight oats for the whole week!\n\n\ud83d\udda8  Printable Overnight Oats Recipe: Organic Gluten-Free Oats: ",
+            "dislikes": " Unavailable",
+            "id": "Lkl9_3-jX6c",
+            "likes": "285,649 likes",
+            "title": "OVERNIGHT OATS | easy, healthy breakfast & 6 flavor ideas!",
+            "top_3_comment": "Comment 1: Pinned by Downshiftology\nDownshiftology\n1 year ago\nThe flavor combinations really are endless. I wanted to add about a half a dozen more flavors to this video - ha! Maybe I'll have to do a follow-up video. ;) But I'd love to hear what your favorite flavor combos are! xo - Lisa\n1.1K\nREPLY, Comment 2: Jinya No\n1 year ago\nAs a college student, this is the way to get good amount of nutrients and also saves a lot of time for cooking! I'm taking health and nutrients class and this overnight oats will significantly improve my meal plan and my health overall. Thanks for the inspiration!!\n1.7K\nREPLY, Comment 3: StevenCattyPaw\n9 months ago\nJust FYI for anyone interested, the basic recipe she recommends (1/2 cup oats, 1/2 cup 2% milk, 1/4 cup plain yogurt, 1 tbsp chia seeds, and 1 tbsp honey) comes to 380 calories. Obviously it'll be more if you add any extras to make the more complex versions.\n\nDidn't see that anywhere on here and thought it should be.\n749\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Lkl9_3-jX6c",
+            "video_length": 627.441,
+            "views": "10,257,072 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=9jJU3lzU7OU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=GhC-byAFsjU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=1LrrJilWenw",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=xnIyOwgnITo",
+          "title": "Meryl Streep and Nicole Kidman reveal their REAL birth names - The Graham Norton Show | BBC",
+          "video": {
+            "ad": null,
+            "comments": "3,452",
+            "content creator": "BBC",
+            "date": "Oct 9, 2015",
+            "description": "Subscribe and \ud83d\udd14 to the BBC \ud83d\udc49 https://bit.ly/BBCYouTubeSub\nWatch the BBC first on iPlayer \ud83d\udc49 https://bbc.in/iPlayer-Home Together on Graham\u2019s sofa tonight: Hollywood superstars Meryl Streep and Nicole Kidman talk about their real and childhood names.\n\nGraham Norton presents a show on the people, trends and stories that interest him most and covers some of the best new films and music albums coming out soon!All our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the 'Are all programmes that are broadcast available on BBC iPlayer?' FAQ \ud83d\udc49 ",
+            "dislikes": " Unavailable",
+            "id": "xnIyOwgnITo",
+            "likes": "119,341 likes",
+            "title": "Meryl Streep and Nicole Kidman reveal their REAL birth names - The Graham Norton Show | BBC",
+            "top_3_comment": "Comment 1: Emalhures\n2 years ago\n\u201cAnd Meryl Streep you weren\u2019t always Meryl Streep\u201d \u201cwHaT????\u201d She just had 1 second of existential crisis\n15K\nREPLY, Comment 2: the3spirit\n1 year ago\nThe Hokulani story and the research that took is still one of the finest examples of why no other talk show compares to Graham Norton's. Pure brilliance. XOXO ;)\n2.1K\nREPLY, Comment 3: Jhavoy Pryce\n2 years ago\n\"I'm sorry, what was the question?\" That is so me\n10K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=xnIyOwgnITo",
+            "video_length": 279.901,
+            "views": "16,056,251 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=yRmRseiONIU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=tkt879htS7I",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=KK9-rA4eTOw",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=wtdUemxZUsM",
+          "title": "Minikitchen Pizza new style minipizza \ud83c\udf72 Real Cooking\ud83c\udf72 shorts\ud83c\udf72food\ud83c\udf72 smallkitchencookig #smallkitchen.",
+          "video": {
+            "ad": null,
+            "comments": "3",
+            "content creator": "Mini Kitchen 540",
+            "date": "Jul 16, 2022",
+            "description": "Minikitchen Pizza new style minipizza \ud83c\udf72 Real Cooking\ud83c\udf72 shorts\ud83c\udf72food\ud83c\udf72 smallkitchencookig #smallkitchen\ud83c\udf72 Real Cooking \ud83c\udf72 shorts  \ud83c\udf72  food  \ud83c\udf72 smallkitchencookig ,#smallkitchen #realtaste  ",
+            "dislikes": " Unavailable",
+            "id": "wtdUemxZUsM",
+            "likes": "89 likes",
+            "title": "Minikitchen Pizza new style minipizza \ud83c\udf72 Real Cooking\ud83c\udf72 shorts\ud83c\udf72food\ud83c\udf72 smallkitchencookig #smallkitchen.",
+            "top_3_comment": "Comment 1: Pinned by Mini Kitchen 540\nMini Kitchen 540\n12 hours ago (edited)\nDear guys please \ud83d\ude4f\ud83d\ude4f support my channel \u2764\ufe0f and subscribe my channel \ud83d\ude4f\ud83d\ude4f\n9\nREPLY, Comment 2: SURAJ SONI\n12 hours ago\nYummy.\ud83d\ude0b\ud83d\ude0b\n10\nREPLY, Comment 3: Ruksana Khan\n12 hours ago\nPizza?\n10\nREPLY",
+            "url": "https://www.youtube.com/watch?v=wtdUemxZUsM",
+            "video_length": 31.661,
+            "views": "4,353 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=InXBSPXnwDA",
+      "title": "Highly Nutritious Weightloss Breakfast Smoothie for Healthy Skin Glow",
+      "video": {
+        "ad": null,
+        "comments": "13",
+        "content creator": "Meal Pot",
+        "date": "Jul 16, 2022",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "InXBSPXnwDA",
+        "likes": "159 likes",
+        "title": "Highly Nutritious Weightloss Breakfast Smoothie for Healthy Skin Glow",
+        "top_3_comment": "Comment 1: Amandeep Kaur Sethi\n10 hours ago\nIt looks tempting \ud83c\udf3a\ud83c\udf3a\nREPLY, Comment 2: Celebrate Life With Swati\n7 hours ago\nCan we add oats to it\nREPLY, Comment 3: Babyat Nim\n8 hours ago\nYummy \ud83d\ude0b\nREPLY",
+        "url": "https://www.youtube.com/watch?v=InXBSPXnwDA",
+        "video_length": 120,
+        "views": "3,549 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=M7EpdCilDC0",
+  "title": "tw ed: unplanned binge",
+  "video": {
+    "ad": null,
+    "comments": "73",
+    "content creator": "not balanx",
+    "date": "Jan 30, 2022",
+    "description": "Error found",
+    "dislikes": " Unavailable",
+    "id": "M7EpdCilDC0",
+    "likes": "1,683 likes",
+    "title": "tw ed: unplanned binge",
+    "top_3_comment": "Comment 1: Moody Moo\n4 months ago (edited)\nYou can undo effects of binging but you can\u2019t undo the permanent damage from purging. They really destroy your organs, especially your heart muscle. You can die of heart failure so don\u2019t feel bad about not purging, it\u2019s a good thing <3\n91\nREPLY, Comment 2: rebecca xx\n5 months ago\na good first step to stop overeating is to NOT use any electronics while u eat. just focus on the food, eat alot of protein and not just carbs. I know its easier said than done (i literally binged on homemade loaf of bread yesterday) but it is all about self-discipline. Another good thing is to also just give ur credit card to a family member \ud83d\ude04\n272\nREPLY, Comment 3: Croft\n5 months ago\nA tip to stop overeating is leaving your credit card at home and instead bringing a certain amount of cash out with you everyday and setting a limit on how much you can spend. Helps a lot for me :)\n61\nREPLY",
+    "url": "https://www.youtube.com/watch?v=M7EpdCilDC0",
+    "video_length": 375.161,
+    "views": "63,352 views"
+  }
+}

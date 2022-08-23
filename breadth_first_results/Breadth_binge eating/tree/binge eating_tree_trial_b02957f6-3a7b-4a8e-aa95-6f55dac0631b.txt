@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=F_7huOfVMP0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ndbmEEysKQo",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=B6_H0rk_ZZQ",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=5356zt0JiDY",
+          "title": "Counting Calories with a Ballerina",
+          "video": {
+            "ad": null,
+            "comments": "7,958",
+            "content creator": "Munchies",
+            "date": "Sep 21, 2016",
+            "description": "Behind the elegance of ballet dancer Theresa Farrell is an athlete to the core. In this episode of FUEL, we follow Theresa as she drops half a pound a week, working towards her performance goal weight for the upcoming ballet season with American Contemporary Ballet in Los Angeles, CA.\n\nTheresa has honed her diet down to a science by keeping meticulous records, eating pre-packaged meals, and doing lots and lots of calculations \u2013 for her it\u2019s a simple numbers game of calories in versus calories out. This precise calorie counting gives her the peace of mind to maintain her focus on training and long days of dancing, hiking, stretching, and icing. Whether she\u2019s having a midnight bowl of cereal or a 5 A.M. corndog, Theresa has it all calculated, so when it\u2019s time to take the stage, she knows that her body will be ready.\n\nSubscribe to Munchies here: ",
+            "dislikes": " Unavailable",
+            "id": "5356zt0JiDY",
+            "likes": "131,950 likes",
+            "title": "Counting Calories with a Ballerina",
+            "top_3_comment": "Comment 1: Courtney Evans\n3 years ago\nShe starts her day with a corndog and ends the day with her feet in a trashcan full of ice. I love this woman.\n19K\nREPLY, Comment 2: Happy New Fears\n2 years ago (edited)\nA smart tip I heard from a student ballerina in my school: \"If it feels like a diet, you're not doing it right. It's not about dieting, it's about self-control and common sense.\"Another great tip my grandma, who recently retired from ballet,  taught my siblings and I: \"Don't eat until you're full, eat until you're satisfied\"\n9K\nREPLY, Comment 3: noelle\n1 year ago\nas someone with an eating disorder, i'm jealous of her. i'm not jealous of her body, i'm jealous of her healthy relationship with food. i wish i had that\n1.8K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=5356zt0JiDY",
+            "video_length": 1053.361,
+            "views": "6,849,457 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=OAlyBWRmkxs",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xbagFzcyNiM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=GxI0ewBJdMo",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=gZpcTVqpaPw",
+          "title": "After anorexia: Life's too short to weigh your cornflakes | Catherine Pawley | TEDxLeamingtonSpa",
+          "video": {
+            "ad": null,
+            "comments": "1,396",
+            "content creator": "TEDx Talks",
+            "date": "Feb 24, 2017",
+            "description": "Diagnosed with anorexia nervosa in early 2012 Catherine battled the illness throughout her \u2018A\u2019 levels and the first year of her degree which resulted in her taking two gap years to get specialist treatment as an inpatient Eating Disorders Unit. Catherine reveals a deeply honest account into her road to recovery which will hopefully inspire others. \n\nCatherine is a chemistry student at the University of Warwick, a photography enthusiast and a self-confessed perfectionist. While growing up in Leicestershire, Catherine was diagnosed with anorexia nervosa in early 2012 and battled the illness throughout her \u2018A\u2019 levels and the first year of her degree. This resulted in her taking two gap years to get specialist treatment as an inpatient at an Eating Disorders Unit.\n\nCatherine has just completed her second year at university, and has not relapsed. She is busy enjoying student life and everything it entails, before entering the 'world of work' when she graduates next year.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "gZpcTVqpaPw",
+            "likes": "47,836 likes",
+            "title": "After anorexia: Life's too short to weigh your cornflakes | Catherine Pawley | TEDxLeamingtonSpa",
+            "top_3_comment": "Comment 1: Gina\n2 years ago\nI wish she\u2018d see this comment: THIS was the video that saved my life 2 years ago. I was anorexic and depressed. When I randomly watched this (I was actually looking for videos to trigger me) I cried and cried and cried and cried. And then It ALL CHANGED. This day honestly changed my life. I\u2018m healthy and happy now and I eat what and whenever I want \ufe0f\n5.8K\nREPLY, Comment 2: M M\n5 years ago\npowerful talk. she has a soothing and controlled voice. well delivered.\n6.3K\nREPLY, Comment 3: adagio\n5 years ago\nI sit here watching this knowing that tomorrow I'm going to be hospitalised for my eating disorder and telling myself that I'm going to make the most of this. I'm determined that this will be the turning point. I don't want to be sick anymore.\n4.1K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=gZpcTVqpaPw",
+            "video_length": 1087.541,
+            "views": "1,545,041 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=5hEQdvKmgSM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=aX7jnVXXG5o",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=UEysOExcwrE",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=eMVyZ6Ax-74",
+          "title": "Eating and Body Dysmorphic Disorders: Crash Course Psychology #33",
+          "video": {
+            "ad": null,
+            "comments": "2,477",
+            "content creator": "CrashCourse",
+            "date": "Oct 7, 2014",
+            "description": "Get Help: If you think you have an eating disorder, please contact http://www.nationaleatingdisorders.org/ for help!\n***\nIn this episode of Crash Course Psychology, Hank walks us through the troubling world of Eating and Body Dysmorphic disorders. There's a lot going on here and, even though we still have a lot of dots to connect, a lot we can learn to help ourselves and each other. \n\nWant more videos about psychology? Check out our sister channel SciShow Psych at ",
+            "dislikes": " Unavailable",
+            "id": "eMVyZ6Ax-74",
+            "likes": "63,236 likes",
+            "title": "Eating and Body Dysmorphic Disorders: Crash Course Psychology #33",
+            "top_3_comment": "Comment 1: Taylor Ramsey\n6 years ago\nAs a girl who started starving herself when she was almost three hundred lbs and has lost over one hundred lbs, I have to say that you shouldn't judge someone based on their looks. Anyone can have a disorder, even if the don't fit the \"standard\" for it\n7.9K\nREPLY, Comment 2: Montgomery\n5 years ago\nI'm really disappointed in my schools health classes. I'm recovering from binge eating disorder, and I was kind of happy that we were going to talk about eating disorders in class cause I thought it could help others and make them aware of it. Boy was I wrong. Our teacher obviously didn't know anything about the disorders, well at the least she doesn't understand BED\nShe told us anorexics don't eat, only exercise and vomit. Bulimics barely eat, and vomit everything and anything they do eat. And binge eating disorder.. Well according to her, we stuff our selves and then we go and vomit and stuff ourselves and then vomit.\nRead more\n6.1K\nREPLY, Comment 3: Kylie Watson\n5 years ago (edited)\nI'm a survivor of anorexia! took me years to recover but i think i'm doing quite well. <3\n6K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=eMVyZ6Ax-74",
+            "video_length": 611.301,
+            "views": "2,935,727 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=NPgHu2Lup94",
+      "title": "A First-Person Account of Binge Eating Disorder | WebMD",
+      "video": {
+        "ad": null,
+        "comments": "6,958",
+        "content creator": "WebMD",
+        "date": "Sep 17, 2015",
+        "description": "Learn more about binge eating disorder: https://wb.md/2H5L4QF\nBED affects far more people than other eating disorders do. It\u2019s believed to be the most common eating disorder in the U.S., striking more than 6 million Americans at some point during their lifetimes. But the disorder is often misunderstood. This video is a moving, first-person account of living with BED and what it takes to overcome it.\n\nSubscribe to WebMD here:  ",
+        "dislikes": " Unavailable",
+        "id": "NPgHu2Lup94",
+        "likes": "87,499 likes",
+        "title": "A First-Person Account of Binge Eating Disorder | WebMD",
+        "top_3_comment": "Comment 1: Elena Gilbert\n1 year ago\nThe saddest thing is while binging you don't actually enjoying food... you are aware what your doing but you can't stop.\n3.1K\nREPLY, Comment 2: tiny\n3 years ago\nthe psychology behind eating disorders is so intense. You don't know unless you've been there.\n15K\nREPLY, Comment 3: Lex Rose\n2 years ago\n\u201cAn eating addiction is the hardest to overcome because it is necessary to live.\u201d \n1.4K\nREPLY",
+        "url": "https://www.youtube.com/watch?v=NPgHu2Lup94",
+        "video_length": 441.501,
+        "views": "4,141,144 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=nTPsEHHA_g8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=jCds-hs_r9A",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=X0P-goTz4bk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=s07HxmMwrBE",
+          "title": "Oppositional Defiant, Conduct and Intermittent Explosive Disorder |a Trauma Informed Perspective",
+          "video": {
+            "ad": null,
+            "comments": "60",
+            "content creator": "Doc Snipes",
+            "date": "Premiered Jun 22, 2022",
+            "description": "#oppositionaldefiantdisorder, #conductdisorder and #intermittentexplosivedisorder |a #TraumaInformed Perspective in the #dsm5tr for #NCE #exampreparation \n\ud83d\udce2SUBSCRIBE and click the BELL to get notified when new videos are uploaded. \n\ud83d\udcb2 AllCEUs.com Unlimited continuing education CEUs $59 \n\ud83d\udcbb Online course based on this video can be found at \n\u2b50 Specialty Certificate Programs for Case Management and Counselor Certification beginning at $89 ",
+            "dislikes": " Unavailable",
+            "id": "s07HxmMwrBE",
+            "likes": "321 likes",
+            "title": "Oppositional Defiant, Conduct and Intermittent Explosive Disorder |a Trauma Informed Perspective",
+            "top_3_comment": "Comment 1: Heide-Raquel Fuss\n3 weeks ago (edited)\nLady, \nYou are so compassionate, warm, empathic, caring. It feels so soothing. We all learn from you. You explane so much, so we understand more, in a sensitive way. Full of insight. I can not even believe, that a person like you even exist. I cry inside, because you are so wise, sensitive, caring and warm. All things i never experienced before. \nI am glad and so thankfull, to just met you on youtube. I am really aware, you are such a blessing. To listen to you is just lifesaving. Thank you so much.\n8\nREPLY, Comment 2: Giuliana CR\n3 weeks ago\nDear Doctor Snipes,\nI want to thank you for all of these presentations you are hosting.  It has helped me on a personal and professional level. May you keep guiding and informing people with relevant information. Thank you so much \n3\nREPLY, Comment 3: Ray SideCarDude\n3 weeks ago\nI have gone years without an incident, meditate, keep stress down, walk away from things when they start getting to intense, don't respond to other drivers, stay away from conflict, but to no avail, always comes back to haunt me and I just explode.  Always feel guilty about what's done and said, have been involved in therapy, and tried everything, i KNOW its gonna happen, nothing to be done because eventually, I explode.\n10\nREPLY",
+            "url": "https://www.youtube.com/watch?v=s07HxmMwrBE",
+            "video_length": 3646.041,
+            "views": "10,539 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=Vm_tpcHENF8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=uXFjn1jpB9g",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=-zIaa7jPzdo",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=onKHtQWkNaU",
+          "title": "Bipolar Disorder Assessment and Diagnosis",
+          "video": {
+            "ad": null,
+            "comments": "60",
+            "content creator": "Doc Snipes",
+            "date": "Feb 14, 2022",
+            "description": "\ud83d\udce2SUBSCRIBE and click the BELL to get notified when new videos are uploaded. \n\ud83d\udcb2 AllCEUs.com Unlimited CEUs $59 based on these videos\nA direct link to the CEU course is https://www.allceus.com/member/cart/i...",
+            "dislikes": " Unavailable",
+            "id": "onKHtQWkNaU",
+            "likes": "494 likes",
+            "title": "Bipolar Disorder Assessment and Diagnosis",
+            "top_3_comment": "Comment 1: Mitch Nidey\n5 months ago\nI have an associates of science, majored in psych. I intend on going back to a formal college in the future. right now I enjoy learning from you Dr. snipes. you're in my prayers\n19\nREPLY, Comment 2: liz walker\n5 months ago\nI was finally diagnosed with bipolar at 42 although I was 15 when I had my first mania. No one looked beyond it to see if their was a  cooccurring disorder along with it. I certainly had many signs of CPTSD by that point. No one ever looked past blaming everything on my having bipolar until I went in to therapy 16 years later and realized what had been done to me all those years was abuse and at that time it was still going on. I really got a lot better but after 4 years of therapy the state said I'd been in therapy too long and I surely must be \"fixed\". Last fall I tried a new one but just didn't click with her. All I do is try to do the work on my own. I have got to move from here nearer a city. Their's nothing in Northern Michigan but sub zero temps  and snow.\n10\nREPLY, Comment 3: Kirstin Strand\n5 months ago\n This woman is extremely well informed, isn't she?\n13\nREPLY",
+            "url": "https://www.youtube.com/watch?v=onKHtQWkNaU",
+            "video_length": 3906.541,
+            "views": "17,697 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=eCo0sDFaauU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=dOoowYQmZr8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=h4ZAdFWtTOE",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=dArFfvM9hLE",
+          "title": "Chronic Fatigue Syndrome and Persistent Fatigue",
+          "video": {
+            "ad": null,
+            "comments": "233",
+            "content creator": "Doc Snipes",
+            "date": "Sep 3, 2021",
+            "description": "Chronic Fatigue Syndrome also known as myalgic encephalomyelitis and Persistent Fatigue\n\ud83d\udce2SUBSCRIBE and click the BELL to get notified when new videos are uploaded. \n\ud83d\udcb2 AllCEUs.com Unlimited continuing education CEUs $59 \n\ud83d\udcbb Online course based on this video can be found at ",
+            "dislikes": " Unavailable",
+            "id": "dArFfvM9hLE",
+            "likes": "1,126 likes",
+            "title": "Chronic Fatigue Syndrome and Persistent Fatigue",
+            "top_3_comment": "Comment 1: K M R\n10 months ago\nI have had ME (chronic fatigue syndrome as you call it) or over a decade. In the UK, NICE are discussing not using CBT and Graded Exercise as effective treatments for ME as they have been proven not to work. Additionally the fatigue you get from a medication is completely different to the bone crushing fatigue you experience with ME. There is no comparison. A lot of the points you made were interesting but in my experience they aren't correct.\n46\nREPLY, Comment 2: Vicky\n8 months ago\nSo fortunate to have this woman's help.. support the generosity of care she puts effort to put across of help and we don't need to end up at the doctor's to learn it.\n15\nREPLY, Comment 3: Ron Jason Aborita\n9 months ago\nMa\u2019am I watch your videos every week and you won\u2019t believe how much you have helped me. May you receive more blessings and happiness in life for helping a lot of people. Thank you.\n17\nREPLY",
+            "url": "https://www.youtube.com/watch?v=dArFfvM9hLE",
+            "video_length": 4093.061,
+            "views": "41,860 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=cBBABa0mp4A",
+      "title": "Diagnosis of Eating Disorders: Anorexia, Bulimia, Binge Eating and Food Addiction | DSM 5 TR",
+      "video": {
+        "ad": null,
+        "comments": "20",
+        "content creator": "Doc Snipes",
+        "date": "Premiered Jun 29, 2022",
+        "description": "Diagnosis of Eating Disorders for the #NCE :  Anorexia, #Bulimia, #BingeEating and food addiction  | #DSM5TR  NOTE: Treatment targets and approaches will be covered in upcoming videos\n\ud83d\udce2SUBSCRIBE and click the BELL to get notified when new videos are uploaded. \n\ud83d\udcb2 AllCEUs.com Unlimited continuing education CEUs $59 \n\ud83d\udcbb Online course based on this video can be found at ",
+        "dislikes": " Unavailable",
+        "id": "cBBABa0mp4A",
+        "likes": "155 likes",
+        "title": "Diagnosis of Eating Disorders: Anorexia, Bulimia, Binge Eating and Food Addiction | DSM 5 TR",
+        "top_3_comment": "Comment 1: It'sVery Controversial\n2 weeks ago\nI completely fixed my anorexia bulimia problem as a young woman by doing this:  Made a 'contract' with myself that if I wanted to escape the most critical voice in my head telling me I was unworthy, I'd have to commit to a 'rule' that if I ate to the point that I would need to purge, then instead of purging (following the typical pattern) I would instead sit with the discomfort of a full stomach which gives you back full control and stops the trigger response of guilt and replaces it with power.  Then you slowly but surely reprogram your patterns of behaviour.  You ultimately need patience and reinforce your strength to follow your own contract.  It worked.  I've never had a problem since.\n3\nREPLY, Comment 2: Bella Zella\n9 days ago\nThanks for this video so glad I discovered your channel\u2026.. I cannot stop eating and it\u2019s becoming extreme. It has become an addiction and feels like a drug. I get instant relief when I eat and I\u2019m not always even hungry. The stress and pressures of life are building and I find myself comfort eating more and more\u2026..\nREPLY, Comment 3: kyah khalsa\n2 weeks ago (edited)\nMy ED is gone now tho after age 15-35.  I like your presentation.  Great info.   But I watch many of your presentations for my self growth.   I was just offering if anyone wanted to know about a severe disorder and recovery from it in a positive strength based way. I\u2019m not a therapist yet tho.  Just a peer\n\nInteresting updated information for diagnostic criteria. You are the most talented clinician I have never met.  They say, \u201cif you can meet anyone alive or dead, who would it be?\u201d You would be on my top 11 list (11 is for the OCD)\nRead more\n1\nREPLY",
+        "url": "https://www.youtube.com/watch?v=cBBABa0mp4A",
+        "video_length": 3704,
+        "views": "3,799 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=glLWKsxis4s",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=HKY5Kaddxow",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=HFkOuZRjLQM",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=KHtzeslkOVU",
+          "title": "Understanding Mental Health Disorders",
+          "video": {
+            "ad": null,
+            "comments": "0",
+            "content creator": "InHealth: A Washington Hospital Channel",
+            "date": "Feb 15, 2017",
+            "description": "The symptoms of mental illness can be difficult to detect. When signs and symptoms are present, family and friends may not know how to intervene or offer proper treatment recommendations. At this seminar you will learn warning signs of mental health concerns and will obtain an overview of common treatments. \n\nPresented By: Seema Sehgal, MD\nPsychiatrist\n\nOriginal Date: 02/02/17\n\n****SOURCES AND LINKS**** \n\nLearn more about Washington Hospital at: ",
+            "dislikes": " Unavailable",
+            "id": "KHtzeslkOVU",
+            "likes": "828 likes",
+            "title": "Understanding Mental Health Disorders",
+            "top_3_comment": "Comment 1: , Comment 2: , Comment 3: ",
+            "url": "https://www.youtube.com/watch?v=KHtzeslkOVU",
+            "video_length": 4916.781,
+            "views": "62,233 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=mlTFbuVvMU0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=XCaTQzjX2rQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=pLAr2X4sH5Q",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=DlCnI5uRQOk",
+          "title": "They Are What You Eat - How Food and Drugs Interact with the Gut Microbiome",
+          "video": {
+            "ad": null,
+            "comments": "9",
+            "content creator": "University of California Television (UCTV)",
+            "date": "Jul 16, 2022",
+            "description": "Our bodies are dynamic ecosystems housing trillions of microbes that, while invisible to the naked eye, play a critical role in shaping human health. Scientists are beginning to understand the superpowers the microbiome holds. In this program, Peter Turnbaugh, Ph.D., discusses how our gut microbes are the result of the food we eat, which in turn impacts our health. Recorded on 05/17/2022. [7/2022] [Show ID: 38131]\n\nPlease Note: Knowledge about health and medicine is constantly evolving. This information may become out of date.\n\nExplore More Health & Medicine on UCTV\n(",
+            "dislikes": " Unavailable",
+            "id": "DlCnI5uRQOk",
+            "likes": "234 likes",
+            "title": "They Are What You Eat - How Food and Drugs Interact with the Gut Microbiome",
+            "top_3_comment": "Comment 1: Wealth & Health Check\n1 day ago\nAfter hearing this, I need nothing more to learn about my food. Great information to everyone.\nREPLY, Comment 2: steven brown\n1 day ago\nInteresting and informative presentation. Thank you for posting.\nREPLY, Comment 3: ResidualSelfImage\n1 day ago\n5-FU is an anticancer drug to will slow down stop cellular metabolism knocking out fast replicating cells so gut microbiome negating 5-FU would be a protective action of other cells ... which is why 5-FU chemotherapy is introduce in IV by passing the gut all together. ..my interest is how gut microbiome will produce cytokines that act as chemical messengers to interact with the immune system/hormone regulatory mechanisms .\n1\nREPLY",
+            "url": "https://www.youtube.com/watch?v=DlCnI5uRQOk",
+            "video_length": 5314.061,
+            "views": "8,339 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=cDyhqqKWDg0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=GR6ANm6Z0yk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=0VNQ6_hSA8o",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=3jT_Zui1Am8",
+          "title": "Seeing The Universe Like We've Never Seen It Before",
+          "video": {
+            "ad": null,
+            "comments": "2,395",
+            "content creator": "Bloomberg Quicktake: Originals",
+            "date": "Jul 12, 2022",
+            "description": "Now that the James Webb Space Telescope has released its first images, it\u2019s time for the science programs to begin.  \n\nWe meet 5 scientists who will be using the telescope during its first cycle of operations looking at the earliest galaxies, red giant stars in the disc of Andromeda, star forming regions in the MIlky Way and nearby galaxies, the Trappist-1 exoplanet system, and mysterious icy bodies beyond the orbit of Neptune.",
+            "dislikes": " Unavailable",
+            "id": "3jT_Zui1Am8",
+            "likes": "28,838 likes",
+            "title": "Seeing The Universe Like We've Never Seen It Before",
+            "top_3_comment": "Comment 1: Craig Richards\n1 day ago\nWhat a technological achievement of getting JWST built, launch into space, unfolding into place, and will be giving us the best pictures of our universe, is absolutely amazing.\n22\nREPLY, Comment 2: Alberto Laccourreye\n4 days ago\nThis video made me smile. I am so happy that some of us are smart enough to see beyond the day-to-day bs, enough to come together and invest their time and effort into such beautiful projects that serve our species in years to come!\n\nPeople are awesome.\n225\nREPLY, Comment 3: Jack Sew\n1 day ago\nIt\u2019s cool to look in the \u201cpast\u201d and all but I wonder so much what those stars and galaxies look like right now. Amazing\n43\nREPLY",
+            "url": "https://www.youtube.com/watch?v=3jT_Zui1Am8",
+            "video_length": 2340.121,
+            "views": "1,900,750 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=eruT6X7MoIo",
+      "title": "Understanding Binge Eating Disorder",
+      "video": {
+        "ad": null,
+        "comments": "0",
+        "content creator": "St Patrick's Mental Health Services",
+        "date": "Mar 2, 2022",
+        "description": "With approximately 1,800 new cases of eating disorders in Ireland each year, it is thought that binge eating disorder is more prevalent than other eating disorders, such as anorexia nervosa and bulimia nervosa. In recognition of this, experts from St Patrick's Mental Health Services (SPMHS) hosted a webinar to provide a deeper understanding of ",
+        "dislikes": " Unavailable",
+        "id": "eruT6X7MoIo",
+        "likes": "23 likes",
+        "title": "Understanding Binge Eating Disorder",
+        "top_3_comment": "Comment 1: , Comment 2: , Comment 3: ",
+        "url": "https://www.youtube.com/watch?v=eruT6X7MoIo",
+        "video_length": 3751.441,
+        "views": "1,575 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=wKmCn0H6uBk",
+  "title": "Binge Eating Disorder: 3 Common Myths",
+  "video": {
+    "ad": null,
+    "comments": "4",
+    "content creator": "Psych Hub",
+    "date": "Dec 31, 2021",
+    "description": "If you or someone you know has symptoms of an eating disorder, call the National Eating Disorder Association Hotline at 1-800-931-2237 or utilize their online chat option: https://www.nationaleatingdisorders.o...",
+    "dislikes": " Unavailable",
+    "id": "wKmCn0H6uBk",
+    "likes": "77 likes",
+    "title": "Binge Eating Disorder: 3 Common Myths",
+    "top_3_comment": "Comment 1: Himari Himura\n6 months ago\nI love your videos so keep making more videos\n2\nREPLY, Comment 2: Himari Himura\n6 months ago (edited)\nOne time my friend ate 2 pizza so I will not stress eat lmao\n\nEdit : not friend I meant to say classmates\n2\nREPLY, Comment 3: Himari Himura\n6 months ago\nPizza\n1\nREPLY",
+    "url": "https://www.youtube.com/watch?v=wKmCn0H6uBk",
+    "video_length": 189.521,
+    "views": "4,880 views"
+  }
+}

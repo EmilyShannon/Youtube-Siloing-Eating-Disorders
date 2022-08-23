@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=7p5O-SqbiCA",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=PY9DcIMGxMs",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=sWN13pKVp9s",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=V8MGBK1ap_4",
+          "title": "Emotional Eating: Making Peace with Food 2",
+          "video": {
+            "ad": null,
+            "comments": "0",
+            "content creator": "Doc Snipes",
+            "date": "Dec 4, 2016",
+            "description": "On-Demand counseling CEU course is available at: https://www.allceus.com/member/cart/i...\nAllCEUs provides counseling education and CEs for LPCs, LMHCs, LMFTs and LCSWs as well as addiction counselor precertification training and continuing education.\nLive, Interactive Webinars ($5): ",
+            "dislikes": " Unavailable",
+            "id": "V8MGBK1ap_4",
+            "likes": "Unavailable",
+            "title": "Emotional Eating: Making Peace with Food 2",
+            "top_3_comment": "Comment 1: , Comment 2: , Comment 3: ",
+            "url": "https://www.youtube.com/watch?v=V8MGBK1ap_4",
+            "video_length": 3939.901,
+            "views": "3,945 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=K60xHx836T0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=awtmTJW9ic8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=F-nNTGK0wFw",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+          "title": "Trust your hunger and make peace with food | Eve Lahijani | TEDxUCLA",
+          "video": {
+            "ad": null,
+            "comments": "515",
+            "content creator": "TEDx Talks",
+            "date": "Jul 9, 2015",
+            "description": "Learning to listen to yourself and trust yourself can be very difficult for some people. Eve Lahijani talks to us about the importance of learning to do so especially when it comes to our hunger and diet.\n\nEve Lahijani is a Registered Dietitian and Nutrition Health Educator at UCLA. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "Ssr2UDB9EWQ",
+            "likes": "20,949 likes",
+            "title": "Trust your hunger and make peace with food | Eve Lahijani | TEDxUCLA",
+            "top_3_comment": "Comment 1: Kasey Brown\n2 years ago\nI've seen many videos about this topic, and one of them said: \"your life's purpose is not to lose weight\". This really resonated with me, and I hope this is able to help others\n797\nREPLY, Comment 2: jackflintstone\n6 years ago\nOne of the best talks on our relationship to food.   So much dysfunction going on, especially from the government (lame dietary recommendations), fad diet authors, and sadly, the medical (MD) community, who usually don't have a clue or worse.   A well spent 10 minutes of sane recommendations for being healthy on many levels.   Great job Eve!\n719\nREPLY, Comment 3: AlPal\n2 years ago\nAs I have struggled with an eating disorder and constantly yo-yo with my weight (eat, starve, eat, starve), I always return to this talk when I feel afraid or lost. It's awfully confusing and scary to have a horrible relationship with food, but this talk encourages me to challenge myself time after time\n129\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+            "video_length": 653.421,
+            "views": "651,563 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=aRiv4DR9rzw",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=eCo0sDFaauU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=P2AUat93a8Q",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=IKJPtpaNP2A",
+          "title": "Healing the Inner Child: Cognitive Behavioral Therapy Strategies to Address Trauma and Abandonment",
+          "video": {
+            "ad": null,
+            "comments": "2,309",
+            "content creator": "Doc Snipes",
+            "date": "Aug 6, 2021",
+            "description": "#innerchild #abandonment #trauma #cognitivebehavioraltherapy \n\ud83d\udce2SUBSCRIBE and click the BELL to get notified when new videos are uploaded. \n\ud83d\udcb2 AllCEUs.com Unlimited continuing education CEUs $59 \n\ud83d\udcbb Online course based on this video can be found at ",
+            "dislikes": " Unavailable",
+            "id": "IKJPtpaNP2A",
+            "likes": "29,964 likes",
+            "title": "Healing the Inner Child: Cognitive Behavioral Therapy Strategies to Address Trauma and Abandonment",
+            "top_3_comment": "Comment 1: Gabriela Martiniuc\n11 months ago\nShamed, blamed , humiliated, insulted, ignored , attacked verbally, bullied . My childhood in a nutshell.\n1.1K\nREPLY, Comment 2: Parishia Love\n10 months ago (edited)\nI entered into a relationship and all of my childhood traumas started emerging. I started to be depressed bc of the inner battle. This video was recommended to me at the perfect time. Thank youI just have to remember that these thoughts are not true. I am good enough, I am lovable and I am worthy of being my best self.\n1.1K\nREPLY, Comment 3: Phil U\n8 months ago\nIm a 31 year old male crying like a baby on this right now...my God the things I've bottled all these years...thank you for this\n137\nREPLY",
+            "url": "https://www.youtube.com/watch?v=IKJPtpaNP2A",
+            "video_length": 2632.021,
+            "views": "1,447,843 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=4mmzPskOqCg",
+      "title": "Emotional Eating Making Peace with Food | Counseling Techniques",
+      "video": {
+        "ad": null,
+        "comments": "37",
+        "content creator": "Doc Snipes",
+        "date": "Nov 7, 2016",
+        "description": "AllCEUs provides counseling education and CEs for LPCs, LMHCs, LMFTs and LCSWs as well as addiction counselor precertification training and continuing education.\n\nContinuing Education (CE) credits for addiction and mental health counselors, social workers and marriage and family therapists can be earned for this presentation at  ",
+        "dislikes": " Unavailable",
+        "id": "4mmzPskOqCg",
+        "likes": "Unavailable",
+        "title": "Emotional Eating Making Peace with Food | Counseling Techniques",
+        "top_3_comment": "Comment 1: Charlotte Arena\n11 months ago\nI have been on both spectrums Anorexia and Obesity where I am now...Again. This all makes so much sense.\n13\nREPLY, Comment 2: Hoda T\n10 months ago\nThank you so much for this. I found it very helpful and informative. \nAt the beginning you mentioned that you will discuss differentiating between emotional eating and eating disorders, but I didn't see that. I would appreciate it if you could either let us know or provide resources that differentiates between emotional eating and binge eating disorder. \nThank you\n1\nREPLY, Comment 3: mj\n6 months ago\nThis really helped me with my emotional eating, there\u2019s more helpful information in this!! Thank you\n3\nREPLY",
+        "url": "https://www.youtube.com/watch?v=4mmzPskOqCg",
+        "video_length": 2847,
+        "views": "31,213 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=tTb3d5cjSFI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=q2lhrGgwdSI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=C0pLIjQG1q0",
+          "title": "Food Addiction: Craving the Truth About Food | Andrew Becker | TEDxUWGreenBay",
+          "video": {
+            "ad": null,
+            "comments": "609",
+            "content creator": "TEDx Talks",
+            "date": "Nov 5, 2019",
+            "description": "Andrew Becker discusses how the current food environment of today motivates us to consume until we are obese. We are evolutionarily primed to thrive in a food scarce environment with natural foods, but now face an endless supply of processed junk food that has the power to cause addiction.\n\nRecorded and edited courtesy of NorthCoast Productions. Andrew Becker is from the small town of Slinger Wisconsin, and completed his bachelor\u2019s degree in human biology with an emphasis in dietetics from the University of Wisconsin Green Bay. Currently, he is completing his Ph.D. in biochemistry in Dr. Jong-In Park's lab at the Medical College of Wisconsin. The focus of his research is to investigate how certain types of cancers utilize the ERK1/2 signaling pathway to promote their proliferation. Along with his research, Andrew has an immense passion for nutrition. He believes it is important for everyone to understand how the foods they eat affect their health. He has made it a life-long goal to continuously teach the public about nutritional health whenever he gets the opportunity. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "C0pLIjQG1q0",
+            "likes": "8,032 likes",
+            "title": "Food Addiction: Craving the Truth About Food | Andrew Becker | TEDxUWGreenBay",
+            "top_3_comment": "Comment 1: Koyna Nath\n1 year ago\nYou know what's worse? You know you are craving for something which is unhealthy, you eat it like there's no tomorrow because you get excited, and then you regret and your mind is full of guilt after looking at that place which you just emptied. You look at yourself, your bloated stomach and face and scold yourself for doing it all over again. And when you talk about this problem about how hard you try not to, or in my case, how I am SCARED of eating food because I'll gain weight, they either judge you for whether you are going through some ED or just for fun, call you overdramatic. \nIdk I just had to say this here because I guess I'm not the only one who goes through this mental battle with my own mind and other people's mind\n493\nREPLY, Comment 2: Mychannel\n2 years ago\nHonestly feels so good to know I\u2019m not alone.. my food addiction made me gain 100lbs.. I was able to lose it but still battle with it everyday and gained about 20 back it\u2019s seriously an everyday battle..foods on my mind almost 24/7\n310\nREPLY, Comment 3: Paul Robeson\n2 years ago\nFood addiction is actually a new concept to me. I have battled and quit drinking and smoking cigarettes cold turkey with a few relapses of course but this addiction has honestly been the hardest to face and hardest to even recognize. Anyway I\u2019m going to battle this addiction and win because I know I\u2019m stronger than my appetite and I\u2019m more motivated to change this pattern than I ever have been since my cigarette addiction has been beat. This was a great video and I appreciate what you said and how you said it.\n256\nREPLY",
+            "url": "https://www.youtube.com/watch?v=C0pLIjQG1q0",
+            "video_length": 833.981,
+            "views": "347,577 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=aqhzFd4NUPI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ShQYz8AwKJE",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=HyHDYsV7vow",
+          "title": "Obsessed: My Addiction to Food and My Journey to Health | Diane Smith | TEDxSpringfield",
+          "video": {
+            "ad": null,
+            "comments": "310",
+            "content creator": "TEDx Talks",
+            "date": "Nov 24, 2015",
+            "description": "Three little words had the power to change two lives: \u201cyou are fat.\u201d Find out how, as Emmy award winning journalist Diane Smith talks about her journey to health and her New York Times best seller Obsessed \u2013 America\u2019s Food Addiction and My Own co-written with Mika Brzezinski, co-host of \u201cMorning Joe\u201d on MSNBC.  \n\nA New York Times bestselling author, Emmy award winning journalist, documentary producer, and speaker Diane Smith is a media veteran. Her book Obsessed: America\u2019s Food Addiction and My Own written with MSNBC Morning Joe co-host Mika Brzezinski became an instant best seller.\n \nDiane has been on the air in Connecticut for more than 25 years at WTNH-TV, CPTV, and WTIC-Newstalk 1080. She is the anchor and senior producer for program development at CTN. As president of Diane Smith Media she has produced Emmy award winning documentaries, and other programs and videos.\n \nDiane serves on the board of  CT Girl Scout Council, CT Women\u2019s Council, the Civic Health Advisory Group and the Board of Overseers for the Bushnell Theater. Diane was inducted into the National Academy of Television Arts and Sciences Silver Circle for 25 years of distinguished service to broadcasting and the community. She holds an honorary doctorate from Charter Oak College.\n\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "HyHDYsV7vow",
+            "likes": "6,848 likes",
+            "title": "Obsessed: My Addiction to Food and My Journey to Health | Diane Smith | TEDxSpringfield",
+            "top_3_comment": "Comment 1: Ferreira Designs\n4 years ago\nExcellent talk. Loved it! And to the losers criticizing her body shape: she's a middle-aged woman who has suffered with obesity most of her life. Get a grip, stop being such losers.\n467\nREPLY, Comment 2: chrokeii\n3 years ago\nI'm glad she's bringing this up, but I was hoping to hear some suggestions about how to overcome food addiction\n345\nREPLY, Comment 3: Rien Jen\n4 years ago\nShe brings up some great points.  Body-shaming is hateful, hurtful and over-simplistic; there are several reasons why we have this problem and one of the biggest being that junk food is cheap, it's addictive and it's everywhere.  You can't go into a dang store without candy for sale near the cashier.  I'm lucky not to be overweight, but I struggle to keep the scale from creeping upwards, because when it goes up even a few pounds, losing that weight is just about the hardest thing to do.\n43\nREPLY",
+            "url": "https://www.youtube.com/watch?v=HyHDYsV7vow",
+            "video_length": 880.221,
+            "views": "520,202 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=VghNzpWFzLU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8yRgYiNH39E",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=C0pLIjQG1q0&t=3s",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=weMCvY7SKsM",
+          "title": "Brain over Binge Podcast, Ep 1: A Simple Plan to Stop Binge Eating",
+          "video": {
+            "ad": null,
+            "comments": "73",
+            "content creator": "Brain over Binge (Kathryn Hansen)",
+            "date": "Sep 13, 2020",
+            "description": "This is a podcast to help you stop binge eating. In this episode, you\u2019ll learn about the Brain over Binge (https://brainoverbinge.com/) approach to recovery from bulimia, binge eating disorder, or any form of binge eating. Kathryn Hansen and Cookie Rosenblum share their personal stories of recovery, and explain why overcoming binge eating doesn\u2019t have to be complicated. \n\nSubscribe to the Brain over Binge course for only $10.99 per month: ",
+            "dislikes": " Unavailable",
+            "id": "weMCvY7SKsM",
+            "likes": "1,624 likes",
+            "title": "Brain over Binge Podcast, Ep 1: A Simple Plan to Stop Binge Eating",
+            "top_3_comment": "Comment 1: Sofia Hafsaoui\n1 year ago (edited)\nThe fact that we\u2019re getting this for free is so heartwarming and kind. Thank you for that. I\u2019ve been a binge eater for 4 years now and there were days where i would starve myself for days.. lately my binge episodes are getting worse and i feel hopeless. But the only shimmer of hope i have is from starting my recovery journey with this podcast thank you so much.\n175\nREPLY, Comment 2: Nguyen Phuong Linh\n1 year ago\nTo sum up, we have to focus on 2 things:1. Dismiss urges to binge\n2. Eat adequately\n133\nREPLY, Comment 3: S. Leeks\n1 year ago\nI\u2019ve been dealing with this my whole life. My family and friends didn\u2019t know because I control my weight with extreme dieting and exercising. Food is controlling my life and I\u2019m ready for a change. Thank you\n41\nREPLY",
+            "url": "https://www.youtube.com/watch?v=weMCvY7SKsM",
+            "video_length": 1452.121,
+            "views": "52,979 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ynD1Db8wVH0",
+      "title": "How To Stop Binge Eating",
+      "video": {
+        "ad": null,
+        "comments": "399",
+        "content creator": "Kati Morton",
+        "date": "May 24, 2021",
+        "description": "Binge eating is roughly defined as eating more food than a \u201cnormal\u201d person would in a short period of time. And as I have talked about many many times, eating disorders are just coping skills for other things going on in our life.  \nBased on the way our nervous system is set up it\u2019s soothed by eating. We are born to be soothed and calmed down by being fed. Sucking a swallowing from a bottle soothes our system as babies and helps us calm down. As adults if we have attachment issues (maybe our caregivers weren\u2019t reliable or predictable in how they interacted with us) we could struggle to self soothe. Also if we have BPD it can be hard to soothe our system because we feel everything so intensely. So we can turn to food to help us feel better, which is why emotional eating is so very common. Also with the pandemic and all the stress that it has caused we are all seeking out ways to feel safe, and okay. So we may be binge eating as a way to cope. \nWe can also struggle as the day progresses because we get tired, overwhelmed, and are therefore more vulnerable to the urges to cope unhealthfully. Since we have a lot of judgment in our society around weight, if we overeat we can then fall into a shame/guilt spiral and follow up our binge eating with restricting (but not always). But for many we can feel like we have to \u201cmake up\u201d for the binge. And get caught in that binge restrict cycle\n\nI'm Kati Morton, a licensed therapist making Mental Health videos!",
+        "dislikes": " Unavailable",
+        "id": "ynD1Db8wVH0",
+        "likes": "3,234 likes",
+        "title": "How To Stop Binge Eating",
+        "top_3_comment": "Comment 1: Savvy Aggarwal\n1 year ago\nI had been an emotional binge eater for over a decade. Here's what helped me overcome it:\n1. Sufficient sleep every single day\n2. Regular Pranayam practice\n3. Long walks in the evenings\nRead more\n261\nREPLY, Comment 2: Mika xx\n1 year ago\nI'm so proud of myself, I just ate dinner and then I kind of 'wanted' to binge eat and I already got chips and chocolate, but then I didn't eat the chocolate. That's like A HUGE step for me. I wish everyone the best and believe in yourself!!\n479\nREPLY, Comment 3: Lori King\n1 year ago\nKatie, I've gained 40 lbs from binge eating while working from home during covid.  Now I;m feeling really disgusting and looking for ways to avoid that habit.  Perfect timing.  Thank you.\n65\nREPLY",
+        "url": "https://www.youtube.com/watch?v=ynD1Db8wVH0",
+        "video_length": 849,
+        "views": "64,121 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=lqbL-UhhyPk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=X4Qm9cGRub0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=C3F3ZAltQ78",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=GxI0ewBJdMo",
+          "title": "Starving for the Good: An Anorexic's Search for Meaning & Perfection | Elisabeth Huh | TEDxUChicago",
+          "video": {
+            "ad": null,
+            "comments": "126",
+            "content creator": "TEDx Talks",
+            "date": "Jun 29, 2016",
+            "description": "Elisabeth shares her inspiring story battling anorexia and offers her perspective on how others can recover through the power of communication, empathy, and moral understanding. \n\nElisabeth Huh is a third-year who was initially unable to attend the University of Chicago because of her severe struggles with anorexia. Since her recovery, she has worked as a memoirist, national essay finalist, and now TEDxUChicago speaker to help others re-conceptualize eating disorders as symptoms of a deeper societal illness.\nElisabeth is majoring in Fundamentals: Issues and Texts and minoring in Human Rights. Her interdisciplinary program of study extends into all aspects of her life. On campus, she advocates human rights advocacy events with UChicago Amnesty International and helped start its first-annual Human Rights Journal. She is also working on creating a new campus human rights report. Elisabeth is the Head Ethics Editor of the University of Chicago Undergraduate Philosophy Review and is Co-Editor-In-Chief of The Midway Review. She teaches moral and political philosophy to middle-schoolers on the South Side of Chicago. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "GxI0ewBJdMo",
+            "likes": "5,136 likes",
+            "title": "Starving for the Good: An Anorexic's Search for Meaning & Perfection | Elisabeth Huh | TEDxUChicago",
+            "top_3_comment": "Comment 1: Tanya Smith\n4 years ago\n\"I skipped a few meals and I sat through the hunger & I realized it felt good to punish myself. I felt like it was just retribution for my flaws and my wrongdoings. But, it couldn't get rid of my self hatred\"  6:05\n558\nREPLY, Comment 2: Valerie Wills\n4 years ago\nFantastic talk....  my son nearly died from anorexia...  three years later, he still suffers but is slowly getting better.\n97\nREPLY, Comment 3: Lisa Turnbull\n5 years ago\nPsychologists listen up. This girl knows her stuff.\n563\nREPLY",
+            "url": "https://www.youtube.com/watch?v=GxI0ewBJdMo",
+            "video_length": 1159.301,
+            "views": "239,053 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=2ftjKrE9XS4",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=gOwAWpBeDSg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=3Q76l_4IDsA",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=TS09i1OZzWY",
+          "title": "Eating Disorders: When Light is Dark | Anastasia Broder | TEDxLSE",
+          "video": {
+            "ad": null,
+            "comments": "63",
+            "content creator": "TEDx Talks",
+            "date": "May 31, 2018",
+            "description": "Dedicated to tackling the stigma around mental illnesses, and eating disorders in particularly, Anastasia discusses her own personal experience battling EDNOS in hopes of generating conversation and shedding light onto misunderstood aspects of the problem. Anastasia is passionate about poetry, literature, and theatre, leading her to be heavily involved with the Drama Society as a Vice President at the LSE. Since the age of 15, she has struggled with an eating disorder known as EDNOS, and through her experience she has realised the predominance of stigma and stereotypes around this particular mental issue. Her issues have led her to take interest in both charity and healthcare, and she hopes to be more involved in both fields in the future. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+            "dislikes": " Unavailable",
+            "id": "TS09i1OZzWY",
+            "likes": "2,031 likes",
+            "title": "Eating Disorders: When Light is Dark | Anastasia Broder | TEDxLSE",
+            "top_3_comment": "Comment 1: Jade Eliot\n3 years ago\nEvery word of this speech is deliberate and laden with meaning and every sentence is poetic without any sense of pretension... I'm in awe.\n162\nREPLY, Comment 2: Apocalypse575\n3 years ago\nFinally, someone speaks out about anorexia as other than a desire to be \"pretty\". Its a mental issue and often has to do with control and stress.\n153\nREPLY, Comment 3: derina hooks\n3 years ago\nWhen she said our silence literally kills... I got chills. Because it's true. Not speaking up about this keeping it silent only makes it worse.. like knowing you have cancer but refuses to do chemo... You'll just suffer and everyone around you will feel helpless..\n57\nREPLY",
+            "url": "https://www.youtube.com/watch?v=TS09i1OZzWY",
+            "video_length": 941.941,
+            "views": "86,291 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=QbxinUJcLGg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Uy8yLaoWybk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=j9vE4i017q4",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=63XsokRPV_Y",
+          "title": "An epidemic of beauty sickness | Renee Engeln | TEDxUConn 2013",
+          "video": {
+            "ad": null,
+            "comments": "1,052",
+            "content creator": "TEDx Talks",
+            "date": "Oct 21, 2013",
+            "description": "Girls grow up hearing both implicit and explicit messages suggesting \nthat the most important attribute they can strive for is beauty. The \nchronic focus on beauty directs cognitive, financial, and emotional \nresources away from other more important goals. Dr. Engeln considers whether there is hope for treating the epidemic of beauty sickness and what it might be like to live in a world where women feel free to spend less time in front of the mirror and more time changing the world. \n\n\nDr. Engeln is a psychology professor and body image researcher at \nNorthwestern University. She is the author of \"Beauty Sick: How the \nCultural Obsession with Appearance Hurts Girls and Women\" (Harper, \n2017). For more information, go to beautysick.com.\n\nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
+            "dislikes": " Unavailable",
+            "id": "63XsokRPV_Y",
+            "likes": "19,498 likes",
+            "title": "An epidemic of beauty sickness | Renee Engeln | TEDxUConn 2013",
+            "top_3_comment": "Comment 1: Mel M\n5 years ago\n\"Your body isn't for looking at, it's for doing things\" - truer words were never spoken.\n2K\nREPLY, Comment 2: maryamakiling\n7 years ago\nWhen I was young and quite attractive, thin, I had the worst experiences with guys. When I was 53 and over menopause, and had stopped caring about staying young and just was friends with myself, I met someone a little younger who said \"the body isn't everything\" who I had (and still have, 8 yrs later) the most fulfilling relationship with ever. So girls -- find your bliss. Take care of yrself, sure, work out, eat well, love your work and stay calm, don't need a man to be happy...he'll find you. And if he doesn't, you'll still be happy loving yrself.\n1.5K\nREPLY, Comment 3: BlackMuddyRiver\n5 years ago\nWe do it to our own daughters when we constantly say you are so  beautiful, we should praise them for all ability and  skills being funny smart brave strong.\n1.5K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=63XsokRPV_Y",
+            "video_length": 946.061,
+            "views": "787,547 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=OAlyBWRmkxs",
+      "title": "Eating disorders through developmental, not mental, lens | Richard Kreipe | TEDxBinghamtonUniversity",
+      "video": {
+        "ad": null,
+        "comments": "42",
+        "content creator": "TEDx Talks",
+        "date": "May 8, 2018",
+        "description": "What image comes to your mind when you hear the term anorexia nervosa? Historically, eating disorders have been viewed in predominantly negative terms as \u201cmental\u201d disorders, most commonly occurring in females 10 to 25 years old. Kreipe\u2019s perspective emanating from the integration of concepts of human ecology, the normal \u201ctasks of adolescence\u201d and brain development yields a more comprehensive approach that facilitates treatment acceptance and eschews negative stereotyping often applied to patients with an eating disorder and their families. Whatever image is in your mind with respect to eating disorders will be challenged by this presentation. As a board-certified pediatrician and adolescent medicine specialist at the University of Rochester, Dr. Richard Kreipe, MD, has applied the biopsychosocial approach developed more than 50 years ago. Rather than dichotomize illness into medical or psychiatric domains, the approach considers all levels of the \u201cperson\u201d \u2014 from molecules to community \u2014 to be dynamically interactive. This approach is guided by an ecological framework, recognizing that young people have a powerful influence on their environment (including parents, siblings, family, peers, school, neighborhood, etc.) and their environment profoundly influences their growth and development with potentially long-lasting effects. In 1985, Kreipe established the interdisciplinary Child and Adolescent Eating Disorder Program in Pediatrics at the University of Rochester. He has served as the medical director of the New York State Department of Health\u2019s Western NY Comprehensive Care Center for Eating Disorders since its inception in 2005, covering a 30-county area. His best teachers have been patients and their families. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+        "dislikes": " Unavailable",
+        "id": "OAlyBWRmkxs",
+        "likes": "2,346 likes",
+        "title": "Eating disorders through developmental, not mental, lens | Richard Kreipe | TEDxBinghamtonUniversity",
+        "top_3_comment": "Comment 1: TheKitchenGirl\n2 years ago\nHUGE props to him for looking beyond what he was told and taught, for questioning what was considered \"right\" at that time! Wish there was more people like him in the medical field... My therapist used to so obviously look for any slight hint of fault in my mother/my parents when in reality, they are why I am on this recovery journey and why I keep going even after relapses!\n150\nREPLY, Comment 2: april shepherd\n2 years ago\nHe is passionate and understanding.  I've witness first hand Dr. K treating people with eating disorders and he is very passionate about his work and he is so hands on with his patients that he gets to root of the problem  and he always say you can't take the eating disorder away from them but you can teach them how to control it while maintaining a healthy lifestyle.  He is amazing with the pediatrics and they are lucky to have such a passionate man.\n83\nREPLY, Comment 3: ohhruge\n1 year ago\nThis was the most clinically accurate and comprehensive take on eating disorders I've heard!\n29\nREPLY",
+        "url": "https://www.youtube.com/watch?v=OAlyBWRmkxs",
+        "video_length": 1137.941,
+        "views": "102,220 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=fCmmmtB5seY",
+  "title": "Binge Eating Disorder (BED) | Pathophysiology, Risk Factors, Symptoms, Diagnosis, Treatment",
+  "video": {
+    "ad": null,
+    "comments": "94",
+    "content creator": "JJ Medicine",
+    "date": "Aug 14, 2020",
+    "description": "Binge Eating Disorder (BED) | Pathophysiology, Risk Factors, Symptoms, Diagnosis, Treatment\n\n** PLEASE DONATE to help support this channel \u279c https://www.patreon.com/jjmedicine **\n\nBinge Eating Disorder (BED) is an eating disorder involving recurrent episodes of overeating (binge eating) without compensatory behaviors. BED is associated with several medical and psychiatric conditions. There are a variety of associated risk factors that increase the risk of having BED, including certain early childhood experiences. In this lesson, we discuss the associated conditions and risk factors in more detail, along with the symptoms of BED, the way BED is diagnosed (using the DSM-5 criteria), and methods of treatment. \n\nREFERENCES:\n\"Binge Eating Disorder\", StatPearls (2020)",
+    "dislikes": " Unavailable",
+    "id": "fCmmmtB5seY",
+    "likes": "734 likes",
+    "title": "Binge Eating Disorder (BED) | Pathophysiology, Risk Factors, Symptoms, Diagnosis, Treatment",
+    "top_3_comment": "Comment 1: Vaibhav Negi\n11 months ago\nI\u2019ll tell you about my perfectionism with binge eating disorders. So if I ruin my diet in a day, I get depressed and I feel that as I have ruined my diet now, I should eat my heart out as my day is already ruined. So I order food online even if I\u2019m not hungry cause my subconscious mind thinks that I should enjoy and eat my favourite dish as the day is already ruined.\n307\nREPLY, Comment 2: Daily Dose of Medicine\n1 year ago\nDepression and binge eating are strongly linked. Many binge eaters are either depressed or have been before; others may have trouble with impulse control and managing and expressing their feelings. Low self-esteem, loneliness, and body dissatisfaction may also contribute to binge eating.\n140\nREPLY, Comment 3: Tsunami\n5 months ago\nThis is a serious and complex problem that is still very underestimated in the present.\nIn the future it will be seen just as a severe problem as any drug abuse - because chemically, it is.\n27\nREPLY",
+    "url": "https://www.youtube.com/watch?v=fCmmmtB5seY",
+    "video_length": 659.141,
+    "views": "44,447 views"
+  }
+}

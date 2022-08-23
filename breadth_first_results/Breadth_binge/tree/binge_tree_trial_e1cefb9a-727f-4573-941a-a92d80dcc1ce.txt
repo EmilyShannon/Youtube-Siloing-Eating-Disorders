@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=ihCg3TXyedU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Svh08FJdVDk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=x7aY3uqkhxo",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=h9Uf5OlX7yY",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "1",
+            "content creator": "Food Sensei",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "h9Uf5OlX7yY",
+            "likes": "76 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Lt. Maple\n1 month ago\nIt took me a minute to realize the first person was joking \ud83d\udc4b\ud83c\udffe\ud83d\ude2d\n5\nREPLY, Comment 2: , Comment 3: ",
+            "url": "https://www.youtube.com/watch?v=h9Uf5OlX7yY",
+            "video_length": 639.241,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=P2y18iY7qBQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=VYpz83UfuME",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=kJ5PCbtiCpk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=99R7u8C0YY0",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "19",
+            "content creator": "Juan pWn!",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "99R7u8C0YY0",
+            "likes": "116 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Pinned by Juan pWn!\nJuan pWn!\n11 days ago\nSecond one is in the works \ud83d\udc4c\n3\nREPLY, Comment 2: NYAN\n2 weeks ago\nThank you so much for doing the math! For so reason,  the numbers are easier to understand the the vid lol. Love it!\n14\nREPLY, Comment 3: D Flatt\n2 weeks ago\n2:05 2000 calories per day.  Whose she trying to fool?\n12\nREPLY",
+            "url": "https://www.youtube.com/watch?v=99R7u8C0YY0",
+            "video_length": 468.561,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=AZmBKInxtXE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=_BtXPQimVhg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=kF-KPuG8dgo",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-gPVHohG5ek",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "2,088",
+            "content creator": "Rosie Maio",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "-gPVHohG5ek",
+            "likes": "31,931 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Pinned by Rosie Maio\nRosie Maio\n2 weeks ago\nthank you so much for all the beautiful comments \ud83e\udd70 to clear up some confusion/questions:\n- this is not Italy, it's Moldova: a country in Eastern Europe bordering with Ukraine and Romania\n- my mom is from there and she moved to Italy at 19, so what you see in this video is my mom's side of the family - I'm half Italian (dad's side) and half Moldovan (mom's side)\nRead more\n845\nREPLY, Comment 2: Penni Nickel\n3 weeks ago\nThis has to be one of the most unique videos ever - thank you for sharing not just traditional Moldovan meals but also the schools, the village life and wedding traditions. What a beautiful country. Also, you are glowing extra in this video Rosie!! We're happy to see you happy <333 :)\n2.7K\nREPLY, Comment 3: Loretta 253\n2 weeks ago (edited)\nmet a girl who became my best friend in middle school, she was Moldovian and was always talking to me how proud she was to be (I'm Native American and was proud to be so we were like two peas in a pod) she would bring me her traditional food and I would do the same. She taught me how to say her name in her language and even some words, I did the same. Her mother was super nice and always brought me treats and loved picking us up from our basketball practices / games. She was my best friend, still miss her as I switched schools and lost touch but I'm thinking of finding her on social media to reconnect and see how she is doing.\n211\nREPLY",
+            "url": "https://www.youtube.com/watch?v=-gPVHohG5ek",
+            "video_length": 1882.661,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ZB0x7KESf4w",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "28",
+        "content creator": "Food Sensei",
+        "date": "",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "ZB0x7KESf4w",
+        "likes": "235 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: sourdough toast\n2 weeks ago\nwhat I ate today!!!\nbreakfast: iced matcha with coconut milk, half a protein french toast with blueberries\nlunch: pineapple matcha smoothie (I had my period so my stomach was fighting me on it)snack: carmel rice cakes with yogurt \ud83e\udd70\nRead more\n8\nREPLY, Comment 2: Keelie Tweedie\n1 month ago (edited)\nWhat I ate today: \nBreakfast: latte, homemade breakfast sandwich and pineapple activia \nLunch: fettuccine alfredo with chicken and mushrooms \nSnacks: snap pea chips, fruit snacks, and chocolate chip perfect protein bar\nRead more\n7\nREPLY, Comment 3: fairytale arts\n2 months ago\nwhat I ate today !\nbkfast: nonfat skyr yogurt w probiotic granola & berries + an iced black coffee\nlunch: massive salad made w romaine, cucumber, cherry tomatoes, sweet pepper, chickpeas, olives, carrots & an apple\npost workout: misfits protein bar\nRead more\n17\nREPLY",
+        "url": "https://www.youtube.com/watch?v=ZB0x7KESf4w",
+        "video_length": 648.821,
+        "views": ""
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=dlaijc5teRU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=kgutLSOGXqw",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Cw7w4hFeF2w",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=LRrC-8WalIs",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "56",
+            "content creator": "Elba B",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "LRrC-8WalIs",
+            "likes": "914 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Keeva W\n1 year ago\nI feel the needing to finish the package thing... I find buying multipacks with mini packages inside helps :)\n193\nREPLY, Comment 2: Adeeti\n1 year ago\nThe lesson I learnt the hard way is, the only way to recover is by not holding it against you. Feeling guilty will just make you feel worse and likely to binge again. So just let it be, what happened, happened \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\nWhen we wake up tomorrow it's a new day and a new cycle, forgive and move on :)\nALWAYS! Stay positive \u2665\ufe0f\n56\nREPLY, Comment 3: Samira Port\n1 year ago\nI feel you. I've had massive binges years ago. A cycle of binge & restricting. I recently uploaded a video on how to overcome and stop binge eating. Check it out if you like and it may bring some clarity and perhaps even help. All the best \ud83d\udc95\n44\nREPLY",
+            "url": "https://www.youtube.com/watch?v=LRrC-8WalIs",
+            "video_length": 348.881,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=HPDKVfeX-co",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=w_BbGJdFNkg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=aN9syJfWp8U",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ofas-oB0tu0",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "568",
+            "content creator": "peachy tin",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "Ofas-oB0tu0",
+            "likes": "4,959 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: kaen\n1 year ago (edited)\none thing I don't understand is, why do people in all the binging videos I've watched seem to stay so calm while binging. like when I binge I just unconsciously inhale all the food without even tasting any of it\n2.8K\nREPLY, Comment 2: idontcare74\n1 year ago\nSome of those foods seem so fancy. When I binged it was like an entire loaf of white bread with pb and an entire box of cocoa puffs.\n1.9K\nREPLY, Comment 3: J K\n1 year ago\nWhen I binge I don\u2019t even bother to place the food on the plate I just eat it straight from the package. Btw stay safe \u2764\ufe0f\u2764\ufe0f\n1.4K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Ofas-oB0tu0",
+            "video_length": 358.541,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=1WYaBL6wm4c",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=g0mDWxuUdzQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=H9M8zbHbZC8",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=MIAe89JRDoc",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "160",
+            "content creator": "joy",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "MIAe89JRDoc",
+            "likes": "2,774 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Pinned by joy\njoy\n1 year ago\nyou\u2019re not alone\u2661\n232\nREPLY, Comment 2: SaturnXx\n1 year ago\nYou look like such a nice person \ud83d\ude0a you\u2019re not alone. Imagine if all people with eating disorders gathered in a room and talk about how they feel\n550\nREPLY, Comment 3: Rina Nova\n1 year ago\nMy best friend is struggling real bad with bulimia and alcoholism. I used to have anorexia and then \u201crecovered\u201d meaning I just switched to Binge Eating. Then when I got to my heaviest of 300 lbs, I took on some purging tendencies. But I did Intuitive Eating and still do. Now I\u2019m at a somewhat normal weight of 150 lbs :) I wish the same for you but I know that everyone recovers at their own pace. Good luck and just remember that you\u2019re worth becoming healthy.\n157\nREPLY",
+            "url": "https://www.youtube.com/watch?v=MIAe89JRDoc",
+            "video_length": 313.681,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=z2QFInuhyRc",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "100",
+        "content creator": "Elba B",
+        "date": "",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "z2QFInuhyRc",
+        "likes": "1,680 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: Ash M\n1 year ago\nI started binge eating right after my marriage to a narcissist. To deal with the abuse I found comfort in eating as I didn\u2019t have any family nor anyone who I can share my feelings with.\n197\nREPLY, Comment 2: Lake Harper\n1 year ago\ni feel like any time i open a package while binging, i need to eat everything in the package because that way i \u201cwon\u2019t eat it when i\u2019m having a good day\u201d but then i\u2019m having a \u201cgood day\u201d and i just buy a new pack and the cycle starts again \ud83d\ude02\ud83d\ude02\n120\nREPLY, Comment 3: Emily Louise\n1 year ago\nSending you all my love and best wishes for recovery xx\n160\nREPLY",
+        "url": "https://www.youtube.com/watch?v=z2QFInuhyRc",
+        "video_length": 289.981,
+        "views": ""
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=8q1M8HtrgXU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=48EeEDXCIfg&list=RDCMUCPt20XzTjxcHaUc_P-1qYAg&start_radio=1&rv=48EeEDXCIfg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=q-2GLkPa5qk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=48EeEDXCIfg",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "153",
+            "content creator": "kokonutmilk ",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "48EeEDXCIfg",
+            "likes": "2,366 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: sasha\n8 months ago (edited)\nthe part about how some anorexics love food is so true!! i love cooking, buying and preparing it i just hate eating it/putting on weight (btw your channel is helping me so much thank u!!)\n178\nREPLY, Comment 2: lll\n11 months ago\n\u201cmy parents got me food without telling me\u201d story of my life!! ruins my whole day\n600\nREPLY, Comment 3: funni monke\n11 months ago\nthe part with \"anorexics hating food is a stereotype\" is so true! i love food so much, i always eat my favourite ones when i binge, im sad when i go to the store and see my favourite chips there knowing i just can't eat it because i'll gain weight. it's so hard yet i keep restricting and restricting, i even try to plan my meals and starve just to eat my favourite food the next day.\n283\nREPLY",
+            "url": "https://www.youtube.com/watch?v=48EeEDXCIfg",
+            "video_length": 349.441,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=1DDlEHJg_wE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=QGlAErIDvnI&list=RDCMUCbaNRxDvDxT4Xlz9CylWK2g&start_radio=1&rv=QGlAErIDvnI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=sUSjBei81Ow",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=QGlAErIDvnI",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "120",
+            "content creator": "ILikePotatoes",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "QGlAErIDvnI",
+            "likes": "3,207 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: stupid cunt\n9 months ago\nI had anorexia nervosa and \"recovered\" a few months ago. Now I binge constantly, especially when I'm home alone or when it's late at night. I literally pray for the days when I could restrict heavily\n194\nREPLY, Comment 2: c1nbnss\n9 months ago\nur srsly my biggest comfort channel, I hope u feel better soon and remember that if you binge its alright, dont be too hard on yourself! <3\n308\nREPLY, Comment 3: kokonutmilk\n9 months ago\nI relate to binging alone... when I binge with my parents home they literally ask me \"are you binging\" and it's so embarrassing so being home alone has started being a trigger for me :( \nThank you for sharing, you're my biggest comfort channel \ud83d\udc9c EDs are super isolating\n343\nREPLY",
+            "url": "https://www.youtube.com/watch?v=QGlAErIDvnI",
+            "video_length": 347.181,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=bI-K-Nuzg4E",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=tIZBXAHUsLk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8XlZvSnqnZI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=9pWDEPF3F9M",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "3",
+            "content creator": "issa\u2218lin",
+            "date": "",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "9pWDEPF3F9M",
+            "likes": "16 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Pinned by issa\u2218lin\nissa\u2218lin\n22 hours ago\nomg no i miscounted- i had 865 kcals today\n1\nREPLY, Comment 2: Dawn\n16 minutes ago\nthe fact that you play genshin too makes me weirdly happy! \\(\u2267\u25bd\u2266)/ you're one of my biggest comfort ytbers <33\nREPLY, Comment 3: Chloe K\n12 hours ago\nhaah vanilla is the same way! it smells sooo good then you taste it and you\u2019re like \ud83e\udd22 this burns\nREPLY",
+            "url": "https://www.youtube.com/watch?v=9pWDEPF3F9M",
+            "video_length": 243.881,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=yD6fP50_0bM",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "388",
+        "content creator": "kokonutmilk ",
+        "date": "",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "yD6fP50_0bM",
+        "likes": "6,563 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: Anna\n6 months ago (edited)\nSometimes even a \"normal\" day of eating feels like a binge to me. But I'm 3 days binge free. I've made a list of motivations to stop and it's helped a bit.\n\nUPDATE: so it's been 5 months since I commented this and I only now saw all the likes and supportive comments. Thank you so much! I find it very encouraging. Unfortunately it's gotten worse but with school around the corner and seeing how much of a toll it's had on my life, mental health and personality I will change. Starting today! I've failed a lot but I'm gonna keep going.\n1K\nREPLY, Comment 2: Bee\n7 months ago\nI binged for 4 days and holy shit, I didn\u2019t know I could feel so out of control. People don\u2019t understand that when you\u2019re in a binge mindset the only thing you can think about is food. NOTHING could distract me. I remember trying to convince myself I could have just one digestive biscuit before devouring the whole packet. I felt like I could control myself, but I couldn\u2019t. I threw up because of how physically sick I felt (did not purge) It\u2019s horrific. I tried to distract myself so much but the only thing on my mind was food?? It\u2019s three days later, and as of now I feel a lot better. I want to be ashamed with myself, to look back and go- why are you strong enough now, but not then? But that feeling of being out of control sticks in my mind, and I can\u2019t even truly blame myself. Sorry for the rant!!\n1.2K\nREPLY, Comment 3: Xan\n7 months ago\nMan, when you said 'how can I be so excited for food even though my stomach hurts' I really felt that. Like, I have been curled up in pain because of binging so much and literally all I could think about was what to eat next \ud83d\ude2d\n703\nREPLY",
+        "url": "https://www.youtube.com/watch?v=yD6fP50_0bM",
+        "video_length": 433.661,
+        "views": ""
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=DYBJf3DUR-U",
+  "title": "",
+  "video": {
+    "ad": null,
+    "comments": "120",
+    "content creator": "Food Sensei",
+    "date": "",
+    "description": "Error found",
+    "dislikes": " Unavailable",
+    "id": "DYBJf3DUR-U",
+    "likes": "543 likes",
+    "title": "",
+    "top_3_comment": "Comment 1: \ud83e\udd8bCarolyn\ud83e\udd8b\n13 days ago\nAs an older woman who is recovering from BED myself , it def doesn't help at all to eat all the processed junk ,esp sweets\"chocolates\"  ...I think they make it worse because they're engineered that way to make you eat them endlessly.What helps me alot is when I \"try\"  to get a balance of protein, healthy fats,carbs and starches in every meal and feel satisfied  or full but not miserable. It's a daily struggle but as they say \"Tomorrow is a new day\"\u270a\ud83c\udffbBest of luck to those who struggle with an eating disorder.\u2764\ufe0f\n57\nREPLY, Comment 2: Karma\n2 weeks ago\nhad a really bad few binge purge days lately, watching these videos helps me not feel so alone and disgusted with myself. <3\n66\nREPLY, Comment 3: eepeepme\n9 days ago\nI really appreciate these young women for being honest and for actively participating in their recovery process. I wish them all the best!\n10\nREPLY",
+    "url": "https://www.youtube.com/watch?v=DYBJf3DUR-U",
+    "video_length": 737,
+    "views": ""
+  }
+}

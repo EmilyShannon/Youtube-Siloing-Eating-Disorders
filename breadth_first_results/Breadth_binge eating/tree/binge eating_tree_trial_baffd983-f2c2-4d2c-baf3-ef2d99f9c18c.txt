@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=K60xHx836T0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=y801ldQVizY",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=TSt8A4Iarts",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "728",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "8bE5XLGNPF0",
+            "likes": "16,479 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Carolina Wood\n3 years ago\nIt is the fact that she talks about this through her own experiences that gives her talk a sincerity that really works for me.\n877\nREPLY, Comment 2: UnDeR tHe StArS oVeR ThE mOoN\n3 years ago\nI don\u2019t want to wait till I\u2019m 50 to make a change. I am 26, and I do this EXACT thing that she is explaining. Yo-yo dieting, emotional eating, binge eating, starving, all of that, I have been doing that for ten years so far. I don\u2019t want to do it any longer. \nI\u2019ve tried every single \u201cdiet\u201d out there. I\u2019ve done everything. \nI need to fix lots of things in my life that cause many emotions and I eat because of those emotions. I starve because of those emotions. I do everything unhealthy to deal with those emotions. I need to change.\nRead more\n763\nREPLY, Comment 3: Lita P\n2 years ago\nThe exercise at the end was very powerful. Personally, I binge on ramen late at night when everyone is asleep. I remember that because my parents would work so much I felt alone. I turned to those noodles for comfort.\n109\nREPLY",
+            "url": "https://www.youtube.com/watch?v=8bE5XLGNPF0",
+            "video_length": 670.001,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=H6n3iNh4XLI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=tic7X3ET4gE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Ssr2UDB9EWQ",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "350",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "6CQyaeZWAXE",
+            "likes": "14,394 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Diya Chaklader\n2 years ago\nThe most unfair part of an eating disorder is that food doesn't look the same anymore. It turns into numbers on your phone or puke sitting in youe toilet bowl or an extra workout or just pure guilt\n1K\nREPLY, Comment 2: H Kale\n3 years ago\nIt took me 24 years to learn how to be kind to my body. Throughout the years I would go through phases of crash diets and then the polar opposite. I was so addicted to carbs and sugars. Two months ago I found the strength  to eat right and work out. This has been the hardest obstacle in my life and I am finally becoming the person I want to be. Sending nothing but love to those struggling.\n708\nREPLY, Comment 3: Johnny Cash\n3 years ago\nI was in the parking lot of a grocery store because I wanted to buy some chips while eating donuts at 12:30 am. I wanted to cry and just wanted to stop eating. I want a healthy relationship with food.\n1.5K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=6CQyaeZWAXE",
+            "video_length": 757.821,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=awtmTJW9ic8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=4UkZAwKoCP8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=R2C6bBNWGp0",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=w8u3q8hZtfo",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "434",
+            "content creator": "TEDx Talks",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "w8u3q8hZtfo",
+            "likes": "10,017 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Sherry Strong\n4 years ago\nThank you everyone! I am still blown away by the amount of positive comments and views this video has gained! Just to let you know, this talk was originally titled \u2018The Consumption Concept\u2019\u2019 when I presented it in Tokyo 2009, I\u2019m not sure why the video is titled \u2018One meal at a time\u2019. Hopefully this should clear up some of the confusion. Out of all the videos I have created, this one holds a special place in my heart and I am incredibly grateful for all the inspiring comments I have seen. With all the health information and nutritional confusion we are drowning in today, keep in mind one of the most powerful things we can do for our well-being is to share a meal with the people we care about. Love & hugs to you all! :)\n554\nREPLY, Comment 2: Elaine Villanueva\n2 years ago (edited)\n\"As soon as money gets into food, it becomes compromised. Because great food takes time.\" - Sherry Strong\n66\nREPLY, Comment 3: Kartik Agarwal\n4 years ago\nShe is so witty and a great orator, giving really important information that I never found anywhere else. You are truly impressive lady\n100\nREPLY",
+            "url": "https://www.youtube.com/watch?v=w8u3q8hZtfo",
+            "video_length": 765.781,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=HyHDYsV7vow",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "310",
+        "content creator": "TEDx Talks",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "HyHDYsV7vow",
+        "likes": "6,848 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: Ferreira Designs\n4 years ago\nExcellent talk. Loved it! And to the losers criticizing her body shape: she's a middle-aged woman who has suffered with obesity most of her life. Get a grip, stop being such losers.\n467\nREPLY, Comment 2: chrokeii\n3 years ago\nI'm glad she's bringing this up, but I was hoping to hear some suggestions about how to overcome food addiction\n345\nREPLY, Comment 3: Rien Jen\n4 years ago\nShe brings up some great points.  Body-shaming is hateful, hurtful and over-simplistic; there are several reasons why we have this problem and one of the biggest being that junk food is cheap, it's addictive and it's everywhere.  You can't go into a dang store without candy for sale near the cashier.  I'm lucky not to be overweight, but I struggle to keep the scale from creeping upwards, because when it goes up even a few pounds, losing that weight is just about the hardest thing to do.\n43\nREPLY",
+        "url": "https://www.youtube.com/watch?v=HyHDYsV7vow",
+        "video_length": 880,
+        "views": ""
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=Nh1Sxejr8JI",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xAdqLB6bTuQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=KPvd0Xuib3A",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=RweLXJBUk2k",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "833",
+            "content creator": "Mind Over Munch",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "RweLXJBUk2k",
+            "likes": "8,931 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Fay A\n1 year ago\nThe best way to discribe binge eating in my opinion, is continue eating even when you are full and not enjoying the food.\n3.4K\nREPLY, Comment 2: Rhyan McDowell\n8 months ago\nSomething I\u2019ve noticed during my binges is that I always need to be watching tv while I\u2019m eating so that I am truly tuned out. In order to be more mindful I\u2019m going to try and eat without screens present! Thanks for the video!\n1K\nREPLY, Comment 3: Enchanted Panda\n1 year ago\nLiterally everyday I'll binge eat when I'm stressed or just because I feel lonely. After I'm done eating I'll feel guilty and then force myself to vomit and then starve myself for the rest of the day and be like \"I'll start a diet tomorrow\" or \"I'll get in a good eating habits tomorrow\" but then the process just repeats and repeats.\n1.7K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=RweLXJBUk2k",
+            "video_length": 1113.021,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=3-FwKoippak",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=wTALDHP482o",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Cyya23MPoAI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=kGGM9swun6A",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "61",
+            "content creator": "AnnieJaffrey",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "kGGM9swun6A",
+            "likes": "2,086 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Janny Wood\n1 day ago\nAnnie, you are looking so well, so beautiful and so relaxed at this stage of your pregnancy. I wish you all the best in the upcoming weeks as you end this chapter of pregnancy and enter into Motherhood. All the best with the upcoming birth and arrival of your daughter. I know that everything will go well because you are super organized and ready. You have inspired me to get up earlier in the mornings which I haven\u2019t quite mastered yet but I am getting there. Thank you for all the support and wellness that I get from your channel. It has really made a difference to my life in enabling me to focus on what is important and to follow a healthy and active lifestyle. I am really living my best life right now. Sending you love and light your way. Thank you Annie!\ufe0f\n54\nREPLY, Comment 2: Asmaa vlog \uc544\uc2a4\ub9c8 \ube0c\uc774\ub85c\uadf8\n1 day ago\nEven though we can't see your family, I can feel that they are proud of you in every way, I really watch everything you do with admiration, I hope I can find the strength to do these things. \ufe0f\ufe0f\n20\nREPLY, Comment 3: Sabina Soare\n1 day ago\nAnnie, you look so radiant! I am so excited that the baby ia almost here! Sending you, Mo and babygirl all the best wishes, happy thoughts and good energy! Really happy to be a part of your beautiful journey as a mamma...i am sure you're gonna be a great mummy!\ufe0f\n8\nREPLY",
+            "url": "https://www.youtube.com/watch?v=kGGM9swun6A",
+            "video_length": 1336.541,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=aX7jnVXXG5o",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=gZpcTVqpaPw",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=UHQB_BRMzcI",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=eMVyZ6Ax-74",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "2,477",
+            "content creator": "CrashCourse",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "eMVyZ6Ax-74",
+            "likes": "63,236 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Taylor Ramsey\n6 years ago\nAs a girl who started starving herself when she was almost three hundred lbs and has lost over one hundred lbs, I have to say that you shouldn't judge someone based on their looks. Anyone can have a disorder, even if the don't fit the \"standard\" for it\n7.9K\nREPLY, Comment 2: Montgomery\n5 years ago\nI'm really disappointed in my schools health classes. I'm recovering from binge eating disorder, and I was kind of happy that we were going to talk about eating disorders in class cause I thought it could help others and make them aware of it. Boy was I wrong. Our teacher obviously didn't know anything about the disorders, well at the least she doesn't understand BED\nShe told us anorexics don't eat, only exercise and vomit. Bulimics barely eat, and vomit everything and anything they do eat. And binge eating disorder.. Well according to her, we stuff our selves and then we go and vomit and stuff ourselves and then vomit.\nRead more\n6.1K\nREPLY, Comment 3: Kylie Watson\n5 years ago (edited)\nI'm a survivor of anorexia! took me years to recover but i think i'm doing quite well. <3\n6K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=eMVyZ6Ax-74",
+            "video_length": 611.301,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=E8KUhq3jH9w",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "506",
+        "content creator": "NIED: National Initiative for Eating Disorders",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "E8KUhq3jH9w",
+        "likes": "4,664 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: annie ja\n3 years ago\nI often binge on so much food then starve myself for days to make-up for it. It\u2019s such a tiring cycle\n1.2K\nREPLY, Comment 2: 0I\n2 years ago\nThe sad part of ED is when you talk about it with your family \"I think I have ED, maybe I should go to doctor\"\n\"What?! No you don't have it. Just stop eating like that\"\n858\nREPLY, Comment 3: hoo hoo\n4 years ago\nWhen you cycle between restricting and bingeing so no one suspects you have an eating disorder...\n862\nREPLY",
+        "url": "https://www.youtube.com/watch?v=E8KUhq3jH9w",
+        "video_length": 200.721,
+        "views": ""
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=DlCnI5uRQOk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=pLAr2X4sH5Q",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=WfVF-Ec4naQ",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=eruT6X7MoIo",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "0",
+            "content creator": "St Patrick's Mental Health Services",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "eruT6X7MoIo",
+            "likes": "23 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: , Comment 2: , Comment 3: ",
+            "url": "https://www.youtube.com/watch?v=eruT6X7MoIo",
+            "video_length": 3751.441,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=Sbp_EeBk-As",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=6-UOVYx9_wk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=OzO8EAOEGJ8",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ynD1Db8wVH0",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "399",
+            "content creator": "Kati Morton",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "ynD1Db8wVH0",
+            "likes": "3,234 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Mika xx\n1 year ago\nI'm so proud of myself, I just ate dinner and then I kind of 'wanted' to binge eat and I already got chips and chocolate, but then I didn't eat the chocolate. That's like A HUGE step for me. I wish everyone the best and believe in yourself!!\n479\nREPLY, Comment 2: Savvy Aggarwal\n1 year ago\nI had been an emotional binge eater for over a decade. Here's what helped me overcome it:\n1. Sufficient sleep every single day\n2. Regular Pranayam practice\n3. Long walks in the evenings\nRead more\n261\nREPLY, Comment 3: Lori King\n1 year ago\nKatie, I've gained 40 lbs from binge eating while working from home during covid.  Now I;m feeling really disgusting and looking for ways to avoid that habit.  Perfect timing.  Thank you.\n65\nREPLY",
+            "url": "https://www.youtube.com/watch?v=ynD1Db8wVH0",
+            "video_length": 848.561,
+            "views": ""
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CYQMoPgrWYuqyI7THwtQPoqW9oAS0opLeTZOT69-NCrCQHxABIABg_YCAgNQDggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAdDVxfQDqAMEqgSHA0_QzcLdPCFyDX-T0Rk80ZVekXNf6dUdC3z1LrWSVs6IepSMdYY_YSwbFyVziYYKHQfcYVk44FE0FLVAlZqGOTCgGOG0eCHn3Fo_WZURcTqFzwwrIQ9Jn7GEHRRUBmzkeNCqy14mnycEPjO_qdsKE-wOFt5a-bDHdMebSM3D1FshfcHSYusJn5Skcf9K0mR8dcCdXsoNgQ8OLh-D3okS2dl5ABZOuJbiosD_Rju2QMoAvVf2ELSDH_Bk-wHVdqt0XeE_TIl5e75h5jRpWtAJGGI6XdV6gf6WviXyE3UCz37wCQjm5gFI_A5s0c57saV3I5F-ZXDDwUPJRxGITh9Z8e7FKQjG-r1rN-uhWMO27NSDLCeDyQ8sR48339tSNFVTOTrwsKv0fMZzOU4-lJgFI2vdO9x3mCyoEbtzzrqobCiqQ8x9CSA1a12FHnpuQl3MuJX_sBOzyuqybboDYRZu4RrYdOcD72WXKf9-935OBDeDkBOYpgoJeLi2hfqhK3ctyLcDgAbR0X2IBcGDr80DkgUMCBIwvLjRmLKh5NpykgUJCBNoAnis3c4MkgUECAMQA6AGVYAHmKq6C5AHBKgHhAioB6jSG6gHtgeoB-DPG6gH6dQbqAeMzRuoB7HcG6gHpJqxAqgHkZ-xAqgHsJuxAqgH36GxAqgHgcYbqAfVzhuoB6vFG6gHnNwbqAfmnbECqAfIn7ECqAe3obECkggLY3JXUkN5TVVYRHeoCAHSCA4IgEEQARgAMgKCAjoBAPIIH2NhLXl0LWhvc3QtcHViLTU4OTg4NDA5MTY1OTE0MDaxCe4tMI7tCTPgyAkXyAmPAZgLAaELr9IRy5EVdD-6CzYIARAFGAYgBigBMAZAAUgAWAtgAGgAcAGIAQCYAQGiAQwKAFgBcAGYAgKoAgHYAQGAAgGIAgTQCxO4DAG4E____________wGIFAGwFAHAFYGAgEDQFQHYFQGAFwGKFwoIAxgBKAEwATgBoBcB&num=1&cid=CAASFeRoBEJ2DSDaXCz3C-4lyxuIzsrZhQ&ad_cpn=%5BCPN%5D&sig=AOD64_3FFi6jhtgctN5yPanHKUAJfCTbIg&adurl=http://www.youtube.com/watch%3Fv%3DcrWRCyMUXDw&ctype=21&video_id=crWRCyMUXDw&client=ca-pub-6219811747049371",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=MB5IX-np5fE",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ouZrZa5pLXk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=xsEJ6GeAGb0",
+          "title": "",
+          "video": {
+            "ad": null,
+            "comments": "2,467",
+            "content creator": "TED",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "xsEJ6GeAGb0",
+            "likes": "101,413 likes",
+            "title": "",
+            "top_3_comment": "Comment 1: Helter Skelter\n8 months ago\nMy favorite part of anxiety is when there is literally no reason to be anxious but your body is tense and your heart is racing all day. Ever since I've been on anxiety medication, it's been life changing.\n8.3K\nREPLY, Comment 2: Kit Frias\n1 year ago (edited)\n\"Severe anxiety is NOT a moral or personal failing - it's a health problem\"Thank you as always Dr Jen \n14K\nREPLY, Comment 3: strawberry milk\n11 months ago\nI got teary eyed watching this... I ticked all the boxes when she mentioned the symptoms and I feel like my pain is being validated -that it is real and I'm not alone. I hope we all get better\n5.2K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=xsEJ6GeAGb0",
+            "video_length": 310.381,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=aw-50t_tKck",
+      "title": "",
+      "video": {
+        "ad": null,
+        "comments": "39",
+        "content creator": "Eating Recovery Center",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "aw-50t_tKck",
+        "likes": "280 likes",
+        "title": "",
+        "top_3_comment": "Comment 1: Botum Chordun\n1 year ago\nI'm watching this while. I'm quaritine...after recovering from. Anorexia and bulimia and now binge sigh what a life.\n62\nREPLY, Comment 2: Hello Hello\n1 year ago\nI'm always afraid I'll starve again.  I was extremely poor when I was little & didn't have enough to eat. I would even eat non edible things like plastic, cloth, rubber, my hair, skin, garbage, just about anything I could find. One time I ate a whole stick of chapstick cause it \"smelled good\" & I was hungry. I'd even drink my own urine. My body actually accepted non edibles better than real food cause it was so used to it.\nI attacked a school lunch staff cause she caught me eating out of a garbage can. She stopped me & I punched her & almost knocked her out & went back to the garbage can. I was just 6 & punched the hardest I've ever punched.\nRead more\n13\nREPLY, Comment 3: Guru Notebooks\n1 year ago\nThe book \"30 Days to Stop Overeating\" by Harper Daniels takes an interesting mindfulness approach. The mind is so powerful.\n17\nREPLY",
+        "url": "https://www.youtube.com/watch?v=aw-50t_tKck",
+        "video_length": 94.781,
+        "views": ""
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=PmqnzOqTmFk",
+  "title": "",
+  "video": {
+    "ad": null,
+    "comments": "150",
+    "content creator": "Eating Recovery Center",
+    "date": "",
+    "description": "",
+    "dislikes": " Unavailable",
+    "id": "PmqnzOqTmFk",
+    "likes": "809 likes",
+    "title": "",
+    "top_3_comment": "Comment 1: zoe asmr\n9 months ago\ni was diagnosed with this. i\u2019ve been struggling with it for 4 years now. i\u2019m now at 220 pounds. i just don\u2019t know how to get out. i will lose weight and then go off the deep end and relapse. it\u2019s so angering to see other people have control over their everyday decisions and i can\u2019t even say no to eating a whole pint of ice cream at 4 am.\n39\nREPLY, Comment 2: makayla\n1 year ago\nhi i just have a question! i fit all of this criteria after looking into this for the first time but my situation is a little confusing. i struggled with anorexia in the past and i still live with the anorexic mindset everyday, but my anorexia has turned into something they call \u201cdiabulimia\u201d which means that i, as a type one diabetic, restrict or avoid taking my insulin to lose weight. i\u2019m aware of it and the consequences but i just am so afraid of gaining weight. here\u2019s where BED comes in- if you can tell where this is going. if i dont take my insulin, i can eat whatever i want without gaining weight. whenever i am home alone i always raid the kitchen and binge because im embarrassed about going up and getting a snack when im hungry, so i guess i\u2019ve kinda developed like a food scarcity thing even though food isn\u2019t scarce in my home and my household is safe. so, my question is, is this BED or something else? so sorry for dumping my struggles in this comment section by the way\nRead more\n15\nREPLY, Comment 3: Nicole Dlugopolski\n1 year ago\nnot trying to self diagnose but i just fit every criteria \n434\nREPLY",
+    "url": "https://www.youtube.com/watch?v=PmqnzOqTmFk",
+    "video_length": 72.741,
+    "views": ""
+  }
+}

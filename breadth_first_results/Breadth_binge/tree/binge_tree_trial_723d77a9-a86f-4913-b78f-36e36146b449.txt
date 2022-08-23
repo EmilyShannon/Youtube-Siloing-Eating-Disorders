@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=KbNRvWfndjA",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=yAKSf6IznTc",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=cee6883w2Nk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=98R3fgPKmYs",
+          "title": "Binging with Babish: Sweetrolls from Skyrim",
+          "video": {
+            "ad": null,
+            "comments": "11,519",
+            "content creator": "Babish Culinary Universe",
+            "date": "Jun 16, 2020",
+            "description": "This episode is sponsored by Elder Scrolls Online: Greymoor. Check it out here: https://www.elderscrollsonline.com/en...Binging With Babish Website: ",
+            "dislikes": " Unavailable",
+            "id": "98R3fgPKmYs",
+            "likes": "266,293 likes",
+            "title": "Binging with Babish: Sweetrolls from Skyrim",
+            "top_3_comment": "Comment 1: Pinned by Babish Culinary Universe\nBabish Culinary Universe\n2 years ago\nI used to be an adventurer like you...then someone stole my sweetroll.\n36K\nREPLY, Comment 2: SairasKynx\n1 year ago (edited)\nYou know, by Skyrim standards, the first sweet rolls you made would probably have been delicious\n9.1K\nREPLY, Comment 3: Eantrin\n1 year ago\nNo wonder the in game version only restores 5 health... everyone's using the wrong recipe.\n8.4K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=98R3fgPKmYs",
+            "video_length": 748.241,
+            "views": "7,284,721 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=6NOtF4l9i9g",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=NFAN6L7xnvY",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=LgzudBvmd08",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=w5K2ZoPVD5E",
+          "title": "Binging with Babish: Isotope Dog from The Simpsons",
+          "video": {
+            "ad": null,
+            "comments": "2,701",
+            "content creator": "Babish Culinary Universe",
+            "date": "Sep 21, 2021",
+            "description": "This episode is sponsored by Butcherbox. New members will receive 2 lbs of 100% grass-fed ground beef in every box for the lifetime of their membership. Click here: https://bchrbox.co/babishgb4lMy playlist of preferred cooking tunes, Bangers with Babish!",
+            "dislikes": " Unavailable",
+            "id": "w5K2ZoPVD5E",
+            "likes": "121,994 likes",
+            "title": "Binging with Babish: Isotope Dog from The Simpsons",
+            "top_3_comment": "Comment 1: Intruder\n8 months ago\nI love that Homer instantly becomes a genius when it comes to food\n4.9K\nREPLY, Comment 2: Darren Kumka\n9 months ago\nBabish: \"Freeze your grinder parts and meat to avoid smears\"\nOrdinary Sausage, shoving a plate of nachos into his grinder: \"What?\"\n4.5K\nREPLY, Comment 3: Moviestar12\n9 months ago\nThe fact they don\u2019t sell these at actual Isotopes game is a foul. Greetings from Albuquerque\n1K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=w5K2ZoPVD5E",
+            "video_length": 467.101,
+            "views": "4,291,716 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/show/SCAESwyGejEkQ5AuppHpyNzQ?season=18&sbp=CgIxOA%253D%253D",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=HsxBw6ls7Z0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Y8hi6A5MPVY&list=RDCMUCJHA_jMfCvEnv-3kRjTCQXw&start_radio=1&rv=Y8hi6A5MPVY",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Y8hi6A5MPVY",
+          "title": "Binging with Babish: Bubble Bass' Order from Spongebob Squarepants",
+          "video": {
+            "ad": null,
+            "comments": "11,188",
+            "content creator": "Babish Culinary Universe",
+            "date": "May 22, 2018",
+            "description": "Bubble Bass is notorious in Bikini Bottom for three things: his hideous laugh, his pathological dishonesty, and his sophisticated palate for Krabby Patties.  Follow along this week as we examine his soundboard of secret-menu jargon and take a crack at the almost-impossible-to-recreate patty melt - from the all-new BwB kitchen!\n\nRecipe: Apple Podcasts: ",
+            "dislikes": " Unavailable",
+            "id": "Y8hi6A5MPVY",
+            "likes": "289,308 likes",
+            "title": "Binging with Babish: Bubble Bass' Order from Spongebob Squarepants",
+            "top_3_comment": "Comment 1: TokuTickler\n2 years ago (edited)\nI like how Bubble Bass just complained about the lack of pickles and ignored the fact that Spongebob got his entire order wrong.\nTo be honest, he was being easy on Spongebob.\n8.3K\nREPLY, Comment 2: Daybreak\n2 years ago\nBubble bass is like one of those boss customers you get in papa\u2019s freezeria\n22K\nREPLY, Comment 3: Kingo_Clubs\n1 year ago\n\"light butter\" good to see bubble bass is making healthier descisions\n18K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=Y8hi6A5MPVY",
+            "video_length": 350.281,
+            "views": "16,718,091 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=M73XCOzZAU0",
+      "title": "Binging with Babish: Death by Chocolate \u00c9clair from The Simpsons",
+      "video": {
+        "ad": null,
+        "comments": "4,206",
+        "content creator": "Babish Culinary Universe",
+        "date": "Aug 3, 2021",
+        "description": "This week, we're headed back to Springfield to take a look at a deadly dessert: La Bombe, a premeditated \u00e9clair with 25 pounds of butter per square inch, chocolate so dark light cannot escape its surface, and a staggering 1 million calories. We can't break the rules of...well, physics, but can we make an equally \"killer\" pastry? Pastry \"d'oh\"? Is that something?\n\nRecipe: Binging With Babish Website: ",
+        "dislikes": " Unavailable",
+        "id": "M73XCOzZAU0",
+        "likes": "205,047 likes",
+        "title": "Binging with Babish: Death by Chocolate \u00c9clair from The Simpsons",
+        "top_3_comment": "Comment 1: Pinned by Babish Culinary Universe\nBabish Culinary Universe\n11 months ago\n10 million subscriber special idea: livestream eating a banana and seeing what happens?\n17K\nREPLY, Comment 2: Erica Stein\n11 months ago\nI really appreciate that after all these years, Babish can still forget to shoot his walk on shot. Stay Gold Ponyboy.\n26K\nREPLY, Comment 3: joe\n9 months ago\nThis reminds me of my roommate who put milk powder in his milk so that he could drink more milk per milk\n12K\nREPLY",
+        "url": "https://www.youtube.com/watch?v=M73XCOzZAU0",
+        "video_length": 505,
+        "views": "7,405,113 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=__qtH1ly2Sg",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=-aFrFsn998o",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=0PyTpUIn4ks",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=NWGVFi-213w",
+          "title": "Binging with Babish: Four Horsemeals of the Eggporkalypse from Parks & Rec",
+          "video": {
+            "ad": null,
+            "comments": "8,324",
+            "content creator": "Babish Culinary Universe",
+            "date": "Aug 18, 2020",
+            "description": "This week, we say a bittersweet goodbye to the old BwB studio with a Swanson's swan song, and probably the longest episode name to date: The Four Horsemeals of the Eggporkalypse from Parks & Rec. A fitting goodbye, a breakfast that could comfortably feed a family of four (along with some aunts and uncles), prepared on the very same flat-top that seared the sixteen-some-odd patties flipped in the kitchen's inaugural episode.\n\nRecipe: Basics With Babish Website: ",
+            "dislikes": " Unavailable",
+            "id": "NWGVFi-213w",
+            "likes": "244,404 likes",
+            "title": "Binging with Babish: Four Horsemeals of the Eggporkalypse from Parks & Rec",
+            "top_3_comment": "Comment 1: Pinned by Babish Culinary Universe\nBabish Culinary Universe\n1 year ago\nFinished filming the Meat Tornado last week - I can say, with confidence, it could potentially kill a guy\n21K\nREPLY, Comment 2: Luke Star\n1 year ago\nIt\u2019s crazy to hear this kitchen called \u201cthe old kitchen\u201d because I remember when you moved into this kitchen. Babish is coming up in the world\n3.3K\nREPLY, Comment 3: AARON MAY\n1 year ago\nWell done, Steve. You've done amazing things in this kitchen.\n\n\"When people get a little too chummy with me, I like to call them by the wrong name to let them know I don't really care about them.\" - Ron Swanson\n6.5K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=NWGVFi-213w",
+            "video_length": 716.501,
+            "views": "6,394,055 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/show/SC7NDmxo5LDXK7DLoEWO5D_w?season=7&sbp=CgE3",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Tch4v0L0GHA",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=7KqvkMQVQhc",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=t_hBKGbf_c0",
+          "title": "Ron Swanson & Food: The Ultimate Love Story | Parks and Recreation",
+          "video": {
+            "ad": null,
+            "comments": "2,299",
+            "content creator": "Parks and Recreation",
+            "date": "Nov 7, 2018",
+            "description": "Unless it's his food's food...\n\nThis is the official Youtube Channel for Parks and Recreation! Watch all of the official clips from the series, the funniest moments and recurring jokes, and follow the lives of the Parks and Recreation department of Pawnee, Indiana.\n\nYour favorite shows, movies and more are here. Stream now on Peacock:  ",
+            "dislikes": " Unavailable",
+            "id": "t_hBKGbf_c0",
+            "likes": "70,136 likes",
+            "title": "Ron Swanson & Food: The Ultimate Love Story | Parks and Recreation",
+            "top_3_comment": "Comment 1: SpectacularNub\n1 year ago\nThe man was fully aware that Ron was looking forward to a good steak, and then tried to feed him big grilled mushrooms like it was the same thing. Disrespect at its finest.\n4K\nREPLY, Comment 2: Of All My Intention\n1 year ago\nI love how Ron basically acts like April and Andy are his kids.\n6.4K\nREPLY, Comment 3: Yusi-D-Jordan\n1 year ago\nThe saddest thing in this show was that we never got to see Ron eat at Mulligan\u2019s Steakhouse.\n1.6K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=t_hBKGbf_c0",
+            "video_length": 603.061,
+            "views": "6,003,512 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=YYSP1D6GJ30",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=FPx7X7k0HuM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Enan6eEmtqM",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=dRLCZqEfJFA",
+          "title": "Binging with Babish: Inferno Wing Challenge from Regular Show",
+          "video": {
+            "ad": null,
+            "comments": "9,732",
+            "content creator": "Babish Culinary Universe",
+            "date": "Premiered Jul 16, 2019",
+            "description": "So, as it turns out, the following are currently out of season: mutated ghost peppers, hot magma extract, and black widow venom.  As such, I was unable to render a truly accurate facsimile of what's come to be known as the \"Inferno Challenge\" amongst those who 'take their wings super-seriously'.  Which I do not.\n\nRecipe: Babish Cookware on Amazon: ",
+            "dislikes": " Unavailable",
+            "id": "dRLCZqEfJFA",
+            "likes": "278,516 likes",
+            "title": "Binging with Babish: Inferno Wing Challenge from Regular Show",
+            "top_3_comment": "Comment 1: Pinned by Babish Culinary Universe\nBabish Culinary Universe\n3 years ago\nI promise to revisit this when ghost peppers are in season, but the crossover was too good to pass up! Any guesses as to which sauce gave me the hiccups?\n26K\nREPLY, Comment 2: Kip I Guess\n2 years ago\nBabish's \"Pinch of sugar\" has the same energy as \"Two shots of Vodka\"\n15K\nREPLY, Comment 3: 1960's Clint Eastwood\n1 year ago (edited)\nEveryone that makes hot sauce are proud to share their recipe. Here's mine that topped 2.3M Scovilles and won me a prize here where I live. It's a mix of equal parts both roasted and raw red bhut jolokias, chocolate bhut jolokias, red habaneros, yellow habameros, trinidad scorpion butches, carolina reapers and cayenne peppers to an equal mass of garlic. Use the vinegar of your choice but I do my own mix with lime juice, apple cider vinegar and sweet rice vinegar. Onions, shallots, green onions, chives, if you wish to pump the garlic flavor. Little ginger and mustard are recommended. Healthy dose of both soy sauce and Worcestershire and season with everything as you wish. Do the exact technique Babish did with the blender and fermentation, strain if you wish but I did it chunky, cook it just like the video. And there you have. The Gamma Ray Sauce.\nRead more\n1.8K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=dRLCZqEfJFA",
+            "video_length": 398.641,
+            "views": "13,272,373 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=LsNg-KrFxCA",
+      "title": "Binging with Babish: Meat Tornado from Parks & Rec",
+      "video": {
+        "ad": null,
+        "comments": "9,158",
+        "content creator": "Babish Culinary Universe",
+        "date": "Aug 25, 2020",
+        "description": "This video is sponsored by SimpliSafe. SimpliSafe is an award-winning home security that keeps your home safe around the clock. It's really reliable, easy to use, and there are no contracts. Check out SimpliSafe here: https://simplisafe.com/babish.\n\nThis week, we christen in the new BwB kitchen with the third part in an epic Parks and Rec trilogy: the Meat Tornado. After consulting with a doctor of nutrition to ensure that our creation could be potentially lethal, we set out to make a 2-pound burrito stuffed with carne asada, carnitas, tinga de pollo, and the inappropriately spicy Last Dab XXX.\n\nRecipe: My playlist of preferred cooking tunes, Bangers with Babish!",
+        "dislikes": " Unavailable",
+        "id": "LsNg-KrFxCA",
+        "likes": "251,200 likes",
+        "title": "Binging with Babish: Meat Tornado from Parks & Rec",
+        "top_3_comment": "Comment 1: Pinned by Babish Culinary Universe\nBabish Culinary Universe\n1 year ago\nThank you all from the bottom of my heart for making this new kitchen, and my new home, a reality. I\u2019m so excited to give y\u2019all a tour, both of this studio, and Studio B we\u2019ve built downstairs for some new shows with new people!\n15K\nREPLY, Comment 2: Umblizm\n1 year ago\nThis burrito is the definition of \"I'm here for a good time not a long time\"\n9.8K\nREPLY, Comment 3: Jesse\n1 year ago\nThis burrito was made much more professionally than anything in Pawnee would ever be made\n1.2K\nREPLY",
+        "url": "https://www.youtube.com/watch?v=LsNg-KrFxCA",
+        "video_length": 743,
+        "views": "9,403,637 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=KqAEC4jLFqA",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=dSwzau2_KF8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=nwQvMF-Rm4k",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=vesYREe6_uk",
+          "title": "Debunking INSANE viral TikTok videos | Ann Reardon",
+          "video": {
+            "ad": null,
+            "comments": "8,858",
+            "content creator": "How To Cook That",
+            "date": "Oct 22, 2021",
+            "description": "Food Scientist Debunks Crazy TikTok videos \nSUBSCRIBE on youtube: http://bit.ly/H2CThat  \nSupport: https://patreon.com/h2ctMerch: ",
+            "dislikes": " Unavailable",
+            "id": "vesYREe6_uk",
+            "likes": "138,743 likes",
+            "title": "Debunking INSANE viral TikTok videos | Ann Reardon",
+            "top_3_comment": "Comment 1: Pinned by How To Cook That\nyamazaki_getsu\n8 months ago\nNothing better to do on a Friday than a debunking video! You're the only channel I have notifications for. Keep up the good work Ann, we will always support you!\n14K\nREPLY, Comment 2: Jomar Zarandin\n8 months ago\nAnn should be so much appreciated because she's just not debunking, she also teach what is right and what is the wrong thing \ud83d\udc99\n12K\nREPLY, Comment 3: free2saywhatever\n8 months ago\nI absolutely love how she defends parents here. She lives in the REAL world. Not the fake one where helicopter parents are constantly supervising their children. I love that she explains adults owe the kids in the world to protect them and not prey on their vulnerability. So marvelously said!!! I love her!!!!\n2.2K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=vesYREe6_uk",
+            "video_length": 1387.881,
+            "views": "2,615,417 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=XNZviKgOZnk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=llC5inFwGUU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=PjOMSNZ-pIk",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=p1YGc7H5YZM",
+          "title": "Cake Rescue Fixing viral Cake FAILS | How To Cook That Ann Reardon",
+          "video": {
+            "ad": null,
+            "comments": "1,546",
+            "content creator": "How To Cook That",
+            "date": "Feb 11, 2022",
+            "description": "Taking cake fails from Failed it to Nailed it, how to rescue viral YouTube & TikTok cake fails.\nSUBSCRIBE on youtube: http://bit.ly/H2CThat  \nJoin the community on Patreon: https://patreon.com/h2ctButtercream Recipe: ",
+            "dislikes": " Unavailable",
+            "id": "p1YGc7H5YZM",
+            "likes": "45,602 likes",
+            "title": "Cake Rescue Fixing viral Cake FAILS | How To Cook That Ann Reardon",
+            "top_3_comment": "Comment 1: Pinned by How To Cook That\nCaitlinsHappyheart\n5 months ago\nThank you for the shout out! And thanks for your lovely viewers who have popped over to my channel, especially so many who have left encouraging and friendly comments! I would have loved you to be there too to help rescue. I think we did something similar, we shoved skewers in and then the candles so it wasn\u2019t too noticeable in the end, even without the cardboard sign which was a nice little touch! Anyway, it\u2019s been a thrill getting a mention from you! Makes the fail all the more worthwhile!\n1.3K\nREPLY, Comment 2: Gangoo\n5 months ago (edited)\n\u201cPersonally I wouldn\u2019t touch it because it was a gift from her to her boyfriend, she\u2019s put in a lot of effort, she\u2019s even ordered a custom cake topper with his name on it, and I think it\u2019s special!\u201d - Anne, who made it a great week by being kind to others \u2764\ufe0f\n4.5K\nREPLY, Comment 3: tarren\n5 months ago\nWhat I love is that you don't just rescue these, you explain WHY they went wrong and how to avoid it. The runny buttercream has always been my downfall and now I know why!!\n1.3K\nREPLY",
+            "url": "https://www.youtube.com/watch?v=p1YGc7H5YZM",
+            "video_length": 1157.561,
+            "views": "1,003,001 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=YL8T6PRD6vU",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=jPhMY08A3Fk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ITP6uA8AFto",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=nUqPOsgu0uo",
+          "title": "A.I. wrote an Oreo Cake Recipe ... is it any good?!",
+          "video": {
+            "ad": null,
+            "comments": "4,002",
+            "content creator": "How To Cook That",
+            "date": "Apr 22, 2022",
+            "description": "Artificial Intelligence (AI) wrote me a recipe and I baked it. It's weird but does it taste good?\nCookbook Mothers Day Deals: https://bit.ly/ARcookbook\nSigned book bundle (Aus only): https://bit.ly/ARcookbook \nSUBSCRIBE on youtube: ",
+            "dislikes": " Unavailable",
+            "id": "nUqPOsgu0uo",
+            "likes": "48,372 likes",
+            "title": "A.I. wrote an Oreo Cake Recipe ... is it any good?!",
+            "top_3_comment": "Comment 1: Mel Burt\n2 months ago (edited)\nI spat out my coffee when the chewing gum was inserted into the \u201ccake\u201d. What a minimalist, yet effective, piece of decoration.\n3.9K\nREPLY, Comment 2: paperip\n2 months ago\n\"to suggest the idea of sticking several slices of cake together\"\nLike even the AI knows it's such a bizarre cake topping and is trying to justify it\n1K\nREPLY, Comment 3: Rebekah Koretoff\n2 months ago\nWhen the A.I. described Dave, it was like it googled \"stereotype Australian.\" I am surprised the description didn't end with Dave going home to throw \"shrimp on the barbie.\"\n464\nREPLY",
+            "url": "https://www.youtube.com/watch?v=nUqPOsgu0uo",
+            "video_length": 987.741,
+            "views": "655,430 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=OZaL86RDGIU",
+      "title": "Party Food 200 years ago | 18 different dishes | Historical Cooking Ann Reardon",
+      "video": {
+        "ad": null,
+        "comments": "1,580",
+        "content creator": "How To Cook That",
+        "date": "Jul 15, 2022",
+        "description": "What did they serve at Parties in the 1800's? Moonshine, dish of snow, raspberry puffs, almond slice, potted crawfish, marbled veal, collard pig and so much more.\nPatreon: https://patreon.com/h2ct ",
+        "dislikes": " Unavailable",
+        "id": "OZaL86RDGIU",
+        "likes": "19,305 likes",
+        "title": "Party Food 200 years ago | 18 different dishes | Historical Cooking Ann Reardon",
+        "top_3_comment": "Comment 1: Pinned by How To Cook That\nHow To Cook That\n1 day ago\nFor those who missed the drama ... a HUGE THANK YOU to everyone for your amazing support after YouTube banned my 'Woodburning Warning' video. The outcry was so big on YT, twitter, FB & Reddit that YouTube simply had to reverse their decision & the debunking video was put back up.  It's now sitting at no.2 when searching 'fractal woodburning' which hopefully means that people will see it before they attempt this incredibly DANGEROUS craft!  Thanks again to you guys & also to some friendly people inside the system who recognised the AI's error.  Here's hoping it helps someone!\n3.3K\nREPLY, Comment 2: gwammeh\n1 day ago\nThe pear compote feels very similar to stoofperen, which we still eat in winters in the Netherlands today! It would\u2019ve probably been much firmer pears than we\u2019re used to today, making the \u201cboil until soft\u201d a multiple-hour endeavor. Definitely fit for either storing away for winter or a nice party where you\u2019re trying to impress your guests with how much time you could afford to put into this dinner!\n319\nREPLY, Comment 3: Medic Webber\n1 day ago (edited)\nI mean this was fascinating and definitely true to your aesthetic, but NO ONE should underestimate the added fun of your family's commentary when tasting the food. Dave, as always, was great, but today your boys had me rolling!! lol Hysterical comments from both. But the comment: \"It tasted AWFUL! \u201c should be a GIF. <\ud83d\ude00\n270\nREPLY",
+        "url": "https://www.youtube.com/watch?v=OZaL86RDGIU",
+        "video_length": 1064.181,
+        "views": "222,889 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=qvNXPn4ptJM",
+  "title": "Binging with Babish: Chocolate Croissant from It's Complicated",
+  "video": {
+    "ad": null,
+    "comments": "879",
+    "content creator": "Babish Culinary Universe",
+    "date": "Jul 13, 2022",
+    "description": "This episode is sponsored by Cash App. Download it in the App Store/Google Play and use code \u201cBABISH22\u201d to get $15 and Cash App will donate $10 to No Kid Hungry. Click here: http://www.cash.app/downloadBinging With Babish Website: ",
+    "dislikes": " Unavailable",
+    "id": "qvNXPn4ptJM",
+    "likes": "24,512 likes",
+    "title": "Binging with Babish: Chocolate Croissant from It's Complicated",
+    "top_3_comment": "Comment 1: Pinned by Babish Culinary Universe\nBabish Culinary Universe\n3 days ago\nToday is the last day of Prime Day!! Head to Amazon to shop Babish Cookware for anywhere from 15-30% off! Tiny whisks, cast iron, knife sets, and more! https://bit.ly/babishstore\n95\nREPLY, Comment 2: tabbvee2\n3 days ago\nmy mom had a few movies that she would watch a hundred times over and over again, this was one of them. seeing you recreate a dish from this movie means a lot to me, and im sure she would have been just as excited as me to see youve made this. thank you for bringing back such happy memories :)\n576\nREPLY, Comment 3: it's not who you think it is\n3 days ago\nit truly feels like binging with babish is back with the regular episodes we got and im here for it!\n565\nREPLY",
+    "url": "https://www.youtube.com/watch?v=qvNXPn4ptJM",
+    "video_length": 392,
+    "views": "597,042 views"
+  }
+}

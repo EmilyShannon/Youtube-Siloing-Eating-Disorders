@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=6i6dlQLpjG8",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=OAlyBWRmkxs",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=IzSH7gD2g2o",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=PA_IA60TOUk",
+          "title": "[TW: ED!] Binging on sweet carbs | spit and chew | no calorie counting :)",
+          "video": {
+            "ad": null,
+            "comments": "2",
+            "content creator": "Gloo0my",
+            "date": "Jun 29, 2022",
+            "description": "Please read disclaimer! \n\nHi, this is my first video to document my experiences with this disorder and I hope that those who watch it find it helpful or reassuring. I hope that I can make more videos over the summer (GCSEs are done!) and I can film more interesting food. \n\nAlso note that I also ate meals in addition to my binges, I just didn't film it because I thought it would be boring. Thanks for watching :) ",
+            "dislikes": " Unavailable",
+            "id": "PA_IA60TOUk",
+            "likes": "46 likes",
+            "title": "[TW: ED!] Binging on sweet carbs | spit and chew | no calorie counting :)",
+            "top_3_comment": "Comment 1: kay \ud83d\udc4d\n2 weeks ago\nHII wow this video is so realistic n i relate to it a lot because i also struggling with spitting and chewing, but always remember not to spit and chew everything you eat or you will get sick!!! i hope you make more videos like this soon (\u2267\u2200\u2266)\n2\nREPLY, Comment 2: , Comment 3: ",
+            "url": "https://www.youtube.com/watch?v=PA_IA60TOUk",
+            "video_length": 374.441,
+            "views": "821 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=1Cf3BLiAq-g",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=eGLM66QN4vQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ilF9u0QiH-A",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tJ4LF_1zoKg",
+          "title": "tw ed // low res to binging",
+          "video": {
+            "ad": null,
+            "comments": "23",
+            "content creator": "gloomynights",
+            "date": "Jul 11, 2022",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "tJ4LF_1zoKg",
+            "likes": "126 likes",
+            "title": "tw ed // low res to binging",
+            "top_3_comment": "Comment 1: Judith Ryan\n4 days ago\ngirl I love your videos. you don\u2019t know how comforting they are to me <3 also i love ur editing!!\n2\nREPLY, Comment 2: Ohits Bre\n15 hours ago\nI always watch these types of videos when I\u2019ve relapsed :)\nREPLY, Comment 3: anna\n2 days ago\ni loved this video sm \nREPLY",
+            "url": "https://www.youtube.com/watch?v=tJ4LF_1zoKg",
+            "video_length": 551.361,
+            "views": "1,777 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=yL5Er0bhbzQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8C8ILi8PtRM",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=KgKmmW9n5x0",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=S46-OJiGAsc",
+          "title": "tw ed// WIED in a huge 3000+ binge :(",
+          "video": {
+            "ad": null,
+            "comments": "3",
+            "content creator": "losesab3skinny",
+            "date": "Jul 5, 2022",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "S46-OJiGAsc",
+            "likes": "39 likes",
+            "title": "tw ed// WIED in a huge 3000+ binge :(",
+            "top_3_comment": "Comment 1: Destinee!\n4 days ago\nI don\u2019t have soup recommendations but do you??  I\u2019ve been looking for soup to buy but I\u2019m so indecisive\n1\nREPLY, Comment 2: , Comment 3: ",
+            "url": "https://www.youtube.com/watch?v=S46-OJiGAsc",
+            "video_length": 133.221,
+            "views": "872 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=PRDuieF5dyE",
+      "title": "[TW: ED!] Prom bingeing | pre and post prom | losing control",
+      "video": {
+        "ad": null,
+        "comments": "6",
+        "content creator": "Gloo0my",
+        "date": "Jul 9, 2022",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "PRDuieF5dyE",
+        "likes": "42 likes",
+        "title": "[TW: ED!] Prom bingeing | pre and post prom | losing control",
+        "top_3_comment": "Comment 1: formithica\n1 day ago\ni relate to this a lot. im 24/7 thinking about how i look, what im eating, restricting myself from binging and unhealthy cravings, and if i binge whats going to happen next?  it ruins the holidays, it ruins breaks, events, practically everything. i hope youre doing okay now  also love the video n mini vlog\nREPLY, Comment 2: Asia\n3 days ago\nbruuu rebal truly has no business being this funny\nREPLY, Comment 3: Fat _Roach\n3 days ago\nI also had a horrible time at prom bc I was so obsessed with my body and my appearance along with calories. I did everything in my power to not eat and make up shitty excuses of why I wasn't eating. I also missed out on prom dress shopping with my friends bc I was so insecure :( anyways sorry for the little rant I hope you are doing better.\nREPLY",
+        "url": "https://www.youtube.com/watch?v=PRDuieF5dyE",
+        "video_length": 479.821,
+        "views": "994 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=iGAEZsxWa-I",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=1WYaBL6wm4c",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=BOc4FaBPH40",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=AP2u4TzKi9o",
+          "title": "TW b/p binging and restricting the other day..",
+          "video": {
+            "ad": null,
+            "comments": "49",
+            "content creator": "n?",
+            "date": "May 8, 2022",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "AP2u4TzKi9o",
+            "likes": "415 likes",
+            "title": "TW b/p binging and restricting the other day..",
+            "top_3_comment": "Comment 1: Ariana Karim\n2 months ago\nthis is gonna sound weird but it's something that worked for me. the day after a binge or whenever u feel like binging, move away from the area with food and try really hard to rationalize with yourself if u rlly NEED the food or sweets.\n34\nREPLY, Comment 2: Maria lol\n2 months ago\nyou don't need to go to a doctor to get diagnosed with an ed<3 if your actions and the way you feel, feels like an ed then you have it!! don't worry about \"self diagnosing\" your not alone. Many people that struggle haven't been to a clinic, take care of yourself love<3 (btw I'm not tryna tell you that youre sick I just want to know that youre valid no matter what)\n33\nREPLY, Comment 3: Judith Ryan\n2 months ago (edited)\ngirl you\u2019re so not alone. i binged today too, it was so bad. probably one of my worst binges. I can hardly move rn\u2026 all I want to do is curl up in my bed and cry. i hate myself, idk why i do this, i wish so bad I could purge but im scared  i guess i just have to muster up enough courage bc my binges are getting so bad and im gaining so much weight. im at my heaviest weight ever rn. i have to go see people tomorrow and im going to be so bloated and huge\u2026 i hate going through this all alone it sucks\nYou\u2019re so pretty tho! <333\n22\nREPLY",
+            "url": "https://www.youtube.com/watch?v=AP2u4TzKi9o",
+            "video_length": 478.421,
+            "views": "11,577 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=M7EpdCilDC0",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=AMKPEuuZaA8&pp=sAQB",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=MXwPHJ0o45c",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=1n0kkE0WW2Q",
+          "title": "TW: Binging again and again..",
+          "video": {
+            "ad": null,
+            "comments": "25",
+            "content creator": "n?",
+            "date": "Mar 17, 2022",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "1n0kkE0WW2Q",
+            "likes": "325 likes",
+            "title": "TW: Binging again and again..",
+            "top_3_comment": "Comment 1: Coco Malyn\n3 months ago\nI just discovered your channel and feel very safe here. l hope you are doing well <3\n15\nREPLY, Comment 2: Elena A\n2 months ago\nI love your videos, they're really comforting, I'm going through something similar and I feel very safe on your channel. There are some things I know that people say will help with having an ed like this but honestly, I don't think they really help. I guess the best thing that worked out for me was watching binge eating videos or especially mukbangers when I felt like overeating...\nAnyways ily bye <3\n5\nREPLY, Comment 3: catmatic\n3 months ago\nthis was soooooooo comforting!!! adore ur channel <3\n5\nREPLY",
+            "url": "https://www.youtube.com/watch?v=1n0kkE0WW2Q",
+            "video_length": 721.721,
+            "views": "9,990 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=MIAe89JRDoc",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=g0mDWxuUdzQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=H9M8zbHbZC8",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=SrcpbvBVREc",
+          "title": "Filming my binge | 6000+ calories | TW",
+          "video": {
+            "ad": null,
+            "comments": "277",
+            "content creator": "Cronchy Feet",
+            "date": "Aug 28, 2020",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "SrcpbvBVREc",
+            "likes": "3,053 likes",
+            "title": "Filming my binge | 6000+ calories | TW",
+            "top_3_comment": "Comment 1: f.chai\n1 year ago\nOne time I starved myself for more than 36 hours and when my brother offered me a macaroon, I binged so badly with anything else left in cupboard/ fridge and it\u2019s always the cereal or oatmeal that fuck me up. It\u2019s awful, but I want to let you know that you\u2019re not alone. \n130\nREPLY, Comment 2: Jensen\n1 year ago\nLast night I binged over 5,000 calories worth is snacks, sweets and ice cream. Thank you for reminding me that I\u2019m not the only one who struggles with this\n401\nREPLY, Comment 3: Kira Anne\n1 year ago\nMy thing is a never ending cycle of oh I had something savory? Now I need 5 of something sweet! Oh now I really am craving something savory!\n956\nREPLY",
+            "url": "https://www.youtube.com/watch?v=SrcpbvBVREc",
+            "video_length": 184.641,
+            "views": "178,769 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=eD7CY02a2io",
+      "title": "B/P: BINGING 3 DAYS IN A ROW /TW",
+      "video": {
+        "ad": null,
+        "comments": "157",
+        "content creator": "n?",
+        "date": "May 16, 2022",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "eD7CY02a2io",
+        "likes": "944 likes",
+        "title": "B/P: BINGING 3 DAYS IN A ROW /TW",
+        "top_3_comment": "Comment 1: Pinned by n?\nn?\n1 month ago\nI did misspell \u201cvent\u201d 1 or 2 times oopsiees \n39\nREPLY, Comment 2: Rain\n11 days ago\nit's crazy how i related to every single sentence. i've been going through this for years now, but it's getting worse and worse this past few weeks. i just turned 20 but i feel so left behind. i'm so afraid and i feel so alienated but i cant stop. i feel like i'm a machine on self destruct...\n\nthank you for this video.  i felt like someone is out there who understands what im going through. i really hope that we get past through these challenges. rooting for u! xoxo\n25\nREPLY, Comment 3: gendercrisis\n2 months ago\nim so so sorry, im can relate to a lot of what ur going trough, i love your videos because this channel is a comfort place, its hard to find other ppl struggling w binges that i truly relate to but yeahh, i really wish u achieve what u want and feel better!!\n81\nREPLY",
+        "url": "https://www.youtube.com/watch?v=eD7CY02a2io",
+        "video_length": 628.941,
+        "views": "27,885 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=4395gJhiXXk",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=on31DkIun6w",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=uew7JRLyJcw",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=fnFNtV9mmP8",
+          "title": "KOREA DIARIES: lotte world in school uniforms, fancy hotel, skincare routine, rainy shopping days",
+          "video": {
+            "ad": null,
+            "comments": "584",
+            "content creator": "saranghoe",
+            "date": "Jul 10, 2022",
+            "description": "Saranhoe\u2019s Special Set: https://www.stylekorean.com/shop/pr_l...\n\n*In order to purchase at StyleKorean, you need to make an account! Here\u2019s the step: .\npinterest: ",
+            "dislikes": " Unavailable",
+            "id": "fnFNtV9mmP8",
+            "likes": "25,450 likes",
+            "title": "KOREA DIARIES: lotte world in school uniforms, fancy hotel, skincare routine, rainy shopping days",
+            "top_3_comment": "Comment 1: Wing Films\n6 days ago\nOK TRACY\u2019S KOREA VLOGS ARE NOW MY FAVOURITE SERIES\n1.4K\nREPLY, Comment 2: giovanna <3\n6 days ago\nSO excited to watch this!!! Tracy\u2019s vlogs are SO fun to watch and they\u2019re always soo aesthetic and motivating! I also feel like her editing is getting better and better each video<3 \n436\nREPLY, Comment 3: Evva Creations\n6 days ago\nIt\u2019s so fun to see all my favourite YouTubers together in Korea! OMG Tracy should meet up with the Ha sisters! They would be iconic all together \n144\nREPLY",
+            "url": "https://www.youtube.com/watch?v=fnFNtV9mmP8",
+            "video_length": 1079.201,
+            "views": "309,016 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=9e9COfe88Hw",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ouYxZFfTf14",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=r1DuUf4xC0Y&list=RDCMUC2jcKL8tFrJ4yregItxg6Tg&start_radio=1&rv=r1DuUf4xC0Y",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=r1DuUf4xC0Y",
+          "title": "tw ed | summer holiday! high restriction \u2600\u2601",
+          "video": {
+            "ad": null,
+            "comments": "208",
+            "content creator": "fflur",
+            "date": "Jul 8, 2021",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "r1DuUf4xC0Y",
+            "likes": "2,475 likes",
+            "title": "tw ed | summer holiday! high restriction \u2600\u2601",
+            "top_3_comment": "Comment 1: Pinned by fflur\nclara may\n7 months ago\ndont you think thats alot of calories.. i wouldnt eat something over 100...\n18\nREPLY, Comment 2: Einhorn Regenbogen\n11 months ago\nliterally everyone who manages to restrict and working out has my greatest respect.I just vegetate in bed all day and wait to fall asleep\n201\nREPLY, Comment 3: poppy tallinn\n1 year ago\ni find that we're so similar; our interests, our humour, our opinions, etc. the amount of times i nod/giggle while watching your videos-\n324\nREPLY",
+            "url": "https://www.youtube.com/watch?v=r1DuUf4xC0Y",
+            "video_length": 946.021,
+            "views": "48,717 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=cn7WudCJGvs",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=YcLUhCOqHDQ",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=nshq5NbAQ7o",
+              "title": null,
+              "video": null
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-89pz-g8pxI",
+          "title": "What I eat in a school week /// TW ED",
+          "video": {
+            "ad": null,
+            "comments": "47",
+            "content creator": "Cattuccino",
+            "date": "Apr 13, 2022",
+            "description": "Error found",
+            "dislikes": " Unavailable",
+            "id": "-89pz-g8pxI",
+            "likes": "641 likes",
+            "title": "What I eat in a school week /// TW ED",
+            "top_3_comment": "Comment 1: aurelia\n1 month ago\neverything about this vlog was so comforting thank you for sharing <3\n9\nREPLY, Comment 2: Briggett Guillicut\n3 months ago\nHow I wish I could ride a bike to go to school like this aaaaaUr videos r the best i luv it take care\u2661\n46\nREPLY, Comment 3: kurumi\n2 weeks ago\nyour videos are so comforting, and really make me feel like i'm normal. <3\n2\nREPLY",
+            "url": "https://www.youtube.com/watch?v=-89pz-g8pxI",
+            "video_length": 497.661,
+            "views": "15,553 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=eXHC172hAq0",
+      "title": "tw ed | #1 vlog \u2014 3 days of med res + overeat (read the description)",
+      "video": {
+        "ad": null,
+        "comments": "49",
+        "content creator": "alex lee",
+        "date": "May 8, 2022",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "eXHC172hAq0",
+        "likes": "341 likes",
+        "title": "tw ed | #1 vlog \u2014 3 days of med res + overeat (read the description)",
+        "top_3_comment": "Comment 1: mel\n2 months ago\nI loved this video so much and I already love your channel. Your editing is so nice and tbh I forgot the length of the video but watched it all. You seem like a really nice person and your channel is a little safe place. I wish you all the best, I hope you're doing okay and staying safe. You're not alone. Take care \ufe0f\n15\nREPLY, Comment 2: Abby Jensen\n2 months ago\nLove this! It's so hard to find long vlogs so please keep making more long ones. Hope you feel better \n10\nREPLY, Comment 3: Kaitlynn Haas\n8 days ago (edited)\nI love your outfits + editing and you seem so sweet! I subscribed like 2 mins in lol, you have a very calm/chill vibe if that makes sense\n2\nREPLY",
+        "url": "https://www.youtube.com/watch?v=eXHC172hAq0",
+        "video_length": 854.761,
+        "views": "7,114 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=KVAx0HnRz3Q",
+  "title": "TW: B/P a birthday binge\ud83c\udf82",
+  "video": {
+    "ad": null,
+    "comments": "67",
+    "content creator": "n?",
+    "date": "Jul 10, 2022",
+    "description": "Error found",
+    "dislikes": " Unavailable",
+    "id": "KVAx0HnRz3Q",
+    "likes": "328 likes",
+    "title": "TW: B/P a birthday binge\ud83c\udf82",
+    "top_3_comment": "Comment 1: \u7dd1\u685c\n6 days ago (edited)\n6:41 I know exactly what you mean, when I first lost alot of weight literally everyone was complimenting me about it and I liked the compliments but I also felt like they put me under pressure to keep eating less and losing more weight so the compliments wouldn't fade away.\nBtw happy birthday! I also tend to plan out specific days where I'm \"free\" to binge, like for special occasions or wtv.\n14\nREPLY, Comment 2: Elena A\n6 days ago\nHappy belated birthday!!! Watching your videos have always made me feel better, especially today, because my birthday is in literally four days and I'm so nervous but excited about it at the same time. Well, now I kinda feel less alone reading the comments... But anyways, hope things get better for everybody who is struggling with an ED.\n5\nREPLY, Comment 3: Defender of Justice 707\n6 days ago\nidk if i\u2019m late but HAPPY BIRTHDAY!! I\u2019m really sorry to hear that you struggled also today and you couldn\u2019t enjoy your day, i wish you the best tho!! on day it will get better<33\n5\nREPLY",
+    "url": "https://www.youtube.com/watch?v=KVAx0HnRz3Q",
+    "video_length": 482,
+    "views": "6,511 views"
+  }
+}
