@@ -60,6 +60,7 @@ for file in os.listdir(directory):
                             
                             #We now have the tags and response text
                             line = [tags, post_notes]
+                            
 
                             try:
                                 

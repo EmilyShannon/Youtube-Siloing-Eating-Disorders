@@ -86,7 +86,7 @@ os.chdir("YOUR PATH\\tumblrPostInfo")
 i=0
 
 #Authentication
-client = pytumblr.TumblrRestClient('YOUR KEYS)
+client = pytumblr.TumblrRestClient('YOUR KEYS')
 
 while i<len(all_unique_tags):
 
