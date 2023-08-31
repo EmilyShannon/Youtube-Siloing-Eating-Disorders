@@ -7,15 +7,15 @@ import networkx as nx
 from scipy.spatial import distance
 import matplotlib.pyplot as plt
 from collections import Counter
+from sklearn.cluster import AgglomerativeClustering
 
+distance_matrices= []
 def save_cooccurrence_networks(path_to_project, path_to_current_folder, input_folder_name, output_folder_name, max_num_tags):
     path_to_posts = os.path.abspath(os.path.join(path_to_project, input_folder_name))
     path_to_output = os.path.abspath(os.path.join(path_to_current_folder, output_folder_name))
     for file in os.listdir(path_to_posts):
         filename = os.fsdecode(file)
         if(filename.endswith(".csv")):
-            #data = pd.read_csv(path_to_posts + os.path.sep + filename)
-            #, sep=",\\[", header=None, engine='python')
             #assuming that the tags are stored as a list in the first column
             all_tags = read_tags_from_data_file(filename, path_to_posts)
 
@@ -27,10 +27,11 @@ def save_cooccurrence_for_whole_file(path_to_project, path_to_current_folder, in
     path_to_posts = os.path.abspath(os.path.join(path_to_project, input_folder_name))
     path_to_output = os.path.abspath(os.path.join(path_to_current_folder, output_folder_name))
     target_tag_counts = {}
+    all_tags = []
     for file in os.listdir(path_to_posts):
         filename = os.fsdecode(file)
         if(filename.endswith(".csv")):
-            all_tags = read_tags_from_data_file(filename, path_to_posts)
+            all_tags.extend(read_tags_from_data_file(filename, path_to_posts))
             target_tag_counts.update(get_target_tag_counts(all_tags, max_tags_per_file))
     k = Counter(target_tag_counts)
     final_tag_counts = {}
@@ -49,8 +50,9 @@ def create_nodes(target_tag_counts, all_tags, distance_metric):
     unique_tags = get_unique_tags(target_tag_counts)
     unique_tags_index_first = get_unique_tags_index_first(unique_tags)
     combination_matrix = get_combination_matrix(all_tags, unique_tags)
-    #Computing jaccard distance between each pair of vectors. Subtracting from 1 so that more 'similar' tag pairs have a larger score.
+    #Computing jaccard distance between each pair of tags. Subtracting from 1 so that more 'similar' tag pairs have a larger score.
     distance_matrix = 1 - distance.cdist(combination_matrix, combination_matrix, distance_metric)
+    distance_matrices.append(distance_matrix)
     #list of nodes, consisting of the tag pairs, their individual counts, and the jaccard distance between the tags.
     nodes = []
     for i in range(len(unique_tags)):
@@ -60,7 +62,7 @@ def create_nodes(target_tag_counts, all_tags, distance_metric):
                 nodes.append([unique_tags_index_first[i], unique_tags_index_first[j], target_tag_counts[unique_tags_index_first[i]], target_tag_counts[unique_tags_index_first[j]], distance_val])
     return nodes
 
-def get_target_tag_counts(all_tags, max_num_tags):
+def get_target_tag_counts(all_tags, max_num_tags): 
     #Create a dictionary of word:number_of_occurrences pairs
     tag_counts = {}
     for post_tags in all_tags:
@@ -140,6 +142,17 @@ current_path = os.path.abspath(getsourcefile(lambda:0))
 path_to_project = os.sep.join(current_path.split(os.sep)[:-2])
 path_to_current_folder = os.sep.join(current_path.split(os.sep)[:-1])
 
+cluster_numbers = [5, 3, 4, 1, 2, 3, 2, 3, 1,1,3,2,2,4,3,4,2,1,1,1,3,3,2,3,3,3,3,3,2,3,3,4,1,1,4,3]
 #Save the co-occurence graphs for the individual post collections and then for the compilation of all of the 
 save_cooccurrence_networks(path_to_project, path_to_current_folder, "tumblr_posts_info", "networks_tumblr", 50)
-save_cooccurrence_for_whole_file(path_to_project, path_to_current_folder, "tumblr_posts_info", "networks_tumblr", "all", 50, 25)
+save_cooccurrence_for_whole_file(path_to_project, path_to_current_folder, "tumblr_posts_info", "networks_tumblr", "all", 50, 50)
+
+for i in range(len(distance_matrices)):
+    cluster_number = cluster_numbers[i]
+    distance_matrix = distance_matrices[i]
+    if(len(distance_matrix)>= 2):
+        clustering = AgglomerativeClustering().fit(distance_matrix)
+        AgglomerativeClustering(n_clusters=cluster_number, metric='precomputed', affinity='precomputed', distance_threshold=None)
+        print(clustering.n_clusters_)
+        print(clustering.labels_)
+
