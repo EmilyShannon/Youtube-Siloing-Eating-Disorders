@@ -8,11 +8,11 @@ import os
 #Start the session using oauth keys
 session = Session()
 reddit = praw.Reddit(
-    client_id="hRkZ4kLCrusBj5LQA779mA",
-    client_secret="QpyLvbF5OlSroY-zLLMn3Bx8R9TVag",
-    password="LypsylBlu3",
-    user_agent="youtube-siloing-eating-disorders personal use script by u/Feeling_Rip_1307, https://github.com/EmilyShannon/Youtube-Siloing-Eating-Disorders",
-    username="Feeling_Rip_1307",
+    client_id="YOUR ID",
+    client_secret="YOUR CLIENT SECRET",
+    password="YOUR PASSWORD",
+    user_agent="YOUR USER AGENT",
+    username="YOUR USERNAME",
 )
 
 with open('subreddits-list.txt', 'r', encoding='utf-8') as subs_list, open('neutral_subreddits_list.txt', 'r', encoding='utf-8') as neutral_subs_list:
